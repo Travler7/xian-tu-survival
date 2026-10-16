@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: a621bfecc36c5434890adcbe8f95ac0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7059582652642610872
+    second: QingTengWoodSpirit_0
+  - first:
+      213: 488460310455091103
+    second: QingTengWoodSpirit_1
+  - first:
+      213: 807847110744891754
+    second: QingTengWoodSpirit_2
+  - first:
+      213: -676326893657947777
+    second: QingTengWoodSpirit_3
+  - first:
+      213: 1673974433128962759
+    second: QingTengWoodSpirit_4
+  - first:
+      213: 3793324667775364191
+    second: QingTengWoodSpirit_5
+  - first:
+      213: 7004635603202052048
+    second: QingTengWoodSpirit_6
+  - first:
+      213: 6274431702532262797
+    second: QingTengWoodSpirit_7
+  - first:
+      213: 3912395674477030979
+    second: QingTengWoodSpirit_8
+  - first:
+      213: 7134047945778499533
+    second: QingTengWoodSpirit_9
+  - first:
+      213: 2287371443620309200
+    second: QingTengWoodSpirit_10
+  - first:
+      213: -5170378492250814937
+    second: QingTengWoodSpirit_11
+  - first:
+      213: -8364747371318663532
+    second: QingTengWoodSpirit_12
+  - first:
+      213: 7365082114441902631
+    second: QingTengWoodSpirit_13
+  - first:
+      213: 6819012377492798563
+    second: QingTengWoodSpirit_14
+  - first:
+      213: 1504428045553574563
+    second: QingTengWoodSpirit_15
+  - first:
+      213: -7507315210872740075
+    second: QingTengWoodSpirit_16
+  - first:
+      213: -8972870734776916625
+    second: QingTengWoodSpirit_17
+  - first:
+      213: -4753396810438815615
+    second: QingTengWoodSpirit_18
+  - first:
+      213: -4505532618092134566
+    second: QingTengWoodSpirit_19
+  - first:
+      213: -7152832662807194374
+    second: QingTengWoodSpirit_20
+  - first:
+      213: 7806311730210245872
+    second: QingTengWoodSpirit_21
+  - first:
+      213: 4775733047368930336
+    second: QingTengWoodSpirit_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 811.8966
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: QingTengWoodSpirit_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 13
+        width: 818
+        height: 1001
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bec541f40da8f160800000000000000
+      internalID: 7059582652642610872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a8fb5aec04ee4ce42b02b87ae8cc74ff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      QingTengWoodSpirit_0: 7059582652642610872
+      QingTengWoodSpirit_1: 488460310455091103
+      QingTengWoodSpirit_10: 2287371443620309200
+      QingTengWoodSpirit_11: -5170378492250814937
+      QingTengWoodSpirit_12: -8364747371318663532
+      QingTengWoodSpirit_13: 7365082114441902631
+      QingTengWoodSpirit_14: 6819012377492798563
+      QingTengWoodSpirit_15: 1504428045553574563
+      QingTengWoodSpirit_16: -7507315210872740075
+      QingTengWoodSpirit_17: -8972870734776916625
+      QingTengWoodSpirit_18: -4753396810438815615
+      QingTengWoodSpirit_19: -4505532618092134566
+      QingTengWoodSpirit_2: 807847110744891754
+      QingTengWoodSpirit_20: -7152832662807194374
+      QingTengWoodSpirit_21: 7806311730210245872
+      QingTengWoodSpirit_22: 4775733047368930336
+      QingTengWoodSpirit_3: -676326893657947777
+      QingTengWoodSpirit_4: 1673974433128962759
+      QingTengWoodSpirit_5: 3793324667775364191
+      QingTengWoodSpirit_6: 7004635603202052048
+      QingTengWoodSpirit_7: 6274431702532262797
+      QingTengWoodSpirit_8: 3912395674477030979
+      QingTengWoodSpirit_9: 7134047945778499533
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 73b0ce1844787e54bb9925d15ad0baa3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1940429242719524527
+    second: RedMagic_0
+  - first:
+      213: 7193865799336006253
+    second: RedMagic_1
+  - first:
+      213: -2908850546019899644
+    second: RedMagic_2
+  - first:
+      213: 1374834101755834483
+    second: RedMagic_3
+  - first:
+      213: 2925679772534516017
+    second: RedMagic_4
+  - first:
+      213: 4986495243922717348
+    second: RedMagic_5
+  - first:
+      213: 3409018652488084698
+    second: RedMagic_6
+  - first:
+      213: -6592536423831755278
+    second: RedMagic_7
+  - first:
+      213: 3023875498998862192
+    second: RedMagic_8
+  - first:
+      213: 782983123554672351
+    second: RedMagic_9
+  - first:
+      213: -2919202775857352392
+    second: RedMagic_10
+  - first:
+      213: 5692528502017827424
+    second: RedMagic_11
+  - first:
+      213: 7913024096788928362
+    second: RedMagic_12
+  - first:
+      213: -5341564102151115388
+    second: RedMagic_13
+  - first:
+      213: -1131360179584715668
+    second: RedMagic_14
+  - first:
+      213: -3282294496117314773
+    second: RedMagic_15
+  - first:
+      213: -3041297803449199420
+    second: RedMagic_16
+  - first:
+      213: 4391104261982874956
+    second: RedMagic_17
+  - first:
+      213: -3785939304602323079
+    second: RedMagic_18
+  - first:
+      213: -6847795699185953754
+    second: RedMagic_19
+  - first:
+      213: -2501680078891224497
+    second: RedMagic_20
+  - first:
+      213: 332894472888784058
+    second: RedMagic_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500.72137
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedMagic_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 65
+        width: 330
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1592ce372e53215e0800000000000000
+      internalID: -1940429242719524527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d0adb9e784054964d8549d00470c146e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RedMagic_0: -1940429242719524527
+      RedMagic_1: 7193865799336006253
+      RedMagic_10: -2919202775857352392
+      RedMagic_11: 5692528502017827424
+      RedMagic_12: 7913024096788928362
+      RedMagic_13: -5341564102151115388
+      RedMagic_14: -1131360179584715668
+      RedMagic_15: -3282294496117314773
+      RedMagic_16: -3041297803449199420
+      RedMagic_17: 4391104261982874956
+      RedMagic_18: -3785939304602323079
+      RedMagic_19: -6847795699185953754
+      RedMagic_2: -2908850546019899644
+      RedMagic_20: -2501680078891224497
+      RedMagic_21: 332894472888784058
+      RedMagic_3: 1374834101755834483
+      RedMagic_4: 2925679772534516017
+      RedMagic_5: 4986495243922717348
+      RedMagic_6: 3409018652488084698
+      RedMagic_7: -6592536423831755278
+      RedMagic_8: 3023875498998862192
+      RedMagic_9: 782983123554672351
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

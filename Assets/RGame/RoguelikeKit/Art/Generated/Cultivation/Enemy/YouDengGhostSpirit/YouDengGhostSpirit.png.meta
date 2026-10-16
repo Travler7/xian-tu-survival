@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 60543ff9c93c4d84eb8f72491b7047fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4656259729434977519
+    second: YouDengGhostSpirit_0
+  - first:
+      213: 801505386741756300
+    second: YouDengGhostSpirit_1
+  - first:
+      213: 7919165377846261442
+    second: YouDengGhostSpirit_2
+  - first:
+      213: -5582464540521847338
+    second: YouDengGhostSpirit_3
+  - first:
+      213: -2352484446223620982
+    second: YouDengGhostSpirit_4
+  - first:
+      213: 7934864845312928697
+    second: YouDengGhostSpirit_5
+  - first:
+      213: -6417496591486154183
+    second: YouDengGhostSpirit_6
+  - first:
+      213: 2593339497363993165
+    second: YouDengGhostSpirit_7
+  - first:
+      213: -6489699866765366796
+    second: YouDengGhostSpirit_8
+  - first:
+      213: -8883551768406383356
+    second: YouDengGhostSpirit_9
+  - first:
+      213: -6852847900511882964
+    second: YouDengGhostSpirit_10
+  - first:
+      213: 2157531983566353107
+    second: YouDengGhostSpirit_11
+  - first:
+      213: -9134406170278826120
+    second: YouDengGhostSpirit_12
+  - first:
+      213: -3903594108697968375
+    second: YouDengGhostSpirit_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 891.6274
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YouDengGhostSpirit_0
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 38
+        width: 670
+        height: 961
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4ade2dd8b5e9040800000000000000
+      internalID: 4656259729434977519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7b73fbba503fbf2418bc3c6d5f5273ad
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YouDengGhostSpirit_0: 4656259729434977519
+      YouDengGhostSpirit_1: 801505386741756300
+      YouDengGhostSpirit_10: -6852847900511882964
+      YouDengGhostSpirit_11: 2157531983566353107
+      YouDengGhostSpirit_12: -9134406170278826120
+      YouDengGhostSpirit_13: -3903594108697968375
+      YouDengGhostSpirit_2: 7919165377846261442
+      YouDengGhostSpirit_3: -5582464540521847338
+      YouDengGhostSpirit_4: -2352484446223620982
+      YouDengGhostSpirit_5: 7934864845312928697
+      YouDengGhostSpirit_6: -6417496591486154183
+      YouDengGhostSpirit_7: 2593339497363993165
+      YouDengGhostSpirit_8: -6489699866765366796
+      YouDengGhostSpirit_9: -8883551768406383356
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

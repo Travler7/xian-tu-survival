@@ -1,0 +1,1237 @@
+fileFormatVersion: 2
+guid: 542414e26119f444f87e5da7dd5b8cd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8718324800651018352
+    second: YuJianJue_ZhuiXing_Projectile_0
+  - first:
+      213: -1547733314105198237
+    second: YuJianJue_ZhuiXing_Projectile_1
+  - first:
+      213: -9053506939678515330
+    second: YuJianJue_ZhuiXing_Projectile_2
+  - first:
+      213: 1055595524518596815
+    second: YuJianJue_ZhuiXing_Projectile_3
+  - first:
+      213: 5816284857573514026
+    second: YuJianJue_ZhuiXing_Projectile_4
+  - first:
+      213: -6047576669523472813
+    second: YuJianJue_ZhuiXing_Projectile_5
+  - first:
+      213: 2160548109722459190
+    second: YuJianJue_ZhuiXing_Projectile_6
+  - first:
+      213: 4378445494763586282
+    second: YuJianJue_ZhuiXing_Projectile_7
+  - first:
+      213: -4996195662238211877
+    second: YuJianJue_ZhuiXing_Projectile_8
+  - first:
+      213: -3566976040848939975
+    second: YuJianJue_ZhuiXing_Projectile_9
+  - first:
+      213: 5851599519011137150
+    second: YuJianJue_ZhuiXing_Projectile_10
+  - first:
+      213: -3404445630129811620
+    second: YuJianJue_ZhuiXing_Projectile_11
+  - first:
+      213: 2562008193405306221
+    second: YuJianJue_ZhuiXing_Projectile_12
+  - first:
+      213: 6629703479212829225
+    second: YuJianJue_ZhuiXing_Projectile_13
+  - first:
+      213: -8370454473667108869
+    second: YuJianJue_ZhuiXing_Projectile_14
+  - first:
+      213: 5153536687473321053
+    second: YuJianJue_ZhuiXing_Projectile_15
+  - first:
+      213: -4437768992271760313
+    second: YuJianJue_ZhuiXing_Projectile_16
+  - first:
+      213: -5845680843538800438
+    second: YuJianJue_ZhuiXing_Projectile_17
+  - first:
+      213: -5736663806568980028
+    second: YuJianJue_ZhuiXing_Projectile_18
+  - first:
+      213: 6599508968806063674
+    second: YuJianJue_ZhuiXing_Projectile_19
+  - first:
+      213: -1460924014449262497
+    second: YuJianJue_ZhuiXing_Projectile_20
+  - first:
+      213: -1229699745237125857
+    second: YuJianJue_ZhuiXing_Projectile_21
+  - first:
+      213: 5572381275485186280
+    second: YuJianJue_ZhuiXing_Projectile_22
+  - first:
+      213: 3726794379623502112
+    second: YuJianJue_ZhuiXing_Projectile_23
+  - first:
+      213: 62647128673316281
+    second: YuJianJue_ZhuiXing_Projectile_24
+  - first:
+      213: -9119028817033919256
+    second: YuJianJue_ZhuiXing_Projectile_25
+  - first:
+      213: -1638247496912200757
+    second: YuJianJue_ZhuiXing_Projectile_26
+  - first:
+      213: 1746687134132564822
+    second: YuJianJue_ZhuiXing_Projectile_27
+  - first:
+      213: -4431722189262814445
+    second: YuJianJue_ZhuiXing_Projectile_28
+  - first:
+      213: 7615706148254390243
+    second: YuJianJue_ZhuiXing_Projectile_29
+  - first:
+      213: 6479728059749021990
+    second: YuJianJue_ZhuiXing_Projectile_30
+  - first:
+      213: -1685691927002564957
+    second: YuJianJue_ZhuiXing_Projectile_31
+  - first:
+      213: -6190871035667531550
+    second: YuJianJue_ZhuiXing_Projectile_32
+  - first:
+      213: 7039698547521580394
+    second: YuJianJue_ZhuiXing_Projectile_33
+  - first:
+      213: 7225449048953816999
+    second: YuJianJue_ZhuiXing_Projectile_34
+  - first:
+      213: -6516324446232875557
+    second: YuJianJue_ZhuiXing_Projectile_35
+  - first:
+      213: -3550401059654056629
+    second: YuJianJue_ZhuiXing_Projectile_36
+  - first:
+      213: -8839482366594853382
+    second: YuJianJue_ZhuiXing_Projectile_37
+  - first:
+      213: -1175662901274322668
+    second: YuJianJue_ZhuiXing_Projectile_38
+  - first:
+      213: 8744532469796338982
+    second: YuJianJue_ZhuiXing_Projectile_39
+  - first:
+      213: 7755807710838384559
+    second: YuJianJue_ZhuiXing_Projectile_40
+  - first:
+      213: 5837348790272152463
+    second: YuJianJue_ZhuiXing_Projectile_41
+  - first:
+      213: -4406036287688468336
+    second: YuJianJue_ZhuiXing_Projectile_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 696
+        width: 469
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070484be636bdf870800000000000000
+      internalID: 8718324800651018352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_1
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 807
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369b8b540c8558ae0800000000000000
+      internalID: -1547733314105198237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 788
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f9de8e76b7b5280800000000000000
+      internalID: -9053506939678515330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 721
+        width: 463
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc05c69698a36ae00800000000000000
+      internalID: 1055595524518596815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_4
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 787
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b1720134897b050800000000000000
+      internalID: 5816284857573514026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_5
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 801
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e0d1d7f01b21ca0800000000000000
+      internalID: -6047576669523472813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 745
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c16280f0fcbfd10800000000000000
+      internalID: 2160548109722459190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_7
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 743
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae20bcfbafc53cc30800000000000000
+      internalID: 4378445494763586282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 738
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0a1f32482f9aab0800000000000000
+      internalID: -4996195662238211877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_9
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 736
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934aed2803e8f7ec0800000000000000
+      internalID: -3566976040848939975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_10
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 740
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76618a62ce053150800000000000000
+      internalID: 5851599519011137150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_11
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 721
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f4bf6acbaf0c0d0800000000000000
+      internalID: -3404445630129811620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 708
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d654097b0e41e8320800000000000000
+      internalID: 2562008193405306221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 708
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ae6ac4030710c50800000000000000
+      internalID: 6629703479212829225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 714
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff1e78310c26db80800000000000000
+      internalID: -8370454473667108869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 999
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d546ac9005a058740800000000000000
+      internalID: 5153536687473321053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_16
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 693
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74406642d90e962c0800000000000000
+      internalID: -4437768992271760313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_17
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 682
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0609a9e38ffdea0800000000000000
+      internalID: -5845680843538800438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_18
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 314
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1ad9d79a64360b0800000000000000
+      internalID: -5736663806568980028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_19
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 321
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e90b1017a269b50800000000000000
+      internalID: 6599508968806063674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_20
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 313
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f500ae26951c9bbe0800000000000000
+      internalID: -1460924014449262497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_21
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 308
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15b0c0d89a3feee0800000000000000
+      internalID: -1229699745237125857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_22
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 293
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8255e0f33155d40800000000000000
+      internalID: 5572381275485186280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_23
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 277
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021916c2ebb38b330800000000000000
+      internalID: 3726794379623502112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 264
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd65ca4b319ed000800000000000000
+      internalID: 62647128673316281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_25
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 248
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e484280b93b27180800000000000000
+      internalID: -9119028817033919256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_26
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 220
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb1064d496c349e0800000000000000
+      internalID: -1638247496912200757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 227
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65377b3b1ba7d3810800000000000000
+      internalID: 1746687134132564822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_28
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 222
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31306cd262c5f72c0800000000000000
+      internalID: -4431722189262814445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 224
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e71670646c60b960800000000000000
+      internalID: 7615706148254390243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 209
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629b87ad65e9ce950800000000000000
+      internalID: 6479728059749021990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 202
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6b442af183b98e0800000000000000
+      internalID: -1685691927002564957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_32
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 188
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e838ccf79b951aa0800000000000000
+      internalID: -6190871035667531550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 182
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d6bd2f78802b160800000000000000
+      internalID: 7039698547521580394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_34
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 163
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a78391c0a3f54460800000000000000
+      internalID: 7225449048953816999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_35
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 161
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd681de07d5195a0800000000000000
+      internalID: -6516324446232875557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_36
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 170
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45462d0c017abec0800000000000000
+      internalID: -3550401059654056629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_37
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5d8c40f99d35580800000000000000
+      internalID: -8839482366594853382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_38
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 171
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41950f9f1d43fafe0800000000000000
+      internalID: -1175662901274322668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_39
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 158
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d741563f1da5970800000000000000
+      internalID: 8744532469796338982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_40
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 158
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7e1ce550a22ab60800000000000000
+      internalID: 7755807710838384559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_41
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 46
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f835a321ccd620150800000000000000
+      internalID: 5837348790272152463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YuJianJue_ZhuiXing_Projectile_42
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09819dc275d9ad2c0800000000000000
+      internalID: -4406036287688468336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YuJianJue_ZhuiXing_Projectile_0: 8718324800651018352
+      YuJianJue_ZhuiXing_Projectile_1: -1547733314105198237
+      YuJianJue_ZhuiXing_Projectile_10: 5851599519011137150
+      YuJianJue_ZhuiXing_Projectile_11: -3404445630129811620
+      YuJianJue_ZhuiXing_Projectile_12: 2562008193405306221
+      YuJianJue_ZhuiXing_Projectile_13: 6629703479212829225
+      YuJianJue_ZhuiXing_Projectile_14: -8370454473667108869
+      YuJianJue_ZhuiXing_Projectile_15: 5153536687473321053
+      YuJianJue_ZhuiXing_Projectile_16: -4437768992271760313
+      YuJianJue_ZhuiXing_Projectile_17: -5845680843538800438
+      YuJianJue_ZhuiXing_Projectile_18: -5736663806568980028
+      YuJianJue_ZhuiXing_Projectile_19: 6599508968806063674
+      YuJianJue_ZhuiXing_Projectile_2: -9053506939678515330
+      YuJianJue_ZhuiXing_Projectile_20: -1460924014449262497
+      YuJianJue_ZhuiXing_Projectile_21: -1229699745237125857
+      YuJianJue_ZhuiXing_Projectile_22: 5572381275485186280
+      YuJianJue_ZhuiXing_Projectile_23: 3726794379623502112
+      YuJianJue_ZhuiXing_Projectile_24: 62647128673316281
+      YuJianJue_ZhuiXing_Projectile_25: -9119028817033919256
+      YuJianJue_ZhuiXing_Projectile_26: -1638247496912200757
+      YuJianJue_ZhuiXing_Projectile_27: 1746687134132564822
+      YuJianJue_ZhuiXing_Projectile_28: -4431722189262814445
+      YuJianJue_ZhuiXing_Projectile_29: 7615706148254390243
+      YuJianJue_ZhuiXing_Projectile_3: 1055595524518596815
+      YuJianJue_ZhuiXing_Projectile_30: 6479728059749021990
+      YuJianJue_ZhuiXing_Projectile_31: -1685691927002564957
+      YuJianJue_ZhuiXing_Projectile_32: -6190871035667531550
+      YuJianJue_ZhuiXing_Projectile_33: 7039698547521580394
+      YuJianJue_ZhuiXing_Projectile_34: 7225449048953816999
+      YuJianJue_ZhuiXing_Projectile_35: -6516324446232875557
+      YuJianJue_ZhuiXing_Projectile_36: -3550401059654056629
+      YuJianJue_ZhuiXing_Projectile_37: -8839482366594853382
+      YuJianJue_ZhuiXing_Projectile_38: -1175662901274322668
+      YuJianJue_ZhuiXing_Projectile_39: 8744532469796338982
+      YuJianJue_ZhuiXing_Projectile_4: 5816284857573514026
+      YuJianJue_ZhuiXing_Projectile_40: 7755807710838384559
+      YuJianJue_ZhuiXing_Projectile_41: 5837348790272152463
+      YuJianJue_ZhuiXing_Projectile_42: -4406036287688468336
+      YuJianJue_ZhuiXing_Projectile_5: -6047576669523472813
+      YuJianJue_ZhuiXing_Projectile_6: 2160548109722459190
+      YuJianJue_ZhuiXing_Projectile_7: 4378445494763586282
+      YuJianJue_ZhuiXing_Projectile_8: -4996195662238211877
+      YuJianJue_ZhuiXing_Projectile_9: -3566976040848939975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

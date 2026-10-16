@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: d180780b3ab47524f9a6182dcde6afab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -680208230702983858
+    second: Xianxia_SpiritOrb_v1_0
+  - first:
+      213: -6662874116134967485
+    second: Xianxia_SpiritOrb_v1_1
+  - first:
+      213: -2765534557054940028
+    second: Xianxia_SpiritOrb_v1_2
+  - first:
+      213: -4804412997777017062
+    second: Xianxia_SpiritOrb_v1_3
+  - first:
+      213: -5146161907158211648
+    second: Xianxia_SpiritOrb_v1_4
+  - first:
+      213: -28937204428963400
+    second: Xianxia_SpiritOrb_v1_5
+  - first:
+      213: -3745688370544783579
+    second: Xianxia_SpiritOrb_v1_6
+  - first:
+      213: 88337696132164786
+    second: Xianxia_SpiritOrb_v1_7
+  - first:
+      213: 521204482106723617
+    second: Xianxia_SpiritOrb_v1_8
+  - first:
+      213: -824396380462737832
+    second: Xianxia_SpiritOrb_v1_9
+  - first:
+      213: 1315905189000897609
+    second: Xianxia_SpiritOrb_v1_10
+  - first:
+      213: -2413286500372251235
+    second: Xianxia_SpiritOrb_v1_11
+  - first:
+      213: 2655601519406724529
+    second: Xianxia_SpiritOrb_v1_12
+  - first:
+      213: -8261613315180181500
+    second: Xianxia_SpiritOrb_v1_13
+  - first:
+      213: -5643987256992421412
+    second: Xianxia_SpiritOrb_v1_14
+  - first:
+      213: -6642288768862634426
+    second: Xianxia_SpiritOrb_v1_15
+  - first:
+      213: 8381977323202816606
+    second: Xianxia_SpiritOrb_v1_16
+  - first:
+      213: 4215979559547224324
+    second: Xianxia_SpiritOrb_v1_17
+  - first:
+      213: -8526783790749913209
+    second: Xianxia_SpiritOrb_v1_18
+  - first:
+      213: -4880824081114363101
+    second: Xianxia_SpiritOrb_v1_19
+  - first:
+      213: -2446998871226083146
+    second: Xianxia_SpiritOrb_v1_20
+  - first:
+      213: 793829332697965676
+    second: Xianxia_SpiritOrb_v1_21
+  - first:
+      213: -7608983115058123008
+    second: Xianxia_SpiritOrb_v1_22
+  - first:
+      213: 1683460480922632555
+    second: Xianxia_SpiritOrb_v1_23
+  - first:
+      213: 1040164519943709891
+    second: Xianxia_SpiritOrb_v1_24
+  - first:
+      213: 8231099234985898868
+    second: Xianxia_SpiritOrb_v1_25
+  - first:
+      213: 3540464708647698324
+    second: Xianxia_SpiritOrb_v1_26
+  - first:
+      213: -1234326105040342959
+    second: Xianxia_SpiritOrb_v1_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 933.14307
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xianxia_SpiritOrb_v1_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 74
+        width: 974
+        height: 894
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45d6a3d73a6f86f0800000000000000
+      internalID: -680208230702983858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e185055cc43093244bde29902fd4b3bd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Xianxia_SpiritOrb_v1_0: -680208230702983858
+      Xianxia_SpiritOrb_v1_1: -6662874116134967485
+      Xianxia_SpiritOrb_v1_10: 1315905189000897609
+      Xianxia_SpiritOrb_v1_11: -2413286500372251235
+      Xianxia_SpiritOrb_v1_12: 2655601519406724529
+      Xianxia_SpiritOrb_v1_13: -8261613315180181500
+      Xianxia_SpiritOrb_v1_14: -5643987256992421412
+      Xianxia_SpiritOrb_v1_15: -6642288768862634426
+      Xianxia_SpiritOrb_v1_16: 8381977323202816606
+      Xianxia_SpiritOrb_v1_17: 4215979559547224324
+      Xianxia_SpiritOrb_v1_18: -8526783790749913209
+      Xianxia_SpiritOrb_v1_19: -4880824081114363101
+      Xianxia_SpiritOrb_v1_2: -2765534557054940028
+      Xianxia_SpiritOrb_v1_20: -2446998871226083146
+      Xianxia_SpiritOrb_v1_21: 793829332697965676
+      Xianxia_SpiritOrb_v1_22: -7608983115058123008
+      Xianxia_SpiritOrb_v1_23: 1683460480922632555
+      Xianxia_SpiritOrb_v1_24: 1040164519943709891
+      Xianxia_SpiritOrb_v1_25: 8231099234985898868
+      Xianxia_SpiritOrb_v1_26: 3540464708647698324
+      Xianxia_SpiritOrb_v1_27: -1234326105040342959
+      Xianxia_SpiritOrb_v1_3: -4804412997777017062
+      Xianxia_SpiritOrb_v1_4: -5146161907158211648
+      Xianxia_SpiritOrb_v1_5: -28937204428963400
+      Xianxia_SpiritOrb_v1_6: -3745688370544783579
+      Xianxia_SpiritOrb_v1_7: 88337696132164786
+      Xianxia_SpiritOrb_v1_8: 521204482106723617
+      Xianxia_SpiritOrb_v1_9: -824396380462737832
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

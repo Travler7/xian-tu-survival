@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: bcf4a24ae0ec91a438cdfa653f6318a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6499301424046805731
+    second: CrystalHealerFairy_LingMuJisi_v1_0
+  - first:
+      213: 609160655432013628
+    second: CrystalHealerFairy_LingMuJisi_v1_1
+  - first:
+      213: -5986287232471520136
+    second: CrystalHealerFairy_LingMuJisi_v1_2
+  - first:
+      213: -6426780737519596048
+    second: CrystalHealerFairy_LingMuJisi_v1_3
+  - first:
+      213: -5655678586151102279
+    second: CrystalHealerFairy_LingMuJisi_v1_4
+  - first:
+      213: 8288662836222267722
+    second: CrystalHealerFairy_LingMuJisi_v1_5
+  - first:
+      213: 6052652035728874480
+    second: CrystalHealerFairy_LingMuJisi_v1_6
+  - first:
+      213: 992971009954210926
+    second: CrystalHealerFairy_LingMuJisi_v1_7
+  - first:
+      213: 5412910140026071037
+    second: CrystalHealerFairy_LingMuJisi_v1_8
+  - first:
+      213: 2581257530823985823
+    second: CrystalHealerFairy_LingMuJisi_v1_9
+  - first:
+      213: 3507927581422952340
+    second: CrystalHealerFairy_LingMuJisi_v1_10
+  - first:
+      213: 2315732382023474981
+    second: CrystalHealerFairy_LingMuJisi_v1_11
+  - first:
+      213: 9036857623941187509
+    second: CrystalHealerFairy_LingMuJisi_v1_12
+  - first:
+      213: -7036400879296172459
+    second: CrystalHealerFairy_LingMuJisi_v1_13
+  - first:
+      213: 5633477424415158371
+    second: CrystalHealerFairy_LingMuJisi_v1_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 339
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrystalHealerFairy_LingMuJisi_v1_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 18
+        width: 592
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1def732ac7ddc5a0800000000000000
+      internalID: -6499301424046805731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalHealerFairy_LingMuJisi_v1_1
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 521
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c375b2e736c247800800000000000000
+      internalID: 609160655432013628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalHealerFairy_LingMuJisi_v1_2
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 511
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c24119a7f6ceca0800000000000000
+      internalID: -5986287232471520136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalHealerFairy_LingMuJisi_v1_3
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 503
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd42d248fc7fc6a0800000000000000
+      internalID: -6426780737519596048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalHealerFairy_LingMuJisi_v1_4
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 483
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b81eac7a4ef281b0800000000000000
+      internalID: -5655678586151102279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalHealerFairy_LingMuJisi_v1_5
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 467
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4192003fee370370800000000000000
+      internalID: 8288662836222267722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalHealerFairy_LingMuJisi_v1_6
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 419
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb1aaa45f65ff350800000000000000
+      internalID: 6052652035728874480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalHealerFairy_LingMuJisi_v1_7
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 415
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64e4906fddb7cd00800000000000000
+      internalID: 992971009954210926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalHealerFairy_LingMuJisi_v1_8
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 417
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df72d51f7158e1b40800000000000000
+      internalID: 5412910140026071037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalHealerFairy_LingMuJisi_v1_9
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 397
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ac0965c0872d320800000000000000
+      internalID: 2581257530823985823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalHealerFairy_LingMuJisi_v1_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 372
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f928cac89aea030800000000000000
+      internalID: 3507927581422952340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalHealerFairy_LingMuJisi_v1_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 352
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fd0690552232020800000000000000
+      internalID: 2315732382023474981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalHealerFairy_LingMuJisi_v1_12
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 344
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b78bc0312e596d70800000000000000
+      internalID: 9036857623941187509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalHealerFairy_LingMuJisi_v1_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 310
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e2e444eaea95e90800000000000000
+      internalID: -7036400879296172459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalHealerFairy_LingMuJisi_v1_14
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 314
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360b27cbed12e2e40800000000000000
+      internalID: 5633477424415158371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CrystalHealerFairy_LingMuJisi_v1_0: -6499301424046805731
+      CrystalHealerFairy_LingMuJisi_v1_1: 609160655432013628
+      CrystalHealerFairy_LingMuJisi_v1_10: 3507927581422952340
+      CrystalHealerFairy_LingMuJisi_v1_11: 2315732382023474981
+      CrystalHealerFairy_LingMuJisi_v1_12: 9036857623941187509
+      CrystalHealerFairy_LingMuJisi_v1_13: -7036400879296172459
+      CrystalHealerFairy_LingMuJisi_v1_14: 5633477424415158371
+      CrystalHealerFairy_LingMuJisi_v1_2: -5986287232471520136
+      CrystalHealerFairy_LingMuJisi_v1_3: -6426780737519596048
+      CrystalHealerFairy_LingMuJisi_v1_4: -5655678586151102279
+      CrystalHealerFairy_LingMuJisi_v1_5: 8288662836222267722
+      CrystalHealerFairy_LingMuJisi_v1_6: 6052652035728874480
+      CrystalHealerFairy_LingMuJisi_v1_7: 992971009954210926
+      CrystalHealerFairy_LingMuJisi_v1_8: 5412910140026071037
+      CrystalHealerFairy_LingMuJisi_v1_9: 2581257530823985823
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

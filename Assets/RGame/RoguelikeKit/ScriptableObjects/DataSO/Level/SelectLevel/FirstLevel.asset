@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88b52ea73fa5b9d4d936793fa4e30a2c, type: 3}
+  m_Name: FirstLevel
+  m_EditorClassIdentifier: 
+  Description: "\u9752\u4E91\u5916\u57DF"
+  LevelDescription: "\u7B2C\u4E00\u5173\uFF1A\u9752\u4E91\u5916\u57DF\uFF0C\u7075\u6C14\u521D\u73B0"
+  PreviewImage: {fileID: 21300000, guid: 39bd6c790b07e0848a28edef59fabb36, type: 3}
+  MapConfig: {fileID: 11400000, guid: c8102191cd029c548ae0acac2e1fa17d, type: 2}
+  StageConfig: {fileID: 11400000, guid: abdfd2b20dc07864a9d7c26159fd4863, type: 2}

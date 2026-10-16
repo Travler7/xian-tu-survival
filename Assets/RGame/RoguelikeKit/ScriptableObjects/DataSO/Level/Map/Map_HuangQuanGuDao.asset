@@ -1,0 +1,236 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad3136d190f95954498e19d21de8936f, type: 3}
+  m_Name: Map_HuangQuanGuDao
+  m_EditorClassIdentifier: 
+  tiles:
+  - sprite: {fileID: 21300000, guid: 38bd61ab9c2a803408f7c482c1c2ba76, type: 3}
+    weight: 200
+  - sprite: {fileID: 21300000, guid: 4e55075aef72cef4a80e5b7156ed518b, type: 3}
+    weight: 3
+  - sprite: {fileID: 21300000, guid: 85ff866d5759077469adabb9f0e9afd6, type: 3}
+    weight: 3
+  - sprite: {fileID: 21300000, guid: de85cd1ad0db2734687aa1a1b6b7d61e, type: 3}
+    weight: 1
+  - sprite: {fileID: 21300000, guid: 42342579b41b4414fa287b79dd35e703, type: 3}
+    weight: 1
+  - sprite: {fileID: 21300000, guid: 5129cdb478bb26d41a78aac517d146c4, type: 3}
+    weight: 3
+  mapMaterial: {fileID: 0}
+  backgroundSprite: {fileID: 21300000, guid: 5b0ae7ec6709c8340a8a44245742e452, type: 3}
+  Width: 100
+  Height: 100
+  PropCount: 20
+  decals:
+  - sprite: {fileID: 21300000, guid: b74006745330fc64eb31a43ef57bf900, type: 3}
+    weight: 1
+    scaleRange: {x: 10, y: 18}
+    minAlpha: 0.05
+    maxAlpha: 0.12
+    maxRotation: 180
+    clusterMin: 1
+    clusterMax: 1
+    clusterRadius: 0
+  - sprite: {fileID: 21300000, guid: 7047a4cbaa59eac4bbf9b5d887b16a15, type: 3}
+    weight: 1
+    scaleRange: {x: 10, y: 18}
+    minAlpha: 0.05
+    maxAlpha: 0.12
+    maxRotation: 180
+    clusterMin: 1
+    clusterMax: 1
+    clusterRadius: 0
+  - sprite: {fileID: 21300000, guid: 9716e1d1cb812be46970a3fe8f30b530, type: 3}
+    weight: 1
+    scaleRange: {x: 10, y: 18}
+    minAlpha: 0.05
+    maxAlpha: 0.12
+    maxRotation: 180
+    clusterMin: 1
+    clusterMax: 1
+    clusterRadius: 0
+  - sprite: {fileID: 21300000, guid: a3852862050ace9458265b0bf076d6cf, type: 3}
+    weight: 1
+    scaleRange: {x: 10, y: 18}
+    minAlpha: 0.05
+    maxAlpha: 0.12
+    maxRotation: 180
+    clusterMin: 1
+    clusterMax: 1
+    clusterRadius: 0
+  - sprite: {fileID: 21300000, guid: 45288e01fb7adc7498570a8aa60a48ef, type: 3}
+    weight: 9
+    scaleRange: {x: 0.8, y: 1.5}
+    minAlpha: 0.55
+    maxAlpha: 0.8
+    maxRotation: 180
+    clusterMin: 1
+    clusterMax: 2
+    clusterRadius: 0.5
+  - sprite: {fileID: 21300000, guid: 67510307ffb1c4543a6ece1551c47361, type: 3}
+    weight: 6
+    scaleRange: {x: 0.7, y: 1.3}
+    minAlpha: 0.5
+    maxAlpha: 0.75
+    maxRotation: 20
+    clusterMin: 1
+    clusterMax: 2
+    clusterRadius: 0.4
+  - sprite: {fileID: 21300000, guid: 6866e66d42643644d9330af2cb34b3f7, type: 3}
+    weight: 7
+    scaleRange: {x: 0.5, y: 1}
+    minAlpha: 0.7
+    maxAlpha: 0.95
+    maxRotation: 180
+    clusterMin: 2
+    clusterMax: 4
+    clusterRadius: 0.5
+  - sprite: {fileID: 21300000, guid: a374e0c37197eb245a4f45e800c0c9e5, type: 3}
+    weight: 5
+    scaleRange: {x: 0.5, y: 1}
+    minAlpha: 0.7
+    maxAlpha: 0.95
+    maxRotation: 30
+    clusterMin: 1
+    clusterMax: 3
+    clusterRadius: 0.5
+  - sprite: {fileID: 21300000, guid: f03c85c2584787c4488dd30001e28e97, type: 3}
+    weight: 4
+    scaleRange: {x: 0.6, y: 1.2}
+    minAlpha: 0.7
+    maxAlpha: 0.95
+    maxRotation: 180
+    clusterMin: 1
+    clusterMax: 2
+    clusterRadius: 0.4
+  - sprite: {fileID: 21300000, guid: 8c243ea238cd40d48b05fcffe044d5ca, type: 3}
+    weight: 4
+    scaleRange: {x: 0.6, y: 1.1}
+    minAlpha: 0.5
+    maxAlpha: 0.75
+    maxRotation: 20
+    clusterMin: 1
+    clusterMax: 2
+    clusterRadius: 0.4
+  - sprite: {fileID: 21300000, guid: 72efdef2041dd85439e59f8698e48e5b, type: 3}
+    weight: 6
+    scaleRange: {x: 0.9, y: 1.6}
+    minAlpha: 0.35
+    maxAlpha: 0.6
+    maxRotation: 180
+    clusterMin: 1
+    clusterMax: 1
+    clusterRadius: 0
+  - sprite: {fileID: 21300000, guid: 377f705337fcab8419c0ebef80716fc9, type: 3}
+    weight: 4
+    scaleRange: {x: 0.8, y: 1.4}
+    minAlpha: 0.35
+    maxAlpha: 0.6
+    maxRotation: 180
+    clusterMin: 1
+    clusterMax: 1
+    clusterRadius: 0
+  - sprite: {fileID: 21300000, guid: 2040b86fc1d9142428071911230e394b, type: 3}
+    weight: 3
+    scaleRange: {x: 0.7, y: 1.2}
+    minAlpha: 0.3
+    maxAlpha: 0.5
+    maxRotation: 0
+    clusterMin: 1
+    clusterMax: 1
+    clusterRadius: 0
+  - sprite: {fileID: 21300000, guid: d3daf5bcf5c5a294ba3add5f1a4e8485, type: 3}
+    weight: 3
+    scaleRange: {x: 0.6, y: 1.1}
+    minAlpha: 0.6
+    maxAlpha: 0.85
+    maxRotation: 180
+    clusterMin: 2
+    clusterMax: 4
+    clusterRadius: 0.5
+  - sprite: {fileID: 21300000, guid: 994c07693de04a142b3cc7a76448263d, type: 3}
+    weight: 2
+    scaleRange: {x: 0.8, y: 1.3}
+    minAlpha: 0.4
+    maxAlpha: 0.65
+    maxRotation: 10
+    clusterMin: 1
+    clusterMax: 1
+    clusterRadius: 0
+  - sprite: {fileID: 21300000, guid: 397b21bb3d7c1b8439c0a0096606d6ba, type: 3}
+    weight: 2
+    scaleRange: {x: 0.7, y: 1.2}
+    minAlpha: 0.5
+    maxAlpha: 0.75
+    maxRotation: 12
+    clusterMin: 1
+    clusterMax: 1
+    clusterRadius: 0
+  DecalSpacing: 4.5
+  DecalDensity: 0.6
+  DecalClearRadius: 6
+  props: []
+  PropJitter: 0.45
+  PropScaleRange: {x: 0.85, y: 1.15}
+  PropRotationRange: {x: -18, y: 18}
+  PropClusterMin: 1
+  PropClusterMax: 2
+  PropClearRadius: 6
+  decorations:
+  - prefab: {fileID: 8101547031361905631, guid: 9c7301eff3c0f2248b779ff98bf22675, type: 3}
+    weight: 10
+    scaleRange: {x: 0.9, y: 1.4}
+    rotationRange: {x: -12, y: 12}
+    clusterMin: 2
+    clusterMax: 4
+    clusterRadius: 0.9
+  - prefab: {fileID: 8371823745801180210, guid: 3ff1dfa43dd2d6b4582bbe34ee89bcef, type: 3}
+    weight: 6
+    scaleRange: {x: 0.7, y: 1.1}
+    rotationRange: {x: -10, y: 10}
+    clusterMin: 1
+    clusterMax: 3
+    clusterRadius: 0.7
+  - prefab: {fileID: 890720696151511660, guid: 4bf83393e1468324b89822457b9942d4, type: 3}
+    weight: 3
+    scaleRange: {x: 0.7, y: 1.2}
+    rotationRange: {x: -25, y: 25}
+    clusterMin: 1
+    clusterMax: 2
+    clusterRadius: 0.7
+  - prefab: {fileID: 2845774215539556851, guid: 55ddab0d23938544b927ab19be4e26f9, type: 3}
+    weight: 2
+    scaleRange: {x: 0.8, y: 1.2}
+    rotationRange: {x: -8, y: 8}
+    clusterMin: 1
+    clusterMax: 2
+    clusterRadius: 0.7
+  - prefab: {fileID: 7580485230959242115, guid: ef07c8ec53d70654bb168d1b3362938f, type: 3}
+    weight: 2
+    scaleRange: {x: 0.8, y: 1.3}
+    rotationRange: {x: -18, y: 18}
+    clusterMin: 1
+    clusterMax: 1
+    clusterRadius: 0
+  DecorationCount: 120
+  DecorationClearRadius: 4
+  ambienceSprites:
+  - {fileID: 21300000, guid: 1e7e89e702454344597deb08512c77b3, type: 3}
+  - {fileID: 21300000, guid: e4ca52ba10bbcf54b9d0fff99b192c57, type: 3}
+  - {fileID: 21300000, guid: 7a44608098822dc4d92ae8bd716080b7, type: 3}
+  - {fileID: 21300000, guid: a0939c0705a103849a942dd9d97be3f1, type: 3}
+  AmbienceCount: 60
+  AmbienceScaleRange: {x: 0.18, y: 0.5}
+  AmbienceSpeedRange: {x: 0.15, y: 0.5}
+  AmbienceSwayRange: {x: -0.45, y: 0.45}
+  AmbienceAlpha: 0.6
+  AmbienceArea: {x: 36, y: 22}

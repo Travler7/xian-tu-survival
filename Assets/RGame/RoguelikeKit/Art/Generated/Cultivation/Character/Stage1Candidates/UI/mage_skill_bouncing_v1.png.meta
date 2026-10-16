@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: 80025d23dfa15264faafc1f3ae52a173
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6621647663065556848
+    second: mage_skill_bouncing_v1_0
+  - first:
+      213: -8459278498227263996
+    second: mage_skill_bouncing_v1_1
+  - first:
+      213: -2329182784606727705
+    second: mage_skill_bouncing_v1_2
+  - first:
+      213: -2112165263976310459
+    second: mage_skill_bouncing_v1_3
+  - first:
+      213: 5304980600402752660
+    second: mage_skill_bouncing_v1_4
+  - first:
+      213: -3909866016485159498
+    second: mage_skill_bouncing_v1_5
+  - first:
+      213: -6603373349005091876
+    second: mage_skill_bouncing_v1_6
+  - first:
+      213: 2827792239498733437
+    second: mage_skill_bouncing_v1_7
+  - first:
+      213: -4263279295771704532
+    second: mage_skill_bouncing_v1_8
+  - first:
+      213: 7855634412198003841
+    second: mage_skill_bouncing_v1_9
+  - first:
+      213: 7317160013769967260
+    second: mage_skill_bouncing_v1_10
+  - first:
+      213: -6899631988672369637
+    second: mage_skill_bouncing_v1_11
+  - first:
+      213: -8879454861554487110
+    second: mage_skill_bouncing_v1_12
+  - first:
+      213: -2393855841326264252
+    second: mage_skill_bouncing_v1_13
+  - first:
+      213: 5857540275834943437
+    second: mage_skill_bouncing_v1_14
+  - first:
+      213: 231883357836329416
+    second: mage_skill_bouncing_v1_15
+  - first:
+      213: -1285369848623948981
+    second: mage_skill_bouncing_v1_16
+  - first:
+      213: -2199865848714060890
+    second: mage_skill_bouncing_v1_17
+  - first:
+      213: 409205091252170023
+    second: mage_skill_bouncing_v1_18
+  - first:
+      213: -3200393279570756333
+    second: mage_skill_bouncing_v1_19
+  - first:
+      213: 2962669324731153783
+    second: mage_skill_bouncing_v1_20
+  - first:
+      213: -4427577755124740556
+    second: mage_skill_bouncing_v1_21
+  - first:
+      213: -7558079317134757737
+    second: mage_skill_bouncing_v1_22
+  - first:
+      213: 51141793924455252
+    second: mage_skill_bouncing_v1_23
+  - first:
+      213: 823823908158256896
+    second: mage_skill_bouncing_v1_24
+  - first:
+      213: -8468875796239364366
+    second: mage_skill_bouncing_v1_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1014
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0989e2f888e2b14a0800000000000000
+      internalID: -6621647663065556848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 937
+        width: 109
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4066019660b9a9a80800000000000000
+      internalID: -8459278498227263996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_2
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 928
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e19f8219941dafd0800000000000000
+      internalID: -2329182784606727705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_3
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 923
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549d5c512e410b2e0800000000000000
+      internalID: -2112165263976310459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_4
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 917
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4943853cfb31f9940800000000000000
+      internalID: 5304980600402752660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 623
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdc708c29d5db9c0800000000000000
+      internalID: -3909866016485159498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 618
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb154ddcea1c54a0800000000000000
+      internalID: -6603373349005091876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 620
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77aded3f065e3720800000000000000
+      internalID: 2827792239498733437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 563
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23004d711ac5d4c0800000000000000
+      internalID: -4263279295771704532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 568
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184856080e1d40d60800000000000000
+      internalID: 7855634412198003841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_10
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 433
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c968379b346cb8560800000000000000
+      internalID: 7317160013769967260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ce24a13459f30a0800000000000000
+      internalID: -6899631988672369637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_12
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 98
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0fde949d6d5c480800000000000000
+      internalID: -8879454861554487110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 91
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4401146abc057ced0800000000000000
+      internalID: -2393855841326264252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_14
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 90
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc77fa6a8d92a4150800000000000000
+      internalID: 5857540275834943437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_15
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 90
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1c8257fa0d73300800000000000000
+      internalID: 231883357836329416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 70
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b95cfcee2792ee0800000000000000
+      internalID: -1285369848623948981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_17
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 86
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab92ed7aa18871e0800000000000000
+      internalID: -2199865848714060890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_18
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 84
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ded58ccd9cda500800000000000000
+      internalID: 409205091252170023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 71
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d33a5c44be593d0800000000000000
+      internalID: -3200393279570756333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 9
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dfb8fcd048d1920800000000000000
+      internalID: 2962669324731153783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_21
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 48
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e4e527d751e82c0800000000000000
+      internalID: -4427577755124740556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 35
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790b4fdc7ee4c1790800000000000000
+      internalID: -7558079317134757737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 34
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b1b0cc031b5b000800000000000000
+      internalID: 51141793924455252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_24
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 25
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0073f3bca7fce6b00800000000000000
+      internalID: 823823908158256896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_skill_bouncing_v1_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 10
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fecf365552887a80800000000000000
+      internalID: -8468875796239364366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mage_skill_bouncing_v1_0: -6621647663065556848
+      mage_skill_bouncing_v1_1: -8459278498227263996
+      mage_skill_bouncing_v1_10: 7317160013769967260
+      mage_skill_bouncing_v1_11: -6899631988672369637
+      mage_skill_bouncing_v1_12: -8879454861554487110
+      mage_skill_bouncing_v1_13: -2393855841326264252
+      mage_skill_bouncing_v1_14: 5857540275834943437
+      mage_skill_bouncing_v1_15: 231883357836329416
+      mage_skill_bouncing_v1_16: -1285369848623948981
+      mage_skill_bouncing_v1_17: -2199865848714060890
+      mage_skill_bouncing_v1_18: 409205091252170023
+      mage_skill_bouncing_v1_19: -3200393279570756333
+      mage_skill_bouncing_v1_2: -2329182784606727705
+      mage_skill_bouncing_v1_20: 2962669324731153783
+      mage_skill_bouncing_v1_21: -4427577755124740556
+      mage_skill_bouncing_v1_22: -7558079317134757737
+      mage_skill_bouncing_v1_23: 51141793924455252
+      mage_skill_bouncing_v1_24: 823823908158256896
+      mage_skill_bouncing_v1_25: -8468875796239364366
+      mage_skill_bouncing_v1_3: -2112165263976310459
+      mage_skill_bouncing_v1_4: 5304980600402752660
+      mage_skill_bouncing_v1_5: -3909866016485159498
+      mage_skill_bouncing_v1_6: -6603373349005091876
+      mage_skill_bouncing_v1_7: 2827792239498733437
+      mage_skill_bouncing_v1_8: -4263279295771704532
+      mage_skill_bouncing_v1_9: 7855634412198003841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

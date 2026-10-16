@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 92f39c71c7f72964986b0159888d7717
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3415980222539840303
+    second: Xianxia_JulingPearl_v1_0
+  - first:
+      213: -3140826309196178449
+    second: Xianxia_JulingPearl_v1_1
+  - first:
+      213: -3329201851804549850
+    second: Xianxia_JulingPearl_v1_2
+  - first:
+      213: -2350655459329698854
+    second: Xianxia_JulingPearl_v1_3
+  - first:
+      213: -5305940766397512591
+    second: Xianxia_JulingPearl_v1_4
+  - first:
+      213: -2203681002640654762
+    second: Xianxia_JulingPearl_v1_5
+  - first:
+      213: -1191344114370984705
+    second: Xianxia_JulingPearl_v1_6
+  - first:
+      213: -6231046979512651716
+    second: Xianxia_JulingPearl_v1_7
+  - first:
+      213: 584390917140716259
+    second: Xianxia_JulingPearl_v1_8
+  - first:
+      213: -4326745133007956955
+    second: Xianxia_JulingPearl_v1_9
+  - first:
+      213: -6151320670639783871
+    second: Xianxia_JulingPearl_v1_10
+  - first:
+      213: 6969164571779898749
+    second: Xianxia_JulingPearl_v1_11
+  - first:
+      213: 5619271486652790052
+    second: Xianxia_JulingPearl_v1_12
+  - first:
+      213: 7371518350172618638
+    second: Xianxia_JulingPearl_v1_13
+  - first:
+      213: 3411264819696551030
+    second: Xianxia_JulingPearl_v1_14
+  - first:
+      213: -609355148581149621
+    second: Xianxia_JulingPearl_v1_15
+  - first:
+      213: 4560774831506680001
+    second: Xianxia_JulingPearl_v1_16
+  - first:
+      213: -6301209628626063504
+    second: Xianxia_JulingPearl_v1_17
+  - first:
+      213: -6832747178151888510
+    second: Xianxia_JulingPearl_v1_18
+  - first:
+      213: -1421516406701426894
+    second: Xianxia_JulingPearl_v1_19
+  - first:
+      213: -8500423839837877865
+    second: Xianxia_JulingPearl_v1_20
+  - first:
+      213: 2410052290266528484
+    second: Xianxia_JulingPearl_v1_21
+  - first:
+      213: -4134529042439403790
+    second: Xianxia_JulingPearl_v1_22
+  - first:
+      213: 4508110501951992350
+    second: Xianxia_JulingPearl_v1_23
+  - first:
+      213: 2426455526553598220
+    second: Xianxia_JulingPearl_v1_24
+  - first:
+      213: 2197656190310854711
+    second: Xianxia_JulingPearl_v1_25
+  - first:
+      213: 6739907905924576002
+    second: Xianxia_JulingPearl_v1_26
+  - first:
+      213: 6379407903620010375
+    second: Xianxia_JulingPearl_v1_27
+  - first:
+      213: -6184761541464066132
+    second: Xianxia_JulingPearl_v1_28
+  - first:
+      213: 8927908713001677145
+    second: Xianxia_JulingPearl_v1_29
+  - first:
+      213: -3783956953002327136
+    second: Xianxia_JulingPearl_v1_30
+  - first:
+      213: -1320746370149314014
+    second: Xianxia_JulingPearl_v1_31
+  - first:
+      213: -2573934555838872353
+    second: Xianxia_JulingPearl_v1_32
+  - first:
+      213: 7729191714714839248
+    second: Xianxia_JulingPearl_v1_33
+  - first:
+      213: 7208258476799493937
+    second: Xianxia_JulingPearl_v1_34
+  - first:
+      213: 1150581589845110433
+    second: Xianxia_JulingPearl_v1_35
+  - first:
+      213: 7813547160469439549
+    second: Xianxia_JulingPearl_v1_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1333.5238
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xianxia_JulingPearl_v1_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 52
+        width: 738
+        height: 929
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b3f3ce9eff76f20800000000000000
+      internalID: 3415980222539840303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9e7cb2d5fa7b49e46a1927a5a0b0b62c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Xianxia_JulingPearl_v1_0: 3415980222539840303
+      Xianxia_JulingPearl_v1_1: -3140826309196178449
+      Xianxia_JulingPearl_v1_10: -6151320670639783871
+      Xianxia_JulingPearl_v1_11: 6969164571779898749
+      Xianxia_JulingPearl_v1_12: 5619271486652790052
+      Xianxia_JulingPearl_v1_13: 7371518350172618638
+      Xianxia_JulingPearl_v1_14: 3411264819696551030
+      Xianxia_JulingPearl_v1_15: -609355148581149621
+      Xianxia_JulingPearl_v1_16: 4560774831506680001
+      Xianxia_JulingPearl_v1_17: -6301209628626063504
+      Xianxia_JulingPearl_v1_18: -6832747178151888510
+      Xianxia_JulingPearl_v1_19: -1421516406701426894
+      Xianxia_JulingPearl_v1_2: -3329201851804549850
+      Xianxia_JulingPearl_v1_20: -8500423839837877865
+      Xianxia_JulingPearl_v1_21: 2410052290266528484
+      Xianxia_JulingPearl_v1_22: -4134529042439403790
+      Xianxia_JulingPearl_v1_23: 4508110501951992350
+      Xianxia_JulingPearl_v1_24: 2426455526553598220
+      Xianxia_JulingPearl_v1_25: 2197656190310854711
+      Xianxia_JulingPearl_v1_26: 6739907905924576002
+      Xianxia_JulingPearl_v1_27: 6379407903620010375
+      Xianxia_JulingPearl_v1_28: -6184761541464066132
+      Xianxia_JulingPearl_v1_29: 8927908713001677145
+      Xianxia_JulingPearl_v1_3: -2350655459329698854
+      Xianxia_JulingPearl_v1_30: -3783956953002327136
+      Xianxia_JulingPearl_v1_31: -1320746370149314014
+      Xianxia_JulingPearl_v1_32: -2573934555838872353
+      Xianxia_JulingPearl_v1_33: 7729191714714839248
+      Xianxia_JulingPearl_v1_34: 7208258476799493937
+      Xianxia_JulingPearl_v1_35: 1150581589845110433
+      Xianxia_JulingPearl_v1_36: 7813547160469439549
+      Xianxia_JulingPearl_v1_4: -5305940766397512591
+      Xianxia_JulingPearl_v1_5: -2203681002640654762
+      Xianxia_JulingPearl_v1_6: -1191344114370984705
+      Xianxia_JulingPearl_v1_7: -6231046979512651716
+      Xianxia_JulingPearl_v1_8: 584390917140716259
+      Xianxia_JulingPearl_v1_9: -4326745133007956955
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

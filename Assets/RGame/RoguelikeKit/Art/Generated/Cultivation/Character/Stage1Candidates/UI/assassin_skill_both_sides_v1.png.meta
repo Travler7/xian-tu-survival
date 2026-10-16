@@ -1,0 +1,1393 @@
+fileFormatVersion: 2
+guid: 2dd81b46ad068e346a16e2320c2ef0af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7675777551840527340
+    second: assassin_skill_both_sides_v1_0
+  - first:
+      213: -1800607739965490546
+    second: assassin_skill_both_sides_v1_1
+  - first:
+      213: -7186223646859376939
+    second: assassin_skill_both_sides_v1_2
+  - first:
+      213: 9053276832678074321
+    second: assassin_skill_both_sides_v1_3
+  - first:
+      213: -1638222790925682316
+    second: assassin_skill_both_sides_v1_4
+  - first:
+      213: 289875456075162829
+    second: assassin_skill_both_sides_v1_5
+  - first:
+      213: -477513166336035597
+    second: assassin_skill_both_sides_v1_6
+  - first:
+      213: 149784259695421766
+    second: assassin_skill_both_sides_v1_7
+  - first:
+      213: -1928282262928414274
+    second: assassin_skill_both_sides_v1_8
+  - first:
+      213: -2842764273938403877
+    second: assassin_skill_both_sides_v1_9
+  - first:
+      213: 3430147264556494773
+    second: assassin_skill_both_sides_v1_10
+  - first:
+      213: 9103189121300172601
+    second: assassin_skill_both_sides_v1_11
+  - first:
+      213: -2879285740547532202
+    second: assassin_skill_both_sides_v1_12
+  - first:
+      213: 6837843731632233630
+    second: assassin_skill_both_sides_v1_13
+  - first:
+      213: -8944813633510128805
+    second: assassin_skill_both_sides_v1_14
+  - first:
+      213: -1703914710193030328
+    second: assassin_skill_both_sides_v1_15
+  - first:
+      213: 1905799227193899444
+    second: assassin_skill_both_sides_v1_16
+  - first:
+      213: 7876007710886028031
+    second: assassin_skill_both_sides_v1_17
+  - first:
+      213: 8702605078038063080
+    second: assassin_skill_both_sides_v1_18
+  - first:
+      213: 1031425423644058862
+    second: assassin_skill_both_sides_v1_19
+  - first:
+      213: -6645571163802171942
+    second: assassin_skill_both_sides_v1_20
+  - first:
+      213: 9165410063142911920
+    second: assassin_skill_both_sides_v1_21
+  - first:
+      213: 1219678221834363302
+    second: assassin_skill_both_sides_v1_22
+  - first:
+      213: -7513721109060423288
+    second: assassin_skill_both_sides_v1_23
+  - first:
+      213: 2812426544304763097
+    second: assassin_skill_both_sides_v1_24
+  - first:
+      213: 8542632437451527853
+    second: assassin_skill_both_sides_v1_25
+  - first:
+      213: -6027511685519944932
+    second: assassin_skill_both_sides_v1_26
+  - first:
+      213: 4263250172733287804
+    second: assassin_skill_both_sides_v1_27
+  - first:
+      213: 2932236818259563986
+    second: assassin_skill_both_sides_v1_28
+  - first:
+      213: -2817382721291337047
+    second: assassin_skill_both_sides_v1_29
+  - first:
+      213: -5777244998037980724
+    second: assassin_skill_both_sides_v1_30
+  - first:
+      213: 8048413254672430908
+    second: assassin_skill_both_sides_v1_31
+  - first:
+      213: -3875092928093731866
+    second: assassin_skill_both_sides_v1_32
+  - first:
+      213: 1290339833459693617
+    second: assassin_skill_both_sides_v1_33
+  - first:
+      213: -3970280867853158115
+    second: assassin_skill_both_sides_v1_34
+  - first:
+      213: -6602749929921350156
+    second: assassin_skill_both_sides_v1_35
+  - first:
+      213: 5672720408063596712
+    second: assassin_skill_both_sides_v1_36
+  - first:
+      213: -3233558422678519569
+    second: assassin_skill_both_sides_v1_37
+  - first:
+      213: 1277492112289275949
+    second: assassin_skill_both_sides_v1_38
+  - first:
+      213: 6967474735963421764
+    second: assassin_skill_both_sides_v1_39
+  - first:
+      213: 8631141192041073422
+    second: assassin_skill_both_sides_v1_40
+  - first:
+      213: 816210805011439091
+    second: assassin_skill_both_sides_v1_41
+  - first:
+      213: 6840322909119363514
+    second: assassin_skill_both_sides_v1_42
+  - first:
+      213: 4617405104203243343
+    second: assassin_skill_both_sides_v1_43
+  - first:
+      213: -3164341845841976073
+    second: assassin_skill_both_sides_v1_44
+  - first:
+      213: -428593460864382472
+    second: assassin_skill_both_sides_v1_45
+  - first:
+      213: 24720535918246906
+    second: assassin_skill_both_sides_v1_46
+  - first:
+      213: -3303108801088429433
+    second: assassin_skill_both_sides_v1_47
+  - first:
+      213: -2296110013574856094
+    second: assassin_skill_both_sides_v1_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_0
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1002
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce34f50f307d58a60800000000000000
+      internalID: 7675777551840527340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 982
+        width: 224
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ab98fecc4f207e0800000000000000
+      internalID: -1800607739965490546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_2
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1011
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d64f6cdaa7654c90800000000000000
+      internalID: -7186223646859376939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_3
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1000
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7dc012053b3ad70800000000000000
+      internalID: 9053276832678074321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 1015
+        height: 1005
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479fce32d0dd349e0800000000000000
+      internalID: -1638222790925682316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 984
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4e6740138d50400800000000000000
+      internalID: 289875456075162829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_6
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 984
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4f7f02e488f59f0800000000000000
+      internalID: -477513166336035597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_7
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 989
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64927189df3241200800000000000000
+      internalID: 149784259695421766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_8
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 924
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb927739f7d5d35e0800000000000000
+      internalID: -1928282262928414274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_9
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 921
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddeab754f87c88d0800000000000000
+      internalID: -2842764273938403877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_10
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 918
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfea2f63c45a9f20800000000000000
+      internalID: 3430147264556494773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_11
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 921
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f0c4a6646055e70800000000000000
+      internalID: 9103189121300172601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_12
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 909
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a11d3cfd8ba08d0800000000000000
+      internalID: -2879285740547532202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_13
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 904
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c129d35a6e4ee50800000000000000
+      internalID: 6837843731632233630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_14
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 861
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53ce885463add380800000000000000
+      internalID: -8944813633510128805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 158
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bb16b499a7a58e0800000000000000
+      internalID: -1703914710193030328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 143
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b93b1ebc42c27a10800000000000000
+      internalID: 1905799227193899444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_17
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 153
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2699fb8433d4d60800000000000000
+      internalID: 7876007710886028031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_18
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 144
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e728f8c53dd5c870800000000000000
+      internalID: 8702605078038063080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 107
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee46c9445fb505e00800000000000000
+      internalID: 1031425423644058862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 87
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad50efb7c3036c3a0800000000000000
+      internalID: -6645571163802171942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf7c6a54e3123f70800000000000000
+      internalID: 9165410063142911920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_22
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 104
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1a7b071ea2de010800000000000000
+      internalID: 1219678221834363302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_23
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 104
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8817911f576e9b790800000000000000
+      internalID: -7513721109060423288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_24
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 92
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d03a2a8a0fb70720800000000000000
+      internalID: 2812426544304763097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_25
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 77
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da61709e0f68d8670800000000000000
+      internalID: 8542632437451527853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_26
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 53
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c135111ae0af95ca0800000000000000
+      internalID: -6027511685519944932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_27
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 63
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7de366c17b1a2b30800000000000000
+      internalID: 4263250172733287804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_28
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 69
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5deadb9d561b820800000000000000
+      internalID: 2932236818259563986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_29
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 64
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a24b159755a6e8d0800000000000000
+      internalID: -2817382721291337047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_30
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 56
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc93b8f884a13dfa0800000000000000
+      internalID: -5777244998037980724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_31
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 25
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37bb4a7635b1bf60800000000000000
+      internalID: 8048413254672430908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_32
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 50
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e348555387e83ac0800000000000000
+      internalID: -3875092928093731866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_33
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 51
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138d6e4fd3538e110800000000000000
+      internalID: 1290339833459693617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_34
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 33
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19351d069ab6e8c0800000000000000
+      internalID: -3970280867853158115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_35
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 51
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f57d4eebe15e54a0800000000000000
+      internalID: -6602749929921350156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_36
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 33
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a85db0e72d89be40800000000000000
+      internalID: 5672720408063596712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 40
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe046c72fb71023d0800000000000000
+      internalID: -3233558422678519569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_38
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 34
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20ad54ce409ab110800000000000000
+      internalID: 1277492112289275949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_39
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 36
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cbb9a6b5171b060800000000000000
+      internalID: 6967474735963421764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_40
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 12
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b89d53f29f7c770800000000000000
+      internalID: 8631141192041073422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 28
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdda861763c35b00800000000000000
+      internalID: 816210805011439091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_42
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 18
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9b60bb175bdee50800000000000000
+      internalID: 6840322909119363514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_43
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 14
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f1c1c6a71541040800000000000000
+      internalID: 4617405104203243343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_44
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 15
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f46faa4bdff514d0800000000000000
+      internalID: -3164341845841976073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_45
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 22
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f98f14a4845d0af0800000000000000
+      internalID: -428593460864382472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_46
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 25
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb701a4233d75000800000000000000
+      internalID: 24720535918246906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_47
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78268a8cb000922d0800000000000000
+      internalID: -3303108801088429433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_skill_both_sides_v1_48
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26247a3ab149220e0800000000000000
+      internalID: -2296110013574856094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      assassin_skill_both_sides_v1_0: 7675777551840527340
+      assassin_skill_both_sides_v1_1: -1800607739965490546
+      assassin_skill_both_sides_v1_10: 3430147264556494773
+      assassin_skill_both_sides_v1_11: 9103189121300172601
+      assassin_skill_both_sides_v1_12: -2879285740547532202
+      assassin_skill_both_sides_v1_13: 6837843731632233630
+      assassin_skill_both_sides_v1_14: -8944813633510128805
+      assassin_skill_both_sides_v1_15: -1703914710193030328
+      assassin_skill_both_sides_v1_16: 1905799227193899444
+      assassin_skill_both_sides_v1_17: 7876007710886028031
+      assassin_skill_both_sides_v1_18: 8702605078038063080
+      assassin_skill_both_sides_v1_19: 1031425423644058862
+      assassin_skill_both_sides_v1_2: -7186223646859376939
+      assassin_skill_both_sides_v1_20: -6645571163802171942
+      assassin_skill_both_sides_v1_21: 9165410063142911920
+      assassin_skill_both_sides_v1_22: 1219678221834363302
+      assassin_skill_both_sides_v1_23: -7513721109060423288
+      assassin_skill_both_sides_v1_24: 2812426544304763097
+      assassin_skill_both_sides_v1_25: 8542632437451527853
+      assassin_skill_both_sides_v1_26: -6027511685519944932
+      assassin_skill_both_sides_v1_27: 4263250172733287804
+      assassin_skill_both_sides_v1_28: 2932236818259563986
+      assassin_skill_both_sides_v1_29: -2817382721291337047
+      assassin_skill_both_sides_v1_3: 9053276832678074321
+      assassin_skill_both_sides_v1_30: -5777244998037980724
+      assassin_skill_both_sides_v1_31: 8048413254672430908
+      assassin_skill_both_sides_v1_32: -3875092928093731866
+      assassin_skill_both_sides_v1_33: 1290339833459693617
+      assassin_skill_both_sides_v1_34: -3970280867853158115
+      assassin_skill_both_sides_v1_35: -6602749929921350156
+      assassin_skill_both_sides_v1_36: 5672720408063596712
+      assassin_skill_both_sides_v1_37: -3233558422678519569
+      assassin_skill_both_sides_v1_38: 1277492112289275949
+      assassin_skill_both_sides_v1_39: 6967474735963421764
+      assassin_skill_both_sides_v1_4: -1638222790925682316
+      assassin_skill_both_sides_v1_40: 8631141192041073422
+      assassin_skill_both_sides_v1_41: 816210805011439091
+      assassin_skill_both_sides_v1_42: 6840322909119363514
+      assassin_skill_both_sides_v1_43: 4617405104203243343
+      assassin_skill_both_sides_v1_44: -3164341845841976073
+      assassin_skill_both_sides_v1_45: -428593460864382472
+      assassin_skill_both_sides_v1_46: 24720535918246906
+      assassin_skill_both_sides_v1_47: -3303108801088429433
+      assassin_skill_both_sides_v1_48: -2296110013574856094
+      assassin_skill_both_sides_v1_5: 289875456075162829
+      assassin_skill_both_sides_v1_6: -477513166336035597
+      assassin_skill_both_sides_v1_7: 149784259695421766
+      assassin_skill_both_sides_v1_8: -1928282262928414274
+      assassin_skill_both_sides_v1_9: -2842764273938403877
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

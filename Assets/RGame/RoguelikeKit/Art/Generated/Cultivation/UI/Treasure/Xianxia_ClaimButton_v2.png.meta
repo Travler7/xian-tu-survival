@@ -1,0 +1,1783 @@
+fileFormatVersion: 2
+guid: d23f2ce0a0b33d24b99f6b583901a1d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1807308210675104677
+    second: Xianxia_ClaimButton_v2_0
+  - first:
+      213: 2092967904166636968
+    second: Xianxia_ClaimButton_v2_1
+  - first:
+      213: 6288462380763959060
+    second: Xianxia_ClaimButton_v2_2
+  - first:
+      213: -549227158950463886
+    second: Xianxia_ClaimButton_v2_3
+  - first:
+      213: -7590370079462324036
+    second: Xianxia_ClaimButton_v2_4
+  - first:
+      213: 3671502495677517438
+    second: Xianxia_ClaimButton_v2_5
+  - first:
+      213: -3469894824805875972
+    second: Xianxia_ClaimButton_v2_6
+  - first:
+      213: -7491949664735929042
+    second: Xianxia_ClaimButton_v2_7
+  - first:
+      213: -2335892675198734065
+    second: Xianxia_ClaimButton_v2_8
+  - first:
+      213: 1630184558239904567
+    second: Xianxia_ClaimButton_v2_9
+  - first:
+      213: -1420193220832872272
+    second: Xianxia_ClaimButton_v2_10
+  - first:
+      213: -4870543433168006729
+    second: Xianxia_ClaimButton_v2_11
+  - first:
+      213: -7697375905049122630
+    second: Xianxia_ClaimButton_v2_12
+  - first:
+      213: -3708426382755683780
+    second: Xianxia_ClaimButton_v2_13
+  - first:
+      213: -2507323122306371898
+    second: Xianxia_ClaimButton_v2_14
+  - first:
+      213: 4325306053089888442
+    second: Xianxia_ClaimButton_v2_15
+  - first:
+      213: 3516345544473421710
+    second: Xianxia_ClaimButton_v2_16
+  - first:
+      213: 3652936875855914547
+    second: Xianxia_ClaimButton_v2_17
+  - first:
+      213: -5427983498927585226
+    second: Xianxia_ClaimButton_v2_18
+  - first:
+      213: -8294481915294962766
+    second: Xianxia_ClaimButton_v2_19
+  - first:
+      213: 7452327575135074698
+    second: Xianxia_ClaimButton_v2_20
+  - first:
+      213: 4655303393597742399
+    second: Xianxia_ClaimButton_v2_21
+  - first:
+      213: 8152869026756136367
+    second: Xianxia_ClaimButton_v2_22
+  - first:
+      213: 7826102073796614271
+    second: Xianxia_ClaimButton_v2_23
+  - first:
+      213: 5813073761203494475
+    second: Xianxia_ClaimButton_v2_24
+  - first:
+      213: 5332383531708879225
+    second: Xianxia_ClaimButton_v2_25
+  - first:
+      213: -7505326759782523983
+    second: Xianxia_ClaimButton_v2_26
+  - first:
+      213: 6016259515101229769
+    second: Xianxia_ClaimButton_v2_27
+  - first:
+      213: -7223600031228065199
+    second: Xianxia_ClaimButton_v2_28
+  - first:
+      213: 9223350554559490907
+    second: Xianxia_ClaimButton_v2_29
+  - first:
+      213: -8648902124406767233
+    second: Xianxia_ClaimButton_v2_30
+  - first:
+      213: 5424145074577435473
+    second: Xianxia_ClaimButton_v2_31
+  - first:
+      213: -3494312941847709002
+    second: Xianxia_ClaimButton_v2_32
+  - first:
+      213: -918093291901458232
+    second: Xianxia_ClaimButton_v2_33
+  - first:
+      213: -5693989489085187390
+    second: Xianxia_ClaimButton_v2_34
+  - first:
+      213: -1671657725662188146
+    second: Xianxia_ClaimButton_v2_35
+  - first:
+      213: -286424973626330971
+    second: Xianxia_ClaimButton_v2_36
+  - first:
+      213: 243270746748990756
+    second: Xianxia_ClaimButton_v2_37
+  - first:
+      213: -2779665907947022563
+    second: Xianxia_ClaimButton_v2_38
+  - first:
+      213: 194069480954306427
+    second: Xianxia_ClaimButton_v2_39
+  - first:
+      213: 3452769450998649362
+    second: Xianxia_ClaimButton_v2_40
+  - first:
+      213: 6496906904563866631
+    second: Xianxia_ClaimButton_v2_41
+  - first:
+      213: -7775678532640199479
+    second: Xianxia_ClaimButton_v2_42
+  - first:
+      213: -2150797025678393459
+    second: Xianxia_ClaimButton_v2_43
+  - first:
+      213: 4312645852323078146
+    second: Xianxia_ClaimButton_v2_44
+  - first:
+      213: -1724293137542068281
+    second: Xianxia_ClaimButton_v2_45
+  - first:
+      213: -5730275794649840712
+    second: Xianxia_ClaimButton_v2_46
+  - first:
+      213: -2030650348074813076
+    second: Xianxia_ClaimButton_v2_47
+  - first:
+      213: 1179532968201264990
+    second: Xianxia_ClaimButton_v2_48
+  - first:
+      213: 2258824092244684722
+    second: Xianxia_ClaimButton_v2_49
+  - first:
+      213: -4662204771965368948
+    second: Xianxia_ClaimButton_v2_50
+  - first:
+      213: -322696249561256794
+    second: Xianxia_ClaimButton_v2_51
+  - first:
+      213: 3543546411398620837
+    second: Xianxia_ClaimButton_v2_52
+  - first:
+      213: 6239801839802070027
+    second: Xianxia_ClaimButton_v2_53
+  - first:
+      213: -1078205616213744820
+    second: Xianxia_ClaimButton_v2_54
+  - first:
+      213: 3744323406245386337
+    second: Xianxia_ClaimButton_v2_55
+  - first:
+      213: 7234091536434050824
+    second: Xianxia_ClaimButton_v2_56
+  - first:
+      213: -1920821417829788172
+    second: Xianxia_ClaimButton_v2_57
+  - first:
+      213: 3463952754029070600
+    second: Xianxia_ClaimButton_v2_58
+  - first:
+      213: -5510258149425177042
+    second: Xianxia_ClaimButton_v2_59
+  - first:
+      213: -6605050487768684782
+    second: Xianxia_ClaimButton_v2_60
+  - first:
+      213: 650115039193139094
+    second: Xianxia_ClaimButton_v2_61
+  - first:
+      213: 6369963893458858904
+    second: Xianxia_ClaimButton_v2_62
+  - first:
+      213: 1521971904090154430
+    second: Xianxia_ClaimButton_v2_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1168
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abbfe8fd39d41910800000000000000
+      internalID: 1807308210675104677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 512
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad65264837bb0d10800000000000000
+      internalID: 2092967904166636968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 571
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fc7d4b73b154750800000000000000
+      internalID: 6288462380763959060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 545
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276b2c11fc0c068f0800000000000000
+      internalID: -549227158950463886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_4
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 566
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb805e3d0a699a690800000000000000
+      internalID: -7590370079462324036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_5
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 553
+        width: 73
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e81de311cc3f230800000000000000
+      internalID: 3671502495677517438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_6
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 553
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeba778a0578dfc0800000000000000
+      internalID: -3469894824805875972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_7
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 568
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dde46597f370890800000000000000
+      internalID: -7491949664735929042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_8
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 557
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01b75decfd359fd0800000000000000
+      internalID: -2335892675198734065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_9
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 544
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7337738f7349f9610800000000000000
+      internalID: 1630184558239904567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 557
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8b6d74ac57a4ce0800000000000000
+      internalID: -1420193220832872272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 549
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1d8e28d8a586cb0800000000000000
+      internalID: -4870543433168006729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_12
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 554
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab865e4956d6d2590800000000000000
+      internalID: -7697375905049122630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_13
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 554
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32292c5ad5098cc0800000000000000
+      internalID: -3708426382755683780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_14
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 554
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce2ec597e2343dd0800000000000000
+      internalID: -2507323122306371898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 541
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8054750f2960c30800000000000000
+      internalID: 4325306053089888442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_16
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 544
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87addd64a19cc030800000000000000
+      internalID: 3516345544473421710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_17
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 542
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33621580cb6d1b230800000000000000
+      internalID: 3652936875855914547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_18
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6384db334cdeba4b0800000000000000
+      internalID: -5427983498927585226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_19
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 539
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb21f2e4a414ec80800000000000000
+      internalID: -8294481915294962766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_20
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 532
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8936c9027cfb6760800000000000000
+      internalID: 7452327575135074698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 527
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d501985c5fa9040800000000000000
+      internalID: 4655303393597742399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_22
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 534
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad85102f2fc42170800000000000000
+      internalID: 8152869026756136367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_23
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 524
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7858942f56eb9c60800000000000000
+      internalID: 7826102073796614271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_24
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 533
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e9dad69cf2ca050800000000000000
+      internalID: 5813073761203494475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_25
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 514
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97196a5e19e600a40800000000000000
+      internalID: 5332383531708879225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 512
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbddefa319b7d790800000000000000
+      internalID: -7505326759782523983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_27
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 517
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c23c2a472c0e7350800000000000000
+      internalID: 6016259515101229769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_28
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 519
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a862b3b0e90cb90800000000000000
+      internalID: -7223600031228065199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_29
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 516
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bab63467cefff70800000000000000
+      internalID: 9223350554559490907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_30
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 507
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f710d99775de8f780800000000000000
+      internalID: -8648902124406767233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_31
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 70
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b6f5cf43f664b40800000000000000
+      internalID: 5424145074577435473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_32
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 70
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bafd1f94e4b18fc0800000000000000
+      internalID: -3494312941847709002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_33
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 70
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c86b89e3074243f0800000000000000
+      internalID: -918093291901458232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_34
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 41
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caf44c4ab2eaf0b0800000000000000
+      internalID: -5693989489085187390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_35
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 13
+        width: 220
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d2ed3c7241dc8e0800000000000000
+      internalID: -1671657725662188146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_36
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 74
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0b338010a660cf0800000000000000
+      internalID: -286424973626330971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_37
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425b73c8475406300800000000000000
+      internalID: 243270746748990756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_38
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 58
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17dd828594ac69d0800000000000000
+      internalID: -2779665907947022563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_39
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 53
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f960a2a2971b200800000000000000
+      internalID: 194069480954306427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_40
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 54
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212581aa583baef20800000000000000
+      internalID: 3452769450998649362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_41
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 41
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cdf495866a92a50800000000000000
+      internalID: 6496906904563866631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_42
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 61
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cca956629d371490800000000000000
+      internalID: -7775678532640199479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_43
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 50
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ff8742085d622e0800000000000000
+      internalID: -2150797025678393459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_44
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 44
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20067c5ad8899db30800000000000000
+      internalID: 4312645852323078146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_45
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 42
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c74920f6841218e0800000000000000
+      internalID: -1724293137542068281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_46
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 46
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b380ea6688f970b0800000000000000
+      internalID: -5730275794649840712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_47
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 51
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c693afb644ea1d3e0800000000000000
+      internalID: -2030650348074813076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_48
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 30
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f9f723cfa8e5010800000000000000
+      internalID: 1179532968201264990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_49
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 36
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfa65c4b84f85f10800000000000000
+      internalID: 2258824092244684722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_50
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 41
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c858fd816758c4fb0800000000000000
+      internalID: -4662204771965368948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_51
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 30
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acec82887d858bf0800000000000000
+      internalID: -322696249561256794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_52
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 25
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a66688cfa43d2130800000000000000
+      internalID: 3543546411398620837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_53
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 27
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b043b32a6ba389650800000000000000
+      internalID: 6239801839802070027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_54
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 0
+        width: 92
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43afb264b17901f0800000000000000
+      internalID: -1078205616213744820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_55
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 9
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168df69bc4286f330800000000000000
+      internalID: 3744323406245386337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_56
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 13
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807bfcdace7a46460800000000000000
+      internalID: 7234091536434050824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_57
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f51b41f81fd755e0800000000000000
+      internalID: -1920821417829788172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_58
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80983ae4dae621030800000000000000
+      internalID: 3463952754029070600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_59
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 12
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e9fce5861a783b0800000000000000
+      internalID: -5510258149425177042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_60
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 11
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217e60193952654a0800000000000000
+      internalID: -6605050487768684782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_61
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 58
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6970f360f2ca50900800000000000000
+      internalID: 650115039193139094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_62
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 0
+        width: 81
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893fdad5968a66850800000000000000
+      internalID: 6369963893458858904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_ClaimButton_v2_63
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb52b6d02612f1510800000000000000
+      internalID: 1521971904090154430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Xianxia_ClaimButton_v2_0: 1807308210675104677
+      Xianxia_ClaimButton_v2_1: 2092967904166636968
+      Xianxia_ClaimButton_v2_10: -1420193220832872272
+      Xianxia_ClaimButton_v2_11: -4870543433168006729
+      Xianxia_ClaimButton_v2_12: -7697375905049122630
+      Xianxia_ClaimButton_v2_13: -3708426382755683780
+      Xianxia_ClaimButton_v2_14: -2507323122306371898
+      Xianxia_ClaimButton_v2_15: 4325306053089888442
+      Xianxia_ClaimButton_v2_16: 3516345544473421710
+      Xianxia_ClaimButton_v2_17: 3652936875855914547
+      Xianxia_ClaimButton_v2_18: -5427983498927585226
+      Xianxia_ClaimButton_v2_19: -8294481915294962766
+      Xianxia_ClaimButton_v2_2: 6288462380763959060
+      Xianxia_ClaimButton_v2_20: 7452327575135074698
+      Xianxia_ClaimButton_v2_21: 4655303393597742399
+      Xianxia_ClaimButton_v2_22: 8152869026756136367
+      Xianxia_ClaimButton_v2_23: 7826102073796614271
+      Xianxia_ClaimButton_v2_24: 5813073761203494475
+      Xianxia_ClaimButton_v2_25: 5332383531708879225
+      Xianxia_ClaimButton_v2_26: -7505326759782523983
+      Xianxia_ClaimButton_v2_27: 6016259515101229769
+      Xianxia_ClaimButton_v2_28: -7223600031228065199
+      Xianxia_ClaimButton_v2_29: 9223350554559490907
+      Xianxia_ClaimButton_v2_3: -549227158950463886
+      Xianxia_ClaimButton_v2_30: -8648902124406767233
+      Xianxia_ClaimButton_v2_31: 5424145074577435473
+      Xianxia_ClaimButton_v2_32: -3494312941847709002
+      Xianxia_ClaimButton_v2_33: -918093291901458232
+      Xianxia_ClaimButton_v2_34: -5693989489085187390
+      Xianxia_ClaimButton_v2_35: -1671657725662188146
+      Xianxia_ClaimButton_v2_36: -286424973626330971
+      Xianxia_ClaimButton_v2_37: 243270746748990756
+      Xianxia_ClaimButton_v2_38: -2779665907947022563
+      Xianxia_ClaimButton_v2_39: 194069480954306427
+      Xianxia_ClaimButton_v2_4: -7590370079462324036
+      Xianxia_ClaimButton_v2_40: 3452769450998649362
+      Xianxia_ClaimButton_v2_41: 6496906904563866631
+      Xianxia_ClaimButton_v2_42: -7775678532640199479
+      Xianxia_ClaimButton_v2_43: -2150797025678393459
+      Xianxia_ClaimButton_v2_44: 4312645852323078146
+      Xianxia_ClaimButton_v2_45: -1724293137542068281
+      Xianxia_ClaimButton_v2_46: -5730275794649840712
+      Xianxia_ClaimButton_v2_47: -2030650348074813076
+      Xianxia_ClaimButton_v2_48: 1179532968201264990
+      Xianxia_ClaimButton_v2_49: 2258824092244684722
+      Xianxia_ClaimButton_v2_5: 3671502495677517438
+      Xianxia_ClaimButton_v2_50: -4662204771965368948
+      Xianxia_ClaimButton_v2_51: -322696249561256794
+      Xianxia_ClaimButton_v2_52: 3543546411398620837
+      Xianxia_ClaimButton_v2_53: 6239801839802070027
+      Xianxia_ClaimButton_v2_54: -1078205616213744820
+      Xianxia_ClaimButton_v2_55: 3744323406245386337
+      Xianxia_ClaimButton_v2_56: 7234091536434050824
+      Xianxia_ClaimButton_v2_57: -1920821417829788172
+      Xianxia_ClaimButton_v2_58: 3463952754029070600
+      Xianxia_ClaimButton_v2_59: -5510258149425177042
+      Xianxia_ClaimButton_v2_6: -3469894824805875972
+      Xianxia_ClaimButton_v2_60: -6605050487768684782
+      Xianxia_ClaimButton_v2_61: 650115039193139094
+      Xianxia_ClaimButton_v2_62: 6369963893458858904
+      Xianxia_ClaimButton_v2_63: 1521971904090154430
+      Xianxia_ClaimButton_v2_7: -7491949664735929042
+      Xianxia_ClaimButton_v2_8: -2335892675198734065
+      Xianxia_ClaimButton_v2_9: 1630184558239904567
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

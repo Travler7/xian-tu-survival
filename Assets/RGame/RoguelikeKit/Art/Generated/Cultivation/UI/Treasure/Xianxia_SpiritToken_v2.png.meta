@@ -1,0 +1,1705 @@
+fileFormatVersion: 2
+guid: f7ebab370fbfe264fb84f94a9deaea55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3401249593567371130
+    second: Xianxia_SpiritToken_v2_0
+  - first:
+      213: -5595125961188305271
+    second: Xianxia_SpiritToken_v2_1
+  - first:
+      213: 8592377238593226483
+    second: Xianxia_SpiritToken_v2_2
+  - first:
+      213: 8003845858547237844
+    second: Xianxia_SpiritToken_v2_3
+  - first:
+      213: 5697450083611726093
+    second: Xianxia_SpiritToken_v2_4
+  - first:
+      213: -3276196535104246110
+    second: Xianxia_SpiritToken_v2_5
+  - first:
+      213: 5483130303963421825
+    second: Xianxia_SpiritToken_v2_6
+  - first:
+      213: -7822451152106243588
+    second: Xianxia_SpiritToken_v2_7
+  - first:
+      213: -4752418780513822696
+    second: Xianxia_SpiritToken_v2_8
+  - first:
+      213: 7705358613976946350
+    second: Xianxia_SpiritToken_v2_9
+  - first:
+      213: -5877857463231281255
+    second: Xianxia_SpiritToken_v2_10
+  - first:
+      213: 6121698017576749328
+    second: Xianxia_SpiritToken_v2_11
+  - first:
+      213: 9100625522575225894
+    second: Xianxia_SpiritToken_v2_12
+  - first:
+      213: -768280737704300670
+    second: Xianxia_SpiritToken_v2_13
+  - first:
+      213: 1111126962343198576
+    second: Xianxia_SpiritToken_v2_14
+  - first:
+      213: 7689491115272330656
+    second: Xianxia_SpiritToken_v2_15
+  - first:
+      213: 4742375612867389281
+    second: Xianxia_SpiritToken_v2_16
+  - first:
+      213: 244886818375209281
+    second: Xianxia_SpiritToken_v2_17
+  - first:
+      213: -4232893944023240726
+    second: Xianxia_SpiritToken_v2_18
+  - first:
+      213: -4401270174493596321
+    second: Xianxia_SpiritToken_v2_19
+  - first:
+      213: -2205077304856962142
+    second: Xianxia_SpiritToken_v2_20
+  - first:
+      213: 5477315011384167498
+    second: Xianxia_SpiritToken_v2_21
+  - first:
+      213: -8424508089332665729
+    second: Xianxia_SpiritToken_v2_22
+  - first:
+      213: 6970670327484419683
+    second: Xianxia_SpiritToken_v2_23
+  - first:
+      213: -7263986842995092882
+    second: Xianxia_SpiritToken_v2_24
+  - first:
+      213: 2038428648734814056
+    second: Xianxia_SpiritToken_v2_25
+  - first:
+      213: 912043986694619108
+    second: Xianxia_SpiritToken_v2_26
+  - first:
+      213: -5451320382267516956
+    second: Xianxia_SpiritToken_v2_27
+  - first:
+      213: 736888719442125797
+    second: Xianxia_SpiritToken_v2_28
+  - first:
+      213: -8714360806071316438
+    second: Xianxia_SpiritToken_v2_29
+  - first:
+      213: 3660343056341149710
+    second: Xianxia_SpiritToken_v2_30
+  - first:
+      213: 5312165958330462307
+    second: Xianxia_SpiritToken_v2_31
+  - first:
+      213: 8095491884998579324
+    second: Xianxia_SpiritToken_v2_32
+  - first:
+      213: 4789236999047837310
+    second: Xianxia_SpiritToken_v2_33
+  - first:
+      213: -2527474130514565260
+    second: Xianxia_SpiritToken_v2_34
+  - first:
+      213: 1604834976470335640
+    second: Xianxia_SpiritToken_v2_35
+  - first:
+      213: 5352078042584164677
+    second: Xianxia_SpiritToken_v2_36
+  - first:
+      213: -5041361228240796374
+    second: Xianxia_SpiritToken_v2_37
+  - first:
+      213: -2698486941844923110
+    second: Xianxia_SpiritToken_v2_38
+  - first:
+      213: 9137790446137326867
+    second: Xianxia_SpiritToken_v2_39
+  - first:
+      213: -128471692541816542
+    second: Xianxia_SpiritToken_v2_40
+  - first:
+      213: -8285017784361411155
+    second: Xianxia_SpiritToken_v2_41
+  - first:
+      213: -1090740015064326469
+    second: Xianxia_SpiritToken_v2_42
+  - first:
+      213: 409271456918112513
+    second: Xianxia_SpiritToken_v2_43
+  - first:
+      213: 5001272475589088448
+    second: Xianxia_SpiritToken_v2_44
+  - first:
+      213: 8759952840914982867
+    second: Xianxia_SpiritToken_v2_45
+  - first:
+      213: 3207884295297524232
+    second: Xianxia_SpiritToken_v2_46
+  - first:
+      213: 9108770668275065970
+    second: Xianxia_SpiritToken_v2_47
+  - first:
+      213: -6622897595414577398
+    second: Xianxia_SpiritToken_v2_48
+  - first:
+      213: 859493851041377238
+    second: Xianxia_SpiritToken_v2_49
+  - first:
+      213: 1076945498247818124
+    second: Xianxia_SpiritToken_v2_50
+  - first:
+      213: 832395143238134120
+    second: Xianxia_SpiritToken_v2_51
+  - first:
+      213: 3862758292116578095
+    second: Xianxia_SpiritToken_v2_52
+  - first:
+      213: -998208612717857747
+    second: Xianxia_SpiritToken_v2_53
+  - first:
+      213: -8065886715077304023
+    second: Xianxia_SpiritToken_v2_54
+  - first:
+      213: -3885612169278310542
+    second: Xianxia_SpiritToken_v2_55
+  - first:
+      213: 3832646313677842386
+    second: Xianxia_SpiritToken_v2_56
+  - first:
+      213: -2262899893957834778
+    second: Xianxia_SpiritToken_v2_57
+  - first:
+      213: 6695136137893846937
+    second: Xianxia_SpiritToken_v2_58
+  - first:
+      213: -6293852300816924858
+    second: Xianxia_SpiritToken_v2_59
+  - first:
+      213: 8298363959075676307
+    second: Xianxia_SpiritToken_v2_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680a9f6e3855cc0d0800000000000000
+      internalID: -3401249593567371130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 993
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9861ec1259e1a52b0800000000000000
+      internalID: -5595125961188305271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_2
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 971
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6408af2914e3770800000000000000
+      internalID: 8592377238593226483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_3
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1000
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d380b3f66f531f60800000000000000
+      internalID: 8003845858547237844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_4
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 995
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0152372aa8611f40800000000000000
+      internalID: 5697450083611726093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 969
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aeeebefb9c9882d0800000000000000
+      internalID: -3276196535104246110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_6
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 985
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c5be8e5fdf71c40800000000000000
+      internalID: 5483130303963421825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_7
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 982
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9bcdd4f12117390800000000000000
+      internalID: -7822451152106243588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_8
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 981
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818149b6c440c0eb0800000000000000
+      internalID: -4752418780513822696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_9
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 976
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6971da5deeeea60800000000000000
+      internalID: 7705358613976946350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_10
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 981
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99788b787c7ad6ea0800000000000000
+      internalID: -5877857463231281255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 966
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01900efa9e3a4f450800000000000000
+      internalID: 6121698017576749328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_12
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 972
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62433f212baeb4e70800000000000000
+      internalID: 9100625522575225894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_13
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 976
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f2c555db48655f0800000000000000
+      internalID: -768280737704300670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_14
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 942
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f33d2d5148b6f00800000000000000
+      internalID: 1111126962343198576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_15
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 964
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad545dbd6f86ba60800000000000000
+      internalID: 7689491115272330656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 893
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167af646e7d40d140800000000000000
+      internalID: 4742375612867389281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 869
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1411e6b8343066300800000000000000
+      internalID: 244886818375209281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_18
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 838
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefa79e726db145c0800000000000000
+      internalID: -4232893944023240726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 858
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55a9c0681c8be2c0800000000000000
+      internalID: -4401270174493596321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_20
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 852
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab99bdcfddf561e0800000000000000
+      internalID: -2205077304856962142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 846
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cc7789bf4530c40800000000000000
+      internalID: 5477315011384167498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 842
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72fbe71782261b80800000000000000
+      internalID: -8424508089332665729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_23
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 823
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e801c0bbbccb060800000000000000
+      internalID: 6970670327484419683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 795
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e629a2ad372213b90800000000000000
+      internalID: -7263986842995092882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 789
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f61d35e04f94c10800000000000000
+      internalID: 2038428648734814056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_26
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 789
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efb6767c2b38ac00800000000000000
+      internalID: 912043986694619108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_27
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 795
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e71912aef40954b0800000000000000
+      internalID: -5451320382267516956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_28
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 758
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e32759d264f93a00800000000000000
+      internalID: 736888719442125797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_29
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 727
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20588d740f501780800000000000000
+      internalID: -8714360806071316438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_30
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 708
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08284dcd962cc230800000000000000
+      internalID: 3660343056341149710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_31
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 688
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360b5364bca98b940800000000000000
+      internalID: 5312165958330462307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 508
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74d5674af6f85070800000000000000
+      internalID: 8095491884998579324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_33
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 521
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7677691da9c67240800000000000000
+      internalID: 4789236999047837310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_34
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 266
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477a0bf5bab9cecd0800000000000000
+      internalID: -2527474130514565260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89003a788e4854610800000000000000
+      internalID: 1604834976470335640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 226
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549a56a8f96664a40800000000000000
+      internalID: 5352078042584164677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_37
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 233
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25c7465cac790ab0800000000000000
+      internalID: -5041361228240796374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_38
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 215
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d9d407c6c0d8ad0800000000000000
+      internalID: -2698486941844923110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_39
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 214
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d39f52ff3ffce70800000000000000
+      internalID: 9137790446137326867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2211a522da3973ef0800000000000000
+      internalID: -128471692541816542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_41
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 202
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad18559834b50d80800000000000000
+      internalID: -8285017784361411155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_42
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 176
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe59cb3cb9ecd0f0800000000000000
+      internalID: -1090740015064326469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_43
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 178
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1098f4eb8360ea500800000000000000
+      internalID: 409271456918112513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 156
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c41d6491d6186540800000000000000
+      internalID: 5001272475589088448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_45
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 124
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d759e352ba919970800000000000000
+      internalID: 8759952840914982867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_46
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 34
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80263cd35c1b48c20800000000000000
+      internalID: 3207884295297524232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_47
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 39
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274680799aad86e70800000000000000
+      internalID: 9108770668275065970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 45
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f76810abdb614a0800000000000000
+      internalID: -6622897595414577398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_49
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 43
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db24fd8a198deb00800000000000000
+      internalID: 859493851041377238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_50
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 40
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b6489893412fe00800000000000000
+      internalID: 1076945498247818124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_51
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 50
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8692879f8f24d8b00800000000000000
+      internalID: 832395143238134120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_52
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 40
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f9dce63364b9530800000000000000
+      internalID: 3862758292116578095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_53
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 32
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2477333e86a522f0800000000000000
+      internalID: -998208612717857747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_54
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 29
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921664d74c6301090800000000000000
+      internalID: -8065886715077304023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_55
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 36
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2773b33a158831ac0800000000000000
+      internalID: -3885612169278310542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_56
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 24
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d76a7c148b403530800000000000000
+      internalID: 3832646313677842386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_57
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 11
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7cf5a29809890e0800000000000000
+      internalID: -2262899893957834778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 10
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f1b0658d6e9ec50800000000000000
+      internalID: 6695136137893846937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_59
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 17
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f380dbdaeb7a8a0800000000000000
+      internalID: -6293852300816924858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SpiritToken_v2_60
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 5
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3902c9ddd06b92370800000000000000
+      internalID: 8298363959075676307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Xianxia_SpiritToken_v2_0: -3401249593567371130
+      Xianxia_SpiritToken_v2_1: -5595125961188305271
+      Xianxia_SpiritToken_v2_10: -5877857463231281255
+      Xianxia_SpiritToken_v2_11: 6121698017576749328
+      Xianxia_SpiritToken_v2_12: 9100625522575225894
+      Xianxia_SpiritToken_v2_13: -768280737704300670
+      Xianxia_SpiritToken_v2_14: 1111126962343198576
+      Xianxia_SpiritToken_v2_15: 7689491115272330656
+      Xianxia_SpiritToken_v2_16: 4742375612867389281
+      Xianxia_SpiritToken_v2_17: 244886818375209281
+      Xianxia_SpiritToken_v2_18: -4232893944023240726
+      Xianxia_SpiritToken_v2_19: -4401270174493596321
+      Xianxia_SpiritToken_v2_2: 8592377238593226483
+      Xianxia_SpiritToken_v2_20: -2205077304856962142
+      Xianxia_SpiritToken_v2_21: 5477315011384167498
+      Xianxia_SpiritToken_v2_22: -8424508089332665729
+      Xianxia_SpiritToken_v2_23: 6970670327484419683
+      Xianxia_SpiritToken_v2_24: -7263986842995092882
+      Xianxia_SpiritToken_v2_25: 2038428648734814056
+      Xianxia_SpiritToken_v2_26: 912043986694619108
+      Xianxia_SpiritToken_v2_27: -5451320382267516956
+      Xianxia_SpiritToken_v2_28: 736888719442125797
+      Xianxia_SpiritToken_v2_29: -8714360806071316438
+      Xianxia_SpiritToken_v2_3: 8003845858547237844
+      Xianxia_SpiritToken_v2_30: 3660343056341149710
+      Xianxia_SpiritToken_v2_31: 5312165958330462307
+      Xianxia_SpiritToken_v2_32: 8095491884998579324
+      Xianxia_SpiritToken_v2_33: 4789236999047837310
+      Xianxia_SpiritToken_v2_34: -2527474130514565260
+      Xianxia_SpiritToken_v2_35: 1604834976470335640
+      Xianxia_SpiritToken_v2_36: 5352078042584164677
+      Xianxia_SpiritToken_v2_37: -5041361228240796374
+      Xianxia_SpiritToken_v2_38: -2698486941844923110
+      Xianxia_SpiritToken_v2_39: 9137790446137326867
+      Xianxia_SpiritToken_v2_4: 5697450083611726093
+      Xianxia_SpiritToken_v2_40: -128471692541816542
+      Xianxia_SpiritToken_v2_41: -8285017784361411155
+      Xianxia_SpiritToken_v2_42: -1090740015064326469
+      Xianxia_SpiritToken_v2_43: 409271456918112513
+      Xianxia_SpiritToken_v2_44: 5001272475589088448
+      Xianxia_SpiritToken_v2_45: 8759952840914982867
+      Xianxia_SpiritToken_v2_46: 3207884295297524232
+      Xianxia_SpiritToken_v2_47: 9108770668275065970
+      Xianxia_SpiritToken_v2_48: -6622897595414577398
+      Xianxia_SpiritToken_v2_49: 859493851041377238
+      Xianxia_SpiritToken_v2_5: -3276196535104246110
+      Xianxia_SpiritToken_v2_50: 1076945498247818124
+      Xianxia_SpiritToken_v2_51: 832395143238134120
+      Xianxia_SpiritToken_v2_52: 3862758292116578095
+      Xianxia_SpiritToken_v2_53: -998208612717857747
+      Xianxia_SpiritToken_v2_54: -8065886715077304023
+      Xianxia_SpiritToken_v2_55: -3885612169278310542
+      Xianxia_SpiritToken_v2_56: 3832646313677842386
+      Xianxia_SpiritToken_v2_57: -2262899893957834778
+      Xianxia_SpiritToken_v2_58: 6695136137893846937
+      Xianxia_SpiritToken_v2_59: -6293852300816924858
+      Xianxia_SpiritToken_v2_6: 5483130303963421825
+      Xianxia_SpiritToken_v2_60: 8298363959075676307
+      Xianxia_SpiritToken_v2_7: -7822451152106243588
+      Xianxia_SpiritToken_v2_8: -4752418780513822696
+      Xianxia_SpiritToken_v2_9: 7705358613976946350
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+{
+  "state": "independent_candidates_only",
+  "source_sheets": {
+    "Assassin": {
+      "file": "assassin_parts_v3.png",
+      "sha256": "dc7ec4752adcd6d017ec941c47068d1816323669c0134ab154fee713a01a5303"
+    },
+    "Mage": {
+      "file": "mage_parts_v3.png",
+      "sha256": "214c671ec576bd3daf8ca8ae564a8d27d2b90bd84da257fa21fb9abb8c2a04b3"
+    }
+  },
+  "raw_parts_per_character": 12,
+  "normalized_layers_per_character": 11,
+  "existing_sprite_skins": {
+    "Assassin": 11,
+    "Mage": 10
+  },
+  "extra_boot": "not mapped to Right Calves; original leading-space layer is right forearm",
+  "formal_reference_changed": false,
+  "mapping": "Docs/Stage1/Stage1_candidate_rig_mapping.csv"
+}

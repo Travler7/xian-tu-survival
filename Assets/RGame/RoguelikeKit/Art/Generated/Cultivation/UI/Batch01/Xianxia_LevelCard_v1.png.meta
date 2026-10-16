@@ -1,0 +1,1497 @@
+fileFormatVersion: 2
+guid: 2caee53ba01e43f42bd600ec30a98c81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6314427351407419360
+    second: Xianxia_LevelCard_v1_0
+  - first:
+      213: 4686572435607867803
+    second: Xianxia_LevelCard_v1_1
+  - first:
+      213: 6949452050510185844
+    second: Xianxia_LevelCard_v1_2
+  - first:
+      213: -6479627977217412912
+    second: Xianxia_LevelCard_v1_3
+  - first:
+      213: -5580652096025666993
+    second: Xianxia_LevelCard_v1_4
+  - first:
+      213: -7320803324710896377
+    second: Xianxia_LevelCard_v1_5
+  - first:
+      213: -2938750427772711655
+    second: Xianxia_LevelCard_v1_6
+  - first:
+      213: -4483669960406935491
+    second: Xianxia_LevelCard_v1_7
+  - first:
+      213: 8191120466120651047
+    second: Xianxia_LevelCard_v1_8
+  - first:
+      213: 1863511472924438298
+    second: Xianxia_LevelCard_v1_9
+  - first:
+      213: 7524742472611890424
+    second: Xianxia_LevelCard_v1_10
+  - first:
+      213: -4656927420997993974
+    second: Xianxia_LevelCard_v1_11
+  - first:
+      213: 4293132452835240175
+    second: Xianxia_LevelCard_v1_12
+  - first:
+      213: -4682562518254680122
+    second: Xianxia_LevelCard_v1_13
+  - first:
+      213: -1672046774030554529
+    second: Xianxia_LevelCard_v1_14
+  - first:
+      213: -3795039518015535646
+    second: Xianxia_LevelCard_v1_15
+  - first:
+      213: 3099419979289792453
+    second: Xianxia_LevelCard_v1_16
+  - first:
+      213: -6152358068089678552
+    second: Xianxia_LevelCard_v1_17
+  - first:
+      213: -3504527111849447749
+    second: Xianxia_LevelCard_v1_18
+  - first:
+      213: 6754988793033286512
+    second: Xianxia_LevelCard_v1_19
+  - first:
+      213: -5850300522579746518
+    second: Xianxia_LevelCard_v1_20
+  - first:
+      213: -5673858111624198162
+    second: Xianxia_LevelCard_v1_21
+  - first:
+      213: -5773081966958086511
+    second: Xianxia_LevelCard_v1_22
+  - first:
+      213: 4548140016894823417
+    second: Xianxia_LevelCard_v1_23
+  - first:
+      213: 5939365892549706021
+    second: Xianxia_LevelCard_v1_24
+  - first:
+      213: -7782214851431246986
+    second: Xianxia_LevelCard_v1_25
+  - first:
+      213: -8709553280862053070
+    second: Xianxia_LevelCard_v1_26
+  - first:
+      213: 2554384529728745485
+    second: Xianxia_LevelCard_v1_27
+  - first:
+      213: -3280522415492578802
+    second: Xianxia_LevelCard_v1_28
+  - first:
+      213: 3516551889130932003
+    second: Xianxia_LevelCard_v1_29
+  - first:
+      213: 6048894904649899051
+    second: Xianxia_LevelCard_v1_30
+  - first:
+      213: 9027360582837243044
+    second: Xianxia_LevelCard_v1_31
+  - first:
+      213: -944837476155159453
+    second: Xianxia_LevelCard_v1_32
+  - first:
+      213: -6069270746170432377
+    second: Xianxia_LevelCard_v1_33
+  - first:
+      213: 659736596219610497
+    second: Xianxia_LevelCard_v1_34
+  - first:
+      213: 1945329206541896199
+    second: Xianxia_LevelCard_v1_35
+  - first:
+      213: -7486170686594076700
+    second: Xianxia_LevelCard_v1_36
+  - first:
+      213: 3690363466174470671
+    second: Xianxia_LevelCard_v1_37
+  - first:
+      213: 5038154760045550988
+    second: Xianxia_LevelCard_v1_38
+  - first:
+      213: -8862642924436495648
+    second: Xianxia_LevelCard_v1_39
+  - first:
+      213: -1189703494221329021
+    second: Xianxia_LevelCard_v1_40
+  - first:
+      213: -4267917274899240769
+    second: Xianxia_LevelCard_v1_41
+  - first:
+      213: 6935712250329281775
+    second: Xianxia_LevelCard_v1_42
+  - first:
+      213: 5125019282545434869
+    second: Xianxia_LevelCard_v1_43
+  - first:
+      213: -366887489247535635
+    second: Xianxia_LevelCard_v1_44
+  - first:
+      213: 351271748386111932
+    second: Xianxia_LevelCard_v1_45
+  - first:
+      213: 2923090510078698683
+    second: Xianxia_LevelCard_v1_46
+  - first:
+      213: 10629628023012401
+    second: Xianxia_LevelCard_v1_47
+  - first:
+      213: 870752769875654838
+    second: Xianxia_LevelCard_v1_48
+  - first:
+      213: -1791755584174076763
+    second: Xianxia_LevelCard_v1_49
+  - first:
+      213: -9017459996959119516
+    second: Xianxia_LevelCard_v1_50
+  - first:
+      213: 263325061992924769
+    second: Xianxia_LevelCard_v1_51
+  - first:
+      213: 2726738847385796757
+    second: Xianxia_LevelCard_v1_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 281
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020a95777c5ae58a0800000000000000
+      internalID: -6314427351407419360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_1
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 721
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b915b86bccc0a0140800000000000000
+      internalID: 4686572435607867803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 689
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4750546f1d9617060800000000000000
+      internalID: 6949452050510185844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 698
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0f54d6facb316a0800000000000000
+      internalID: -6479627977217412912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 717
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ad9597c7a8d82b0800000000000000
+      internalID: -5580652096025666993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_5
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 681
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dbb18d928476a90800000000000000
+      internalID: -7320803324710896377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_6
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 705
+        width: 89
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d841d5e067737d0800000000000000
+      internalID: -2938750427772711655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_7
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 701
+        width: 184
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38dadf2dedc6c1c0800000000000000
+      internalID: -4483669960406935491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_8
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 654
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721bd8f5aa4bca170800000000000000
+      internalID: 8191120466120651047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_9
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 651
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fa682bfc58cd910800000000000000
+      internalID: 1863511472924438298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 622
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4835a39614d6860800000000000000
+      internalID: 7524742472611890424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 648
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a73ae1f254f5fb0800000000000000
+      internalID: -4656927420997993974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_12
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 657
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe822f84835449b30800000000000000
+      internalID: 4293132452835240175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 640
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c70fdce232340fb0800000000000000
+      internalID: -4682562518254680122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 678
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a22126152bbc8e0800000000000000
+      internalID: -1672046774030554529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_15
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 681
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e54d145aaf455bc0800000000000000
+      internalID: -3795039518015535646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_16
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 623
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf015bbc0a530b20800000000000000
+      internalID: 3099419979289792453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_17
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 622
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82591840fee6e9aa0800000000000000
+      internalID: -6152358068089678552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_18
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 629
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbeec78d82b6d5fc0800000000000000
+      internalID: -3504527111849447749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_19
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 644
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0736e7e848a8ebd50800000000000000
+      internalID: 6754988793033286512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_20
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 619
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a212a52cbae8fcea0800000000000000
+      internalID: -5850300522579746518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_21
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 662
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7cbaedb186241b0800000000000000
+      internalID: -5673858111624198162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_22
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 651
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196ff34c984e1efa0800000000000000
+      internalID: -5773081966958086511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_23
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 651
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb41cf8f3d3e1f30800000000000000
+      internalID: 4548140016894823417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_24
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 633
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5210f78afcddc6250800000000000000
+      internalID: 5939365892549706021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_25
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 674
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673dba613d4000490800000000000000
+      internalID: -7782214851431246986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_26
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 652
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d11edaf63712780800000000000000
+      internalID: -8709553280862053070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_27
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 630
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d003c32323ff27320800000000000000
+      internalID: 2554384529728745485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_28
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 654
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02cbda7e3e3972d0800000000000000
+      internalID: -3280522415492578802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_29
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 622
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327c0e9cf4d4dc030800000000000000
+      internalID: 3516551889130932003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_30
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 644
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cd35b0eddf1f350800000000000000
+      internalID: 6048894904649899051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_31
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 641
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac806ffe90a74d70800000000000000
+      internalID: 9027360582837243044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_32
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 628
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c8b47425343e2f0800000000000000
+      internalID: -944837476155159453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_33
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 629
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78467d8a96e95cba0800000000000000
+      internalID: -6069270746170432377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_34
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 16
+        width: 1014
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185cef650fad72900800000000000000
+      internalID: 659736596219610497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_35
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 96
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a4f174b923ffa10800000000000000
+      internalID: 1945329206541896199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_36
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 91
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef2e998c67cb1890800000000000000
+      internalID: -7486170686594076700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_37
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 105
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a9865250ec63330800000000000000
+      internalID: 3690363466174470671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_38
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 119
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d55fb9f0f1be540800000000000000
+      internalID: 5038154760045550988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_39
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 115
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e265dd6731910580800000000000000
+      internalID: -8862642924436495648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_40
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 114
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d85eea9f25d7fe0800000000000000
+      internalID: -1189703494221329021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_41
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 104
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8a0e2d9df45c4c0800000000000000
+      internalID: -4267917274899240769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_42
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 128
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4b3317b89904060800000000000000
+      internalID: 6935712250329281775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_43
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 114
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0e52b42e9bf1740800000000000000
+      internalID: 5125019282545434869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_44
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 123
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded9ddab5cd88eaf0800000000000000
+      internalID: -366887489247535635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_45
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 121
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb14f264bc7ffd400800000000000000
+      internalID: 351271748386111932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_46
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 117
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb46e8be457e09820800000000000000
+      internalID: 2923090510078698683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_47
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 145
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cf7622793c52000800000000000000
+      internalID: 10629628023012401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_48
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 136
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b830afd709851c00800000000000000
+      internalID: 870752769875654838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_49
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 115
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac4bf01ac76227e0800000000000000
+      internalID: -1791755584174076763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_50
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467e4f8c8eb8bd280800000000000000
+      internalID: -9017459996959119516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_51
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 112
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166cb8cafb487a300800000000000000
+      internalID: 263325061992924769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_LevelCard_v1_52
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59040b9e88257d520800000000000000
+      internalID: 2726738847385796757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Xianxia_LevelCard_v1_0: -6314427351407419360
+      Xianxia_LevelCard_v1_1: 4686572435607867803
+      Xianxia_LevelCard_v1_10: 7524742472611890424
+      Xianxia_LevelCard_v1_11: -4656927420997993974
+      Xianxia_LevelCard_v1_12: 4293132452835240175
+      Xianxia_LevelCard_v1_13: -4682562518254680122
+      Xianxia_LevelCard_v1_14: -1672046774030554529
+      Xianxia_LevelCard_v1_15: -3795039518015535646
+      Xianxia_LevelCard_v1_16: 3099419979289792453
+      Xianxia_LevelCard_v1_17: -6152358068089678552
+      Xianxia_LevelCard_v1_18: -3504527111849447749
+      Xianxia_LevelCard_v1_19: 6754988793033286512
+      Xianxia_LevelCard_v1_2: 6949452050510185844
+      Xianxia_LevelCard_v1_20: -5850300522579746518
+      Xianxia_LevelCard_v1_21: -5673858111624198162
+      Xianxia_LevelCard_v1_22: -5773081966958086511
+      Xianxia_LevelCard_v1_23: 4548140016894823417
+      Xianxia_LevelCard_v1_24: 5939365892549706021
+      Xianxia_LevelCard_v1_25: -7782214851431246986
+      Xianxia_LevelCard_v1_26: -8709553280862053070
+      Xianxia_LevelCard_v1_27: 2554384529728745485
+      Xianxia_LevelCard_v1_28: -3280522415492578802
+      Xianxia_LevelCard_v1_29: 3516551889130932003
+      Xianxia_LevelCard_v1_3: -6479627977217412912
+      Xianxia_LevelCard_v1_30: 6048894904649899051
+      Xianxia_LevelCard_v1_31: 9027360582837243044
+      Xianxia_LevelCard_v1_32: -944837476155159453
+      Xianxia_LevelCard_v1_33: -6069270746170432377
+      Xianxia_LevelCard_v1_34: 659736596219610497
+      Xianxia_LevelCard_v1_35: 1945329206541896199
+      Xianxia_LevelCard_v1_36: -7486170686594076700
+      Xianxia_LevelCard_v1_37: 3690363466174470671
+      Xianxia_LevelCard_v1_38: 5038154760045550988
+      Xianxia_LevelCard_v1_39: -8862642924436495648
+      Xianxia_LevelCard_v1_4: -5580652096025666993
+      Xianxia_LevelCard_v1_40: -1189703494221329021
+      Xianxia_LevelCard_v1_41: -4267917274899240769
+      Xianxia_LevelCard_v1_42: 6935712250329281775
+      Xianxia_LevelCard_v1_43: 5125019282545434869
+      Xianxia_LevelCard_v1_44: -366887489247535635
+      Xianxia_LevelCard_v1_45: 351271748386111932
+      Xianxia_LevelCard_v1_46: 2923090510078698683
+      Xianxia_LevelCard_v1_47: 10629628023012401
+      Xianxia_LevelCard_v1_48: 870752769875654838
+      Xianxia_LevelCard_v1_49: -1791755584174076763
+      Xianxia_LevelCard_v1_5: -7320803324710896377
+      Xianxia_LevelCard_v1_50: -9017459996959119516
+      Xianxia_LevelCard_v1_51: 263325061992924769
+      Xianxia_LevelCard_v1_52: 2726738847385796757
+      Xianxia_LevelCard_v1_6: -2938750427772711655
+      Xianxia_LevelCard_v1_7: -4483669960406935491
+      Xianxia_LevelCard_v1_8: 8191120466120651047
+      Xianxia_LevelCard_v1_9: 1863511472924438298
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

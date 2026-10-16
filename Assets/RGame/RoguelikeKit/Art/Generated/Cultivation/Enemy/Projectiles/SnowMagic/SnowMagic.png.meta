@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: bdd6567f18dfc9341b9f5228b3035272
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2716141169112144938
+    second: SnowMagic_0
+  - first:
+      213: 840165686188779845
+    second: SnowMagic_1
+  - first:
+      213: 7496329325514328568
+    second: SnowMagic_2
+  - first:
+      213: 2402832739567602793
+    second: SnowMagic_3
+  - first:
+      213: 436219345062145004
+    second: SnowMagic_4
+  - first:
+      213: -277920539974730752
+    second: SnowMagic_5
+  - first:
+      213: -2691949614315968264
+    second: SnowMagic_6
+  - first:
+      213: -4011420874711383338
+    second: SnowMagic_7
+  - first:
+      213: 8260860855078625810
+    second: SnowMagic_8
+  - first:
+      213: -9193154022912128734
+    second: SnowMagic_9
+  - first:
+      213: -378197558382647066
+    second: SnowMagic_10
+  - first:
+      213: 6335289075718136375
+    second: SnowMagic_11
+  - first:
+      213: -8789428856526997966
+    second: SnowMagic_12
+  - first:
+      213: -2817312219583525405
+    second: SnowMagic_13
+  - first:
+      213: 2670284834053703811
+    second: SnowMagic_14
+  - first:
+      213: -7386766731236736761
+    second: SnowMagic_15
+  - first:
+      213: 3165777486224190286
+    second: SnowMagic_16
+  - first:
+      213: 7365156954050107343
+    second: SnowMagic_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 509.28873
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SnowMagic_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 63
+        width: 332
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c5eb8a00ca1b520800000000000000
+      internalID: 2716141169112144938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 927bd48fabb1ece43a53c121372aa1bd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SnowMagic_0: 2716141169112144938
+      SnowMagic_1: 840165686188779845
+      SnowMagic_10: -378197558382647066
+      SnowMagic_11: 6335289075718136375
+      SnowMagic_12: -8789428856526997966
+      SnowMagic_13: -2817312219583525405
+      SnowMagic_14: 2670284834053703811
+      SnowMagic_15: -7386766731236736761
+      SnowMagic_16: 3165777486224190286
+      SnowMagic_17: 7365156954050107343
+      SnowMagic_2: 7496329325514328568
+      SnowMagic_3: 2402832739567602793
+      SnowMagic_4: 436219345062145004
+      SnowMagic_5: -277920539974730752
+      SnowMagic_6: -2691949614315968264
+      SnowMagic_7: -4011420874711383338
+      SnowMagic_8: 8260860855078625810
+      SnowMagic_9: -9193154022912128734
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

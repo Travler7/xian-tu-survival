@@ -1,0 +1,1575 @@
+fileFormatVersion: 2
+guid: 2dc909f965329ad4aaf35488452ee3ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2634306415774879994
+    second: Xianxia_SettingRow_v1_0
+  - first:
+      213: -6866032548154266788
+    second: Xianxia_SettingRow_v1_1
+  - first:
+      213: -306427215414141310
+    second: Xianxia_SettingRow_v1_2
+  - first:
+      213: 2764431264646687104
+    second: Xianxia_SettingRow_v1_3
+  - first:
+      213: -4643196753540953904
+    second: Xianxia_SettingRow_v1_4
+  - first:
+      213: 6820712621328488025
+    second: Xianxia_SettingRow_v1_5
+  - first:
+      213: 5293926105246721494
+    second: Xianxia_SettingRow_v1_6
+  - first:
+      213: -6963508633589751686
+    second: Xianxia_SettingRow_v1_7
+  - first:
+      213: 5912912075485833149
+    second: Xianxia_SettingRow_v1_8
+  - first:
+      213: 5957537450988672234
+    second: Xianxia_SettingRow_v1_9
+  - first:
+      213: 7704127976461598991
+    second: Xianxia_SettingRow_v1_10
+  - first:
+      213: 3068527959281457655
+    second: Xianxia_SettingRow_v1_11
+  - first:
+      213: 1470575036686650907
+    second: Xianxia_SettingRow_v1_12
+  - first:
+      213: 3431214795439642901
+    second: Xianxia_SettingRow_v1_13
+  - first:
+      213: -958028898014385423
+    second: Xianxia_SettingRow_v1_14
+  - first:
+      213: 8333705774613271376
+    second: Xianxia_SettingRow_v1_15
+  - first:
+      213: 4447057514802108674
+    second: Xianxia_SettingRow_v1_16
+  - first:
+      213: 2679915673989402724
+    second: Xianxia_SettingRow_v1_17
+  - first:
+      213: -8218539540684662100
+    second: Xianxia_SettingRow_v1_18
+  - first:
+      213: 3760968694108785897
+    second: Xianxia_SettingRow_v1_19
+  - first:
+      213: -3681726967833721481
+    second: Xianxia_SettingRow_v1_20
+  - first:
+      213: 7927668670198873547
+    second: Xianxia_SettingRow_v1_21
+  - first:
+      213: -5077844991995410976
+    second: Xianxia_SettingRow_v1_22
+  - first:
+      213: -344211954503557691
+    second: Xianxia_SettingRow_v1_23
+  - first:
+      213: 2832784114498598034
+    second: Xianxia_SettingRow_v1_24
+  - first:
+      213: -4962755557459080460
+    second: Xianxia_SettingRow_v1_25
+  - first:
+      213: 7722021610578492341
+    second: Xianxia_SettingRow_v1_26
+  - first:
+      213: -7765584025824809775
+    second: Xianxia_SettingRow_v1_27
+  - first:
+      213: 8330061779645990780
+    second: Xianxia_SettingRow_v1_28
+  - first:
+      213: -3716675147766262032
+    second: Xianxia_SettingRow_v1_29
+  - first:
+      213: -8872389543223500984
+    second: Xianxia_SettingRow_v1_30
+  - first:
+      213: 4819338581752639524
+    second: Xianxia_SettingRow_v1_31
+  - first:
+      213: 7053897843559393014
+    second: Xianxia_SettingRow_v1_32
+  - first:
+      213: 2530535289829474091
+    second: Xianxia_SettingRow_v1_33
+  - first:
+      213: 5666529102977719119
+    second: Xianxia_SettingRow_v1_34
+  - first:
+      213: -655529326975002861
+    second: Xianxia_SettingRow_v1_35
+  - first:
+      213: 6547174875910122886
+    second: Xianxia_SettingRow_v1_36
+  - first:
+      213: -7377118401859145792
+    second: Xianxia_SettingRow_v1_37
+  - first:
+      213: 823137824873631639
+    second: Xianxia_SettingRow_v1_38
+  - first:
+      213: 4862113766398777276
+    second: Xianxia_SettingRow_v1_39
+  - first:
+      213: -8627219292392870649
+    second: Xianxia_SettingRow_v1_40
+  - first:
+      213: -2140568260656901854
+    second: Xianxia_SettingRow_v1_41
+  - first:
+      213: -4817993885537108102
+    second: Xianxia_SettingRow_v1_42
+  - first:
+      213: -6827409009832771394
+    second: Xianxia_SettingRow_v1_43
+  - first:
+      213: -815198259840009795
+    second: Xianxia_SettingRow_v1_44
+  - first:
+      213: 385884167260676539
+    second: Xianxia_SettingRow_v1_45
+  - first:
+      213: 7022992614686651228
+    second: Xianxia_SettingRow_v1_46
+  - first:
+      213: -4559046207473097860
+    second: Xianxia_SettingRow_v1_47
+  - first:
+      213: 2531083987398781880
+    second: Xianxia_SettingRow_v1_48
+  - first:
+      213: -5072017045550468530
+    second: Xianxia_SettingRow_v1_49
+  - first:
+      213: -1928261655032921637
+    second: Xianxia_SettingRow_v1_50
+  - first:
+      213: -7447778776687344615
+    second: Xianxia_SettingRow_v1_51
+  - first:
+      213: 4341312668912936533
+    second: Xianxia_SettingRow_v1_52
+  - first:
+      213: -4548359414415587407
+    second: Xianxia_SettingRow_v1_53
+  - first:
+      213: 4900428619079033251
+    second: Xianxia_SettingRow_v1_54
+  - first:
+      213: 7904806490524195949
+    second: Xianxia_SettingRow_v1_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_0
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 481
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fa432a540117bd0800000000000000
+      internalID: -2634306415774879994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 515
+        width: 61
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5baef676c3f6b0a0800000000000000
+      internalID: -6866032548154266788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_2
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 494
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e5ab3321a5fbbf0800000000000000
+      internalID: -306427215414141310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_3
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 462
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089ef3fa69b3d5620800000000000000
+      internalID: 2764431264646687104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_4
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 473
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8c1f2472d009fb0800000000000000
+      internalID: -4643196753540953904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 1257
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956de4dcdf908ae50800000000000000
+      internalID: 6820712621328488025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 490
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5e56a8ebdc77940800000000000000
+      internalID: 5293926105246721494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 485
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a706480cac5ac5f90800000000000000
+      internalID: -6963508633589751686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_8
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 487
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db763776432ee0250800000000000000
+      internalID: 5912912075485833149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 485
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4144e4fbc6da250800000000000000
+      internalID: 5957537450988672234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_10
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 470
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01842d839f8aea60800000000000000
+      internalID: 7704127976461598991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_11
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 466
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f95354dbe9959a20800000000000000
+      internalID: 3068527959281457655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_12
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 479
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ec3455438886410800000000000000
+      internalID: 1470575036686650907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 469
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5199e365daf1e9f20800000000000000
+      internalID: 3431214795439642901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_14
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 473
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa2b490bc564b2f0800000000000000
+      internalID: -958028898014385423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_15
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 474
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05312768f3547a370800000000000000
+      internalID: 8333705774613271376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_16
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 475
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209d2898f3f17bd30800000000000000
+      internalID: 4447057514802108674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_17
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 477
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460d3205b19f03520800000000000000
+      internalID: 2679915673989402724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_18
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 474
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa1df8d4d1e1fd80800000000000000
+      internalID: -8218539540684662100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_19
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 470
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec08bfc915a13430800000000000000
+      internalID: 3760968694108785897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_20
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 469
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7758b4254d0e7ecc0800000000000000
+      internalID: -3681726967833721481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_21
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 468
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd723827acb40e60800000000000000
+      internalID: 7927668670198873547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_22
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 469
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e50e9322eed789b0800000000000000
+      internalID: -5077844991995410976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_23
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 465
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd5f541d0d193bf0800000000000000
+      internalID: -344211954503557691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_24
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 460
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294fe06b422105720800000000000000
+      internalID: 2832784114498598034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_25
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 455
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa4e824d10c02bb0800000000000000
+      internalID: -4962755557459080460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_26
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 453
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbbb66edb12a2b60800000000000000
+      internalID: 7722021610578492341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_27
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 453
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dca34be87a1b3490800000000000000
+      internalID: -7765584025824809775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_28
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 453
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c778bd4dd035a9370800000000000000
+      internalID: 8330061779645990780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_29
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 455
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f69ed715a7bb6cc0800000000000000
+      internalID: -3716675147766262032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_30
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 460
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fd547e7b0fed480800000000000000
+      internalID: -8872389543223500984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_31
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 443
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42073b9f7eab1e240800000000000000
+      internalID: 4819338581752639524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_32
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 122
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6604f27ba74e160800000000000000
+      internalID: 7053897843559393014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_33
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 115
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f30e150744e1320800000000000000
+      internalID: 2530535289829474091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_34
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 115
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b5664523e83ae40800000000000000
+      internalID: 5666529102977719119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_35
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 106
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317ddcddc8717e6f0800000000000000
+      internalID: -655529326975002861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_36
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 83
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d2cf87cdc3cda50800000000000000
+      internalID: 6547174875910122886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_37
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 83
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf203f26e53f9990800000000000000
+      internalID: -7377118401859145792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_38
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 82
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fc7c49d7f5c6b00800000000000000
+      internalID: 823137824873631639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_39
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 89
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb75cbfb5b2b97340800000000000000
+      internalID: 4862113766398777276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_40
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 75
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70da68533c5f54880800000000000000
+      internalID: -8627219292392870649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_41
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 78
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221d116128c2b42e0800000000000000
+      internalID: -2140568260656901854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_42
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 69
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f7e82861c032db0800000000000000
+      internalID: -4817993885537108102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_43
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 75
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0cd90cdab2041a0800000000000000
+      internalID: -6827409009832771394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_44
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db938b47085dfa4f0800000000000000
+      internalID: -815198259840009795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_45
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 57
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1250a0b9fea5500800000000000000
+      internalID: 385884167260676539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_46
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 65
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53f69ad29ea67160800000000000000
+      internalID: 7022992614686651228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_47
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 67
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7369f011a30bb0c0800000000000000
+      internalID: -4559046207473097860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_48
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 62
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb659de977302320800000000000000
+      internalID: 2531083987398781880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_49
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 41
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42fc39ae539c99b0800000000000000
+      internalID: -5072017045550468530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_50
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd181c9bd307d35e0800000000000000
+      internalID: -1928261655032921637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_51
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 51
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9148bd1a9ac24a890800000000000000
+      internalID: -7447778776687344615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_52
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 52
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55665710fd07f3c30800000000000000
+      internalID: 4341312668912936533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_53
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 41
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b784f8f53bf0e0c0800000000000000
+      internalID: -4548359414415587407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_54
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 41
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a12d5f8dd1d10440800000000000000
+      internalID: 4900428619079033251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xianxia_SettingRow_v1_55
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 24
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c95e52f9383bd60800000000000000
+      internalID: 7904806490524195949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Xianxia_SettingRow_v1_0: -2634306415774879994
+      Xianxia_SettingRow_v1_1: -6866032548154266788
+      Xianxia_SettingRow_v1_10: 7704127976461598991
+      Xianxia_SettingRow_v1_11: 3068527959281457655
+      Xianxia_SettingRow_v1_12: 1470575036686650907
+      Xianxia_SettingRow_v1_13: 3431214795439642901
+      Xianxia_SettingRow_v1_14: -958028898014385423
+      Xianxia_SettingRow_v1_15: 8333705774613271376
+      Xianxia_SettingRow_v1_16: 4447057514802108674
+      Xianxia_SettingRow_v1_17: 2679915673989402724
+      Xianxia_SettingRow_v1_18: -8218539540684662100
+      Xianxia_SettingRow_v1_19: 3760968694108785897
+      Xianxia_SettingRow_v1_2: -306427215414141310
+      Xianxia_SettingRow_v1_20: -3681726967833721481
+      Xianxia_SettingRow_v1_21: 7927668670198873547
+      Xianxia_SettingRow_v1_22: -5077844991995410976
+      Xianxia_SettingRow_v1_23: -344211954503557691
+      Xianxia_SettingRow_v1_24: 2832784114498598034
+      Xianxia_SettingRow_v1_25: -4962755557459080460
+      Xianxia_SettingRow_v1_26: 7722021610578492341
+      Xianxia_SettingRow_v1_27: -7765584025824809775
+      Xianxia_SettingRow_v1_28: 8330061779645990780
+      Xianxia_SettingRow_v1_29: -3716675147766262032
+      Xianxia_SettingRow_v1_3: 2764431264646687104
+      Xianxia_SettingRow_v1_30: -8872389543223500984
+      Xianxia_SettingRow_v1_31: 4819338581752639524
+      Xianxia_SettingRow_v1_32: 7053897843559393014
+      Xianxia_SettingRow_v1_33: 2530535289829474091
+      Xianxia_SettingRow_v1_34: 5666529102977719119
+      Xianxia_SettingRow_v1_35: -655529326975002861
+      Xianxia_SettingRow_v1_36: 6547174875910122886
+      Xianxia_SettingRow_v1_37: -7377118401859145792
+      Xianxia_SettingRow_v1_38: 823137824873631639
+      Xianxia_SettingRow_v1_39: 4862113766398777276
+      Xianxia_SettingRow_v1_4: -4643196753540953904
+      Xianxia_SettingRow_v1_40: -8627219292392870649
+      Xianxia_SettingRow_v1_41: -2140568260656901854
+      Xianxia_SettingRow_v1_42: -4817993885537108102
+      Xianxia_SettingRow_v1_43: -6827409009832771394
+      Xianxia_SettingRow_v1_44: -815198259840009795
+      Xianxia_SettingRow_v1_45: 385884167260676539
+      Xianxia_SettingRow_v1_46: 7022992614686651228
+      Xianxia_SettingRow_v1_47: -4559046207473097860
+      Xianxia_SettingRow_v1_48: 2531083987398781880
+      Xianxia_SettingRow_v1_49: -5072017045550468530
+      Xianxia_SettingRow_v1_5: 6820712621328488025
+      Xianxia_SettingRow_v1_50: -1928261655032921637
+      Xianxia_SettingRow_v1_51: -7447778776687344615
+      Xianxia_SettingRow_v1_52: 4341312668912936533
+      Xianxia_SettingRow_v1_53: -4548359414415587407
+      Xianxia_SettingRow_v1_54: 4900428619079033251
+      Xianxia_SettingRow_v1_55: 7904806490524195949
+      Xianxia_SettingRow_v1_6: 5293926105246721494
+      Xianxia_SettingRow_v1_7: -6963508633589751686
+      Xianxia_SettingRow_v1_8: 5912912075485833149
+      Xianxia_SettingRow_v1_9: 5957537450988672234
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

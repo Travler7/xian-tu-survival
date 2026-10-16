@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 385c2481e42cfa942b52505d38bca920, type: 3}
+  m_Name: CircularMotionSkill
+  m_EditorClassIdentifier: 
+  Description: "\u5C71\u5CB3\u6CD5\u5370\u73AF\u7ED5\u62A4\u8EAB\uFF0C\u539A\u91CD\u7075\u538B\u9707\u9000\u6765\u654C\u3002"
+  SkillType: 0
+  Key: CircularMotionSkill
+  DisplayName: "\u5C71\u5CB3\u62A4\u6CD5"
+  MixAttributeSkillKey: Duration
+  AttributeType: 0
+  SkillPrefab: {fileID: 3228222673249282260, guid: 6cf69d9ea635a50499001939c04350e6, type: 3}
+  SkillIcon: {fileID: 21300000, guid: 8e07a69cc1d6f4f49a560686c6020f30, type: 3}
+  Velocity: 360
+  Duration: 3
+  CD: 5
+  Damage: 10
+  Amount: 1
+  Area: 0
+  UpgradeAttribute:
+  - skillAttributeType: 1
+    IntValue: 10
+  - skillAttributeType: 0
+    IntValue: 10
+  - skillAttributeType: 4
+    IntValue: 20
+  - skillAttributeType: 4
+    IntValue: 20
+  - skillAttributeType: 1
+    IntValue: 10
+  - skillAttributeType: 0
+    IntValue: 10
+  - skillAttributeType: 4
+    IntValue: 20
+  - skillAttributeType: 0
+    IntValue: 10
+  - skillAttributeType: 1
+    IntValue: 10
+  - skillAttributeType: 4
+    IntValue: 20
+  UpgradeAttributeModValue: 

@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 132a35162d9ba794c82e9e9ecbfa91f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -655283709206786587
+    second: Xianxia_TreasureChest_v2_0
+  - first:
+      213: -6224291657184689493
+    second: Xianxia_TreasureChest_v2_1
+  - first:
+      213: -4477929462769717778
+    second: Xianxia_TreasureChest_v2_2
+  - first:
+      213: -6562845179941681754
+    second: Xianxia_TreasureChest_v2_3
+  - first:
+      213: -3746765055234593595
+    second: Xianxia_TreasureChest_v2_4
+  - first:
+      213: 9160220108972242587
+    second: Xianxia_TreasureChest_v2_5
+  - first:
+      213: -4149340260342446803
+    second: Xianxia_TreasureChest_v2_6
+  - first:
+      213: 8115531907426360050
+    second: Xianxia_TreasureChest_v2_7
+  - first:
+      213: 823847153239788155
+    second: Xianxia_TreasureChest_v2_8
+  - first:
+      213: -8837192725614440204
+    second: Xianxia_TreasureChest_v2_9
+  - first:
+      213: -642557293487951526
+    second: Xianxia_TreasureChest_v2_10
+  - first:
+      213: -8374756650491098075
+    second: Xianxia_TreasureChest_v2_11
+  - first:
+      213: -490651201859148706
+    second: Xianxia_TreasureChest_v2_12
+  - first:
+      213: -3745402050096794447
+    second: Xianxia_TreasureChest_v2_13
+  - first:
+      213: 8872768032315356416
+    second: Xianxia_TreasureChest_v2_14
+  - first:
+      213: -3434152229908380406
+    second: Xianxia_TreasureChest_v2_15
+  - first:
+      213: 6896556401555791619
+    second: Xianxia_TreasureChest_v2_16
+  - first:
+      213: 1103060833111512361
+    second: Xianxia_TreasureChest_v2_17
+  - first:
+      213: 1682124233109877563
+    second: Xianxia_TreasureChest_v2_18
+  - first:
+      213: -7728224799649287761
+    second: Xianxia_TreasureChest_v2_19
+  - first:
+      213: -2388440315730883728
+    second: Xianxia_TreasureChest_v2_20
+  - first:
+      213: -5921015011545696876
+    second: Xianxia_TreasureChest_v2_21
+  - first:
+      213: -917772218463919241
+    second: Xianxia_TreasureChest_v2_22
+  - first:
+      213: -6752861568549826891
+    second: Xianxia_TreasureChest_v2_23
+  - first:
+      213: 4210128544266031262
+    second: Xianxia_TreasureChest_v2_24
+  - first:
+      213: -5858965066151695523
+    second: Xianxia_TreasureChest_v2_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 955.83673
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xianxia_TreasureChest_v2_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 77
+        width: 942
+        height: 883
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed01a530f6f7e6f0800000000000000
+      internalID: -655283709206786587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a795ad22a7af2bd4795f6c67a29cc37d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Xianxia_TreasureChest_v2_0: -655283709206786587
+      Xianxia_TreasureChest_v2_1: -6224291657184689493
+      Xianxia_TreasureChest_v2_10: -642557293487951526
+      Xianxia_TreasureChest_v2_11: -8374756650491098075
+      Xianxia_TreasureChest_v2_12: -490651201859148706
+      Xianxia_TreasureChest_v2_13: -3745402050096794447
+      Xianxia_TreasureChest_v2_14: 8872768032315356416
+      Xianxia_TreasureChest_v2_15: -3434152229908380406
+      Xianxia_TreasureChest_v2_16: 6896556401555791619
+      Xianxia_TreasureChest_v2_17: 1103060833111512361
+      Xianxia_TreasureChest_v2_18: 1682124233109877563
+      Xianxia_TreasureChest_v2_19: -7728224799649287761
+      Xianxia_TreasureChest_v2_2: -4477929462769717778
+      Xianxia_TreasureChest_v2_20: -2388440315730883728
+      Xianxia_TreasureChest_v2_21: -5921015011545696876
+      Xianxia_TreasureChest_v2_22: -917772218463919241
+      Xianxia_TreasureChest_v2_23: -6752861568549826891
+      Xianxia_TreasureChest_v2_24: 4210128544266031262
+      Xianxia_TreasureChest_v2_25: -5858965066151695523
+      Xianxia_TreasureChest_v2_3: -6562845179941681754
+      Xianxia_TreasureChest_v2_4: -3746765055234593595
+      Xianxia_TreasureChest_v2_5: 9160220108972242587
+      Xianxia_TreasureChest_v2_6: -4149340260342446803
+      Xianxia_TreasureChest_v2_7: 8115531907426360050
+      Xianxia_TreasureChest_v2_8: 823847153239788155
+      Xianxia_TreasureChest_v2_9: -8837192725614440204
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
