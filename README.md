@@ -41,7 +41,7 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/<你的账号>/xian-tu-survival.git
+git clone https://github.com/Travler7/xian-tu-survival.git
 ```
 
 1. 使用 Unity Hub 打开项目目录。
