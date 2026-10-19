@@ -1,123 +1,82 @@
 # 仙途生存
 
-一款基于 Unity 6 的仙侠题材 2D 生存类 Roguelike 游戏。玩家选择角色进入关卡，在持续生成的敌人中战斗，收集经验和资源，选择功法与强化，完成渡劫、神通突破和最终 Boss 结算。
+一款基于 Unity 6 的仙侠题材 2D 生存类 Roguelike 游戏。玩家选择角色与关卡，通过移动躲避敌人、自动攻击、收集经验和选择强化，组合五行技能，完成渡劫与神通突破，并挑战最终 Boss。
 
-## 当前版本
+本项目基于 **Survivors Roguelike Kit** 改造扩展，保留原有基础框架，在此基础上加入修仙主题、五行战斗和局内成长机制。
 
-当前可交付内容覆盖阶段 0–6：
-
-- 中文化主菜单、角色选择、关卡选择、升级、宝箱和结算流程；
-- 两张关卡、阶段 0 的普通敌人、精英和最终紫色乌鸦 Boss 时间线；
-- 五行元素、10 组双元素反应、元素印记、反应文本与池化 VFX；
-- 三名角色本命灵根和五种单元素共鸣；
-- 十组双元素反应专属神通突破和五行通用保底突破；
-- 4:00、8:00 渡劫，10:30 最终劫相，11:00 Boss，12:00 结算；
-- 精英和最终 Boss 邪染护体、破染窗口和神通突破；
-- Windows 64 位构建与 80 敌人性能基线场景。
-
-阶段 0 的 Boss、正式 SpawnSet、PoolKey、碰撞层、结算、地图和属性初始化流程作为基线保留。项目没有新增敌人五行属性、敌人抗性、敌人主动五行攻击、第三次渡劫或新攻击动画系统。
-
-## 核心循环
-
-```text
-主菜单
-  -> 角色选择
-  -> 关卡选择
-  -> 自动攻击与移动生存
-  -> 功法选择与五行反应
-  -> 4:00 / 8:00 渡劫与局内奖励
-  -> 精英护体、破染窗口与神通突破
-  -> 11:00 最终 Boss
-  -> 胜利、失败或 12:00 超时结算
-```
+本仓库提供完整 Unity 工程源码，需使用 Unity Editor 运行；当前未提供可直接下载的游戏安装包。
 
 ## 环境要求
 
-- Unity `6000.6.4f1`；
-- Built-in Render Pipeline；
-- Windows 开发环境；
-- 依赖由 `Packages/manifest.json` 和 `Packages/packages-lock.json` 管理。
+- Unity **6000.6.4f1**
+- Built-in Render Pipeline
+- Windows 开发环境
+
+工程使用 Addressables、Input System、Localization、UGUI、TextMesh Pro 和 DOTween。Unity 包由工程依赖清单管理，DOTween 已随工程附带。
 
 ## 快速开始
 
+克隆仓库并进入项目目录：
+
 ```bash
 git clone https://github.com/Travler7/xian-tu-survival.git
+cd xian-tu-survival
 ```
 
-1. 使用 Unity Hub 打开项目目录。
-2. 使用 Unity `6000.6.4f1` 导入项目。
-3. 打开 `Assets/RGame/RoguelikeKit/Scenes/Initialization.unity`。
-4. 点击 Play。
-5. 在主菜单选择角色和关卡，进入战斗。
+1. 打开 Unity Hub，添加克隆后的 `xian-tu-survival` 项目目录。
+2. 使用 Unity **6000.6.4f1** 打开项目，等待依赖解析与资源导入完成。
+3. 打开启动场景：`Assets/RGame/RoguelikeKit/Scenes/Initialization.unity`。
+4. 点击 **Play**，在主菜单选择角色与关卡，进入游戏。
 
-Windows 构建位于 [`Builds/Stage6/SurvivorsRoguelike.exe`](Builds/Stage6/SurvivorsRoguelike.exe)。
+基础操作：
 
-## 项目结构
+| 操作 | 按键 |
+| --- | --- |
+| 移动 | WASD 或方向键 |
+| 暂停 / 返回 | Esc |
+| 攻击 | 由技能系统自动执行 |
 
-- `Assets/RGame/RoguelikeKit/Scenes/`：启动、菜单、玩法和管理器场景；
-- `Assets/RGame/RoguelikeKit/ScriptableObjects/`：角色、技能、关卡和运行时配置；
-- `Assets/RGame/RoguelikeKit/Scripts/`：玩法逻辑、元素、渡劫、护体、突破和显示层脚本；
-- `Assets/RGame/RoguelikeKit/Prefabs/`：角色、敌人、UI 和地图预制体；
-- `Assets/Tests/Stage3/`：阶段 3 PlayMode 隔离烟测和可重复测试入口；
-- `Assets/Tests/Stage4/`：80 敌人性能场景和采样器；
-- `Assets/RGame/RoguelikeKit/Art/Generated/`：本项目新增的修仙主题美术资源；
-- `ProfilerCaptures/Stage4/`：阶段 4 9 次有效采样 JSON；
-- `Docs/`：阶段报告、资源台账和验收记录；
-- `Packages/`：Unity 包依赖清单；
-- `ProjectSettings/`：Unity 项目设置和版本信息。
+## 与原项目的关系
 
-## 测试与证据
+- 原项目：[Survivors Roguelike Kit](https://github.com/Roo-Roo-Roo/survivors-roguelike-kit)
+- 原项目文档：[Survivors Roguelike Kit Documentation](https://roofen-game.gitbook.io/roofen-game/survivors-roguelike-kit)
+- 本项目：[仙途生存](https://github.com/Travler7/xian-tu-survival)
 
-- Unity 编译：当前构建记录 0 Error；
-- EditMode：最新全量记录 42/42 通过，结果见 `Temp/pipeline_test_status.json`；
-- PlayMode：独立隔离测试 1/1 通过，烟测报告包含 21/21 项检查，结果见 `Temp/Stage3PlayModeSmoke.json`；
-- PlayMode 独立结果快照：`Temp/pipeline_playmode_test_status.json`；
-- 阶段 4：三个场景各 3 次有效采样，预热 5 秒、采样 30 秒；
-- Windows BuildReport：0 Error、529 条历史/环境类 Warning；
-- 阶段 3–5 的正式菜单到结算完整 Play 和最终展示录像仍由用户在最后验收时完成。
+原项目提供了角色与关卡选择、自动攻击、敌人行为、刷怪、经验升级、掉落、Buff、存档、场景加载和对象池等基础能力。本项目继续使用其 ScriptableObject 配置与事件通道架构，工程中保留了 `RGame`、`RoguelikeKit` 等原有命名。
 
-详细记录：
+原项目文档可用于了解基础框架；本项目新增玩法与界面以当前工程为准。
 
-- [`Docs/Stage3_Closure_Report_2026-10-17.md`](Docs/Stage3_Closure_Report_2026-10-17.md)
-- [`Docs/Stage4_Performance_Baseline_2026-10-17.md`](Docs/Stage4_Performance_Baseline_2026-10-17.md)
-- [`Docs/Stage5_Implementation_Report_2026-10-17.md`](Docs/Stage5_Implementation_Report_2026-10-17.md)
-- [`Docs/Stage6_Release_Report_2026-10-17.md`](Docs/Stage6_Release_Report_2026-10-17.md)
-- [`Docs/Stage6_Showcase_Capture_Checklist.md`](Docs/Stage6_Showcase_Capture_Checklist.md)
+## 主要差异
 
-## 性能基线摘要
+| 方面 | 原项目基础 | 本项目的改造与扩展 |
+| --- | --- | --- |
+| 游戏主题 | 通用 2D 生存类 Roguelike 模板 | 修仙主题角色、敌人、地图、技能与中文界面 |
+| 战斗机制 | 技能攻击、伤害与 Buff 系统 | 五行印记、10 组双元素反应、5 种单元素共鸣 |
+| 局内成长 | 经验升级、技能选择与强化 | 本命灵根、渡劫事件与奖励、神通突破 |
+| 精英与 Boss | 敌人行为和关卡刷怪框架 | 邪染护体、反应破盾与限时易伤窗口 |
+| 界面交互 | 菜单、选择、设置和结算界面 | 多弹窗暂停协调、设置界面宽高比适配 |
+| 测试与采样 | 原有对象池与运行时框架 | 对象池统计、自动化测试和 80 敌人性能采样场景 |
 
-阶段 4 的有效样本来自 Unity Editor PlayMode，不代表目标硬件发布性能：
+以下三项是本项目在原模板基础上新增的玩法：
 
-| 场景 | 平均帧时间 | 平均 P95 | 最低 FPS | GC Alloc/帧 | 反应次数 | VFX 创建 | 对象池命中率 |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| Ordinary80 | 3.20 ms | 4.35 ms | 33.94 | 12.90 KiB | 0 | 0 | 100% |
-| HighHpReaction80 | 3.54 ms | 4.97 ms | 41.16 | 13.24 KiB | 1120 | 0 | 100% |
-| FeedbackWard80 | 3.96 ms | 5.57 ms | 45.99 | 13.27 KiB | 1120 | 0 | 100% |
+### 五行反应与共鸣
 
-GC Alloc 尚未达到每帧接近零，阶段 4 的结论是“基线已完成，性能优化验收暂未完成”。
+技能命中可为敌人附加元素印记，不同元素组合触发冻结、灼烧、范围伤害等反应；同元素命中达到阈值后可触发共鸣，使技能的元素搭配成为局内选择的一部分。
 
-## 内容与资源归属
+### 渡劫与神通突破
 
-### 模板和上游内容
+战斗中定时出现渡劫挑战，完成目标后可选择技能变异或灵根觉醒奖励。技能触发反应并累计进度后，还可解锁对应的神通突破，强化已有反应效果。
 
-`Assets/RGame/RSOFramework/`、原有 RoguelikeKit 的敌人/技能/刷怪/升级/结算/对象池框架、Unity 官方包、DOTween 等第三方插件属于模板或上游内容，各自授权条款以原始仓库和包声明为准。
+### 邪染护体与破染窗口
 
-### 本项目自制系统
+精英和最终 Boss 拥有独立护体值，元素反应能够更快消耗护体。击破后开启限时易伤窗口，让元素组合与输出时机共同影响战斗。
 
-阶段 0–5 的元素、印记、反应、共鸣、渡劫、奖励、邪染护体、神通突破、验收测试和性能采样脚本属于本项目的功能改造与验证内容。它们继续复用原有敌人和刷怪底层框架。
+## 资源来源
 
-### AI 辅助或本项目生成素材
-
-修仙主题角色、敌人、技能、地图、UI、宝箱和结算素材集中在 `Assets/RGame/RoguelikeKit/Art/Generated/`。详细的来源、引用和交付分类见 [`Docs/Stage5/Stage5_classification.csv`](Docs/Stage5/Stage5_classification.csv) 与 [`Docs/Stage5/Stage5_delivery_manifest.md`](Docs/Stage5/Stage5_delivery_manifest.md)。资源分类不表示每一张图片都在当前构建中被实际引用。
-
-## 已知限制
-
-- WebGL Build Support 未安装，当前只提供 Windows 64 位构建；
-- GC Alloc 仍需后续优化；
-- 性能样本来自 Editor PlayMode，尚未替代目标硬件测试；
-- 正式主菜单到结算的完整 12 分钟流程、胜利/失败/超时状态矩阵和阶段 2/3/5 展示录像，留待用户最后 Play 验收并补录；
-- 不用静态截图或编辑器内存快照冒充实机流程或发布性能证据。
+原有资源的来源说明参见原项目。本项目新增的修仙主题素材包含 AI 辅助生成与后期加工内容。
 
 ## 许可证
 
-本项目使用 MIT License，详见 [`LICENSE`](LICENSE)。DOTween、Unity packages 及其他第三方内容可能有独立授权条款，使用前请分别确认。
+本项目使用 **MIT License**，保留[原项目版权声明](https://github.com/Roo-Roo-Roo/survivors-roguelike-kit/blob/main/LICENSE)，完整条款见 [LICENSE](LICENSE)。
+
+[DOTween](https://dotween.demigiant.com/) 遵循其[官方许可](https://dotween.demigiant.com/license.php)，Unity 包及其他第三方内容遵循各自的许可条款。
