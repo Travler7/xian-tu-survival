@@ -12,9 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e27c86dbd6a826d4b8f5d24bc42a5efb, type: 3}
   m_Name: Mage
   m_EditorClassIdentifier: 
-  Description: 
+  Description: "御使寒符的法师，以远程灵术压制敌潮。"
   CharacterName: 灵修·云璃
   CharacterImage: {fileID: 21300000, guid: b3072cb1fc1401340a8c1d01dbc13d6b, type: 3}
   BeginSkillImage: {fileID: 21300000, guid: 80025d23dfa15264faafc1f3ae52a173, type: 3}
   CharacterPrefab: {fileID: 6307105677376145908, guid: 018aeed41e40b4f4e82ac24ca31e1261, type: 3}
   SellingPrice: 500
+  InnateRoot: 3

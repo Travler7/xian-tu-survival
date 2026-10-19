@@ -6,6 +6,17 @@ using RGame.RoguelikeKit;
 
 namespace RGame.Framework
 {
+    [Serializable]
+    public struct PoolRuntimeMetrics
+    {
+        public long Requests;
+        public long Hits;
+        public long Creates;
+        public long Returns;
+
+        public float HitRate => Requests <= 0 ? 1f : (float)Hits / Requests;
+    }
+
     [CreateAssetMenu(fileName = "New Pool Runtime", menuName = "RGame/Framework/Pool/Pool Runtime")]
     public class PoolRuntimeSO : DescriptionBaseSO
     {
@@ -19,6 +30,7 @@ namespace RGame.Framework
         
         private Transform _rootTransform;
         private bool _isInitialized;
+        private readonly Dictionary<string, PoolRuntimeMetrics> _metrics = new Dictionary<string, PoolRuntimeMetrics>();
 
         private void OnDisable()
         {
@@ -26,43 +38,61 @@ namespace RGame.Framework
             _pooledObjects.Clear();
             _poolContainers.Clear();
             _activeObjects.Clear();
+            _metrics.Clear();
             _rootTransform = null;
             _isInitialized = false;
         }
 
         public void Initialize(Transform root)
         {
+            InitializeInternal(root, null);
+        }
+
+#if UNITY_EDITOR
+        /// <summary>
+        /// Initializes only the pools required by an isolated performance scene.
+        /// Formal gameplay still uses Initialize and preloads every configured pool.
+        /// </summary>
+        public void InitializeForTests(Transform root, params string[] keys)
+        {
+            var allowed = keys == null ? null : new HashSet<string>(keys);
+            InitializeInternal(root, allowed);
+        }
+#endif
+
+        private void InitializeInternal(Transform root, HashSet<string> allowedKeys)
+        {
             if (_isInitialized)
                 return;
-            
+
             _rootTransform = root ?? throw new ArgumentNullException(nameof(root), "Root transform cannot be null");
-            
+
             foreach (var definition in _poolDefinitions)
             {
+                if (allowedKeys != null && !allowedKeys.Contains(definition.Key))
+                    continue;
+
                 if (string.IsNullOrEmpty(definition.Key))
                 {
                     Debug.LogError($"[{nameof(PoolRuntimeSO)}] Pool definition has an empty key");
                     continue;
                 }
-                
+
                 if (definition.Pool?.Prefab == null)
                 {
                     Debug.LogError($"[{nameof(PoolRuntimeSO)}] Pool definition '{definition.Key}' has a null prefab");
                     continue;
                 }
-                
+
                 _poolConfigs[definition.Key] = definition.Pool;
             }
-            
+
             foreach (var kvp in _poolConfigs)
             {
-                string key = kvp.Key;
-                SolePool pool = kvp.Value;
-                
-                CreatePoolContainer(key);
-                PreloadObjects(key, pool);
+                CreatePoolContainer(kvp.Key);
+                PreloadObjects(kvp.Key, kvp.Value);
             }
-            
+
             _isInitialized = true;
         }
         
@@ -91,7 +121,13 @@ namespace RGame.Framework
             if (!ValidatePoolExists(key))
                 return null;
             
+            var metrics = GetMetrics(key);
+            metrics.Requests++;
+            bool pooled = _pooledObjects[key].Count > 0;
+            if (pooled) metrics.Hits++;
             GameObject obj = GetObjectFromPool(key);
+            if (!pooled) metrics.Creates++;
+            _metrics[key] = metrics;
             ActivateObject(obj, key);
             _activeObjects[key].Add(obj);
             
@@ -115,6 +151,9 @@ namespace RGame.Framework
             }
             
             _activeObjects[key].Remove(obj);
+            var metrics = GetMetrics(key);
+            metrics.Returns++;
+            _metrics[key] = metrics;
             DeactivateObject(obj, key);
             ReturnObjectToPool(obj, key);
         }
@@ -152,6 +191,60 @@ namespace RGame.Framework
             }
             return Array.Empty<GameObject>();
         }
+
+        public bool HasPool(string key)
+        {
+            return !string.IsNullOrEmpty(key) && _poolConfigs.ContainsKey(key);
+        }
+
+        public PoolRuntimeMetrics GetMetrics(string key)
+        {
+            return _metrics.TryGetValue(key, out var metrics) ? metrics : default;
+        }
+
+        public void ResetMetrics()
+        {
+            _metrics.Clear();
+        }
+
+#if UNITY_EDITOR
+        /// <summary>
+        /// Clears the runtime instance created by an isolated performance scene.
+        /// ScriptableObject assets survive scene reloads in the Editor, so tests
+        /// must explicitly release their transient pools before the next run.
+        /// </summary>
+        public void ResetRuntimeForTests()
+        {
+            if (!_isInitialized)
+            {
+                _metrics.Clear();
+                return;
+            }
+
+            foreach (var key in new List<string>(_poolConfigs.Keys))
+            {
+                if (_pooledObjects.TryGetValue(key, out var queue))
+                {
+                    while (queue.Count > 0)
+                    {
+                        var obj = queue.Dequeue();
+                        if (obj != null) Destroy(obj);
+                    }
+                }
+
+                if (_poolContainers.TryGetValue(key, out var container) && container != null)
+                    Destroy(container.gameObject);
+            }
+
+            _poolConfigs.Clear();
+            _pooledObjects.Clear();
+            _poolContainers.Clear();
+            _activeObjects.Clear();
+            _metrics.Clear();
+            _rootTransform = null;
+            _isInitialized = false;
+        }
+#endif
 
         public bool Register(PoolDefinition poolDefinition)
         {

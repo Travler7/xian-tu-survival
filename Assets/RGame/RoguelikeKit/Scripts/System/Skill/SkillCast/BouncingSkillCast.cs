@@ -16,7 +16,7 @@ namespace RGame.RoguelikeKit
             for (int i = 0; i < amount; i++)
             {
                 var go = _pool.Request(Key);
-                var skill = go.GetComponent<BouncingSkill>();
+                var skill = ConfigureSkill<BouncingSkill>(go, skillData);
 
                 if (skillData.CurrentState is SkillCurrentState.Mixed)
                 {

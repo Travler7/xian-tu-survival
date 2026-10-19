@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CorruptionWardConfig
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b9c3d5e7f8041a6b8c0d2e4f6137a95, type: 3}
+  EliteWardRatio: 0.25
+  BossWardRatio: 0.35
+  ReactionDamageMultiplier: 2
+  BrokenDuration: 2.5
+  VulnerabilityMultiplier: 1.25

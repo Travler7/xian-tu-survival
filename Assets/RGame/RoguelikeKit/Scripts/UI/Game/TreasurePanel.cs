@@ -33,12 +33,13 @@ namespace RGame.RoguelikeKit
         private void OnDisable()
         {
             openTreasurePanelChannel.UnregisterListener(Show);
+            PauseCoordinator.Release(this);
         }
 
         public void Show(List<SkillDataSO> skillDataSos)
         {
-            Time.timeScale = 0;
-            
+            PauseCoordinator.Acquire(this);
+
             canvasGroup.alpha = 1f;
             canvasGroup.interactable = true; 
             canvasGroup.blocksRaycasts = true;
@@ -72,8 +73,8 @@ namespace RGame.RoguelikeKit
                 }
             }
             
-            Time.timeScale = 1;
-            
+            PauseCoordinator.Release(this);
+
             canvasGroup.alpha = 0f;
             canvasGroup.interactable = false; 
             canvasGroup.blocksRaycasts = false;

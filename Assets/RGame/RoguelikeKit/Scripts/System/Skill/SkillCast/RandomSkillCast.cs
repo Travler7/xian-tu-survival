@@ -19,7 +19,7 @@ namespace RGame.RoguelikeKit
             {
                 for (int i = 0; i < amount && i< enemies.Count; i++)
                 {
-                    SpawnSkill(damage,enemies[i]);
+                    SpawnSkill(damage, enemies[i], skillData);
                 }
             }
             else
@@ -27,14 +27,14 @@ namespace RGame.RoguelikeKit
                 for (int i = 0; i < amount; i++)
                 {
                     int index = Random.Range(0, enemies.Count);
-                    SpawnSkill(damage, enemies[index]);
+                    SpawnSkill(damage, enemies[index], skillData);
                     enemies.Remove(enemies[index]);
                 }
             }
            
         }
 
-        private void SpawnSkill(int damage, BaseEnemy meleeEnemy)
+        private void SpawnSkill(int damage, BaseEnemy meleeEnemy, SkillDataSO skillData)
         {
             var go = _pool.Request(Key);
                 
@@ -49,7 +49,8 @@ namespace RGame.RoguelikeKit
                 _pool.Return(go);
             });
                 
-            meleeEnemy.MyHit.Hit(damage);
+            var element = skillData.PrimaryElement != ElementType.None ? skillData.PrimaryElement : ElementCatalog.ForSkill(Key);
+            meleeEnemy.MyHit.Hit(damage, element, Key);
         }
 
         public override void MixSkill()

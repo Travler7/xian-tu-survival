@@ -35,7 +35,7 @@ namespace RGame.RoguelikeKit
         private void SpawnSkill(float angle, float velocity, int damage,SkillDataSO skillData)
         {
             var go = _pool.Request(Key);
-            var skill = go.GetComponent<FourCornerSkill>();
+            var skill = ConfigureSkill<FourCornerSkill>(go, skillData);
             skill.transform.position = _globalConfig.GlobalPlayer.transform.position;
             skill.transform.rotation = Quaternion.Euler(0,0,angle);
             skill.transform.localScale = skill.transform.localScale * (_stat.GetValue("Area") + skillData.Area) * 0.01f;

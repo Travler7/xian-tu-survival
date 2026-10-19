@@ -39,7 +39,7 @@ namespace RGame.RoguelikeKit
             if (other.CompareTag("EnemyHit"))
             {
                 Attack(other.transform.parent.GetComponent<BaseEnemy>());
-                other.GetComponent<EnemyHit>().Hit(GetDamage());
+                HitEnemy(other.GetComponent<EnemyHit>(), GetDamage());
                 OnDeath?.Invoke(this);
             }
         }

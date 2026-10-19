@@ -21,7 +21,7 @@ namespace RGame.RoguelikeKit
                 for (int i = 0; i < 16; i++)
                 {
                     var go = _pool.Request(Key);
-                    var skill = go.GetComponent<CircularAttackSkill>();
+                    var skill = ConfigureSkill<CircularAttackSkill>(go, skillData);
                 
                     skill.transform.position = _globalConfig.GlobalPlayer.transform.position;
                     skill.transform.localScale = skill.transform.localScale * (_stat.GetValue("Area") + skillData.Area) * 0.01f * 2f;
@@ -38,7 +38,7 @@ namespace RGame.RoguelikeKit
                 for (int i = 0; i < amount; i++)
                 {
                     var go = _pool.Request(Key);
-                    var skill = go.GetComponent<CircularAttackSkill>();
+                    var skill = ConfigureSkill<CircularAttackSkill>(go, skillData);
                 
                     skill.transform.position = _globalConfig.GlobalPlayer.transform.position;
                     skill.transform.localScale = skill.transform.localScale * (_stat.GetValue("Area") + skillData.Area) * 0.01f;

@@ -50,6 +50,8 @@ namespace RGame.RoguelikeKit
         public string MixAttributeSkillKey;         
         public AttributeType AttributeType;         
         public GameObject SkillPrefab;          
+        public ElementType PrimaryElement = ElementType.None;
+        public ElementType SecondaryElement = ElementType.None;
 
         public Sprite SkillIcon;         
         public float Velocity = 2.5f;         
@@ -79,6 +81,8 @@ namespace RGame.RoguelikeKit
             newSkillDataSo.MixAttributeSkillKey = MixAttributeSkillKey;             
             newSkillDataSo.SkillPrefab = SkillPrefab;             
             newSkillDataSo.SkillIcon = SkillIcon;             
+            newSkillDataSo.PrimaryElement = PrimaryElement;
+            newSkillDataSo.SecondaryElement = SecondaryElement;
             newSkillDataSo.Description = Description;
             newSkillDataSo.Velocity = this.Velocity;             
             newSkillDataSo.Duration = this.Duration;             

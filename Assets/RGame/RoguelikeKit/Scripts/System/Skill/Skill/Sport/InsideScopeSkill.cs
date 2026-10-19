@@ -31,7 +31,7 @@ namespace RGame.RoguelikeKit
                     if (_enemyHits[i] != null)
                     {
                         Attack(_enemyHits[i].transform.parent.GetComponent<BaseEnemy>());
-                        _enemyHits[i].Hit(_damage);
+                        HitEnemy(_enemyHits[i], _damage);
                     }
                 }
             }

@@ -27,6 +27,8 @@ namespace RGame.RoguelikeKit
             //Generate Player
             var player = Instantiate(mLevelAndCharacterSO.SelectCharacterSo.CharacterPrefab, transform.position, transform.rotation);
 
+            InnateRootRuntime.Set(mLevelAndCharacterSO.SelectCharacterSo.InnateRoot);
+
             mGlobalConfigSO.GlobalPlayer = player.GetComponent<Player>();
             
             var enemies = new GameObject("Enemies");

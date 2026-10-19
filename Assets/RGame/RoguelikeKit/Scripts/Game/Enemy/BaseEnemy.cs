@@ -107,6 +107,8 @@ namespace RGame.RoguelikeKit
 
         public virtual void Return()
         {
+            MyHit?.ClearElementMarks();
+        MyHit?.Corruption?.ResetState();
         }
     }
 

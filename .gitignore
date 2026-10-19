@@ -93,3 +93,19 @@ UpgradeLog.htm
 
 # Unity Assistant 本机状态
 /ProjectSettings/Packages/com.unity.ai.assistant/
+
+# 本地性能采样结果；测试场景和采样脚本仍纳入版本管理
+/ProfilerCaptures/
+
+# Unity 自动恢复场景
+/[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta
+
+# 当前项目的 Addressables 构建产物
+/[Aa]ssets/RGame/RoguelikeKit/AddressableAssetsData/Windows/
+/[Aa]ssets/RGame/RoguelikeKit/AddressableAssetsData/Windows.meta
+/[Aa]ssets/RGame/RoguelikeKit/AddressableAssetsData/link.xml
+/[Aa]ssets/RGame/RoguelikeKit/AddressableAssetsData/link.xml.meta
+
+# 旧版演示素材，仅保留在本地；后续展示素材另行整理
+/Media/

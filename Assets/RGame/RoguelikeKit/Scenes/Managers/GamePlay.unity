@@ -500,6 +500,8 @@ MonoBehaviour:
   playerSpawnSO: {fileID: 11400000, guid: 2780f268bc318574eb2d611c05a0de50, type: 2}
   startStageChannelSO: {fileID: 11400000, guid: 0d2e5c5d38a6fc944b4262bb84bdc5be, type: 2}
   gameWinChannelSO: {fileID: 11400000, guid: 342c5ed9afc9857488cb0d3c16eecbe4, type: 2}
+  gameOverChannelSO: {fileID: 11400000, guid: d86dc3257faac834ba7006982d2cc1dd, type: 2}
+  stageDuration: 720
   minSpawnRadius: 18
   maxSpawnRadius: 20
 --- !u!1 &94825684
@@ -9859,4 +9861,4 @@ SceneRoots:
   - {fileID: 756908611}
   - {fileID: 802702162}
   - {fileID: 1292734209}
-  - {fileID: 1376738674}
+  - {fileID: 1376738674}\n\n

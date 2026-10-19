@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Description: "\u91D1\u5149\u5316\u4F5C\u5251\u8F6E\u73AF\u8EAB\u98DE\u65CB\uFF0C\u6301\u7EED\u65A9\u51FB\u8FD1\u654C\u3002"
   SkillType: 0
+  PrimaryElement: 1
+  SecondaryElement: 0
   Key: CircularAttackSkill
   DisplayName: "\u91D1\u5149\u5251\u8F6E"
   MixAttributeSkillKey: Area

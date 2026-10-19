@@ -19,7 +19,7 @@ namespace RGame.RoguelikeKit
             for (int i = 0; i < amount && i< enemies.Count; i++)
             {
                 var go = _pool.Request(Key);
-                var skill = go.GetComponent<ToNearestSkill>();
+                var skill = ConfigureSkill<ToNearestSkill>(go, skillData);
 
                 if (skillData.CurrentState is SkillCurrentState.Mixed)
                 {

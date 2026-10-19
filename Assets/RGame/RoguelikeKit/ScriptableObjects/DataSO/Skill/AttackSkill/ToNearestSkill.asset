@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Description: "\u5FA1\u4F7F\u98DE\u5251\u8FFD\u8E2A\u6700\u8FD1\u654C\u4EBA\uFF0C\u5251\u5149\u547D\u4E2D\u540E\u7559\u4E0B\u661F\u75D5\u3002"
   SkillType: 0
+  PrimaryElement: 1
+  SecondaryElement: 0
   Key: ToNearestSkill
   DisplayName: "\u5FA1\u5251\u8BC0\xB7\u8FFD\u661F"
   MixAttributeSkillKey: Cooldown

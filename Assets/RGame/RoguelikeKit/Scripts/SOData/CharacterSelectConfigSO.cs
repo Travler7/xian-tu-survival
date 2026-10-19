@@ -15,5 +15,6 @@ namespace RGame.RoguelikeKit
         public Sprite BeginSkillImage;
         public GameObject CharacterPrefab;
         public int SellingPrice;
+        public InnateRootType InnateRoot = InnateRootType.None;
     }
 }

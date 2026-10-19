@@ -190,27 +190,27 @@ MonoBehaviour:
   m_FontFeatureTable:
     m_MultipleSubstitutionRecords: []
     m_LigatureSubstitutionRecords:
-    - m_ComponentGlyphIDs: 26000000ad000000
+    - m_ComponentGlyphIDs: 26000000ad000000u
       m_LigatureGlyphID: 1190
-    - m_ComponentGlyphIDs: 45000000a9000000
+    - m_ComponentGlyphIDs: 45000000a9000000u
       m_LigatureGlyphID: 667
-    - m_ComponentGlyphIDs: 45000000ad000000
+    - m_ComponentGlyphIDs: 45000000ad000000u
       m_LigatureGlyphID: 1055
-    - m_ComponentGlyphIDs: 45000000a8000000
+    - m_ComponentGlyphIDs: 45000000a8000000u
       m_LigatureGlyphID: 666
-    - m_ComponentGlyphIDs: 45000000ab000000
+    - m_ComponentGlyphIDs: 45000000ab000000u
       m_LigatureGlyphID: 1057
-    - m_ComponentGlyphIDs: 45000000aa000000
+    - m_ComponentGlyphIDs: 45000000aa000000u
       m_LigatureGlyphID: 669
-    - m_ComponentGlyphIDs: 45000000ac000000
+    - m_ComponentGlyphIDs: 45000000ac000000u
       m_LigatureGlyphID: 1178
-    - m_ComponentGlyphIDs: 47000000a9000000
+    - m_ComponentGlyphIDs: 47000000a9000000u
       m_LigatureGlyphID: 701
-    - m_ComponentGlyphIDs: 4f000000a9000000
+    - m_ComponentGlyphIDs: 4f000000a9000000u
       m_LigatureGlyphID: 1199
-    - m_ComponentGlyphIDs: 4f000000ba010000
+    - m_ComponentGlyphIDs: 4f000000ba010000u
       m_LigatureGlyphID: 744
-    - m_ComponentGlyphIDs: 4f000000ad000000
+    - m_ComponentGlyphIDs: 4f000000ad000000u
       m_LigatureGlyphID: 1201
     m_GlyphPairAdjustmentRecords:
     - m_FirstAdjustmentRecord:
@@ -2688,7 +2688,7 @@ Texture2D:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
   m_IsAlphaChannelOptional: 0
-  serializedVersion: 3
+  serializedVersion: 4
   m_Width: 1
   m_Height: 1
   m_CompleteImageSize: 1

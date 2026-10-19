@@ -37,6 +37,13 @@ namespace RGame.RoguelikeKit
             _mySkillData = skillData;
         }
 
+        protected T ConfigureSkill<T>(GameObject instance, SkillDataSO data) where T : SkillBase
+        {
+            var skill = instance.GetComponent<T>();
+            skill?.ConfigureFrom(data);
+            return skill;
+        }
+
         public virtual void MixSkill()
         {
             _mySkillData.CurrentState = SkillCurrentState.Mixed;

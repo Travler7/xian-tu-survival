@@ -67,7 +67,7 @@ namespace RGame.RoguelikeKit
             if (magic != null)
             {
                 float damage = stat?.GetValue("Attack") ?? 1f;
-              //  magic.Init(damage, direction);
+                magic.Init(Mathf.Max(1, Mathf.RoundToInt(damage)), direction);
             }
             
             return projectile;

@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Description: "\u53EC\u843D\u5929\u706B\u6D41\u661F\uFF0C\u968F\u673A\u9501\u5B9A\u654C\u4EBA\u8F70\u51FB\u3002"
   SkillType: 0
+  PrimaryElement: 4
+  SecondaryElement: 0
   Key: RandomSkill
   DisplayName: "\u5929\u706B\u6D41\u661F"
   MixAttributeSkillKey: Amount

@@ -138,6 +138,14 @@ namespace RGame.RoguelikeKit
             return activeSkills;
         }
 
+        public bool ApplyTribulationMutation(TribulationRewardDefinition reward)
+        {
+            if (reward == null || !_skillDataDictionary.TryGetValue(reward.RequiredSkillKey, out var data) || !_activeSkills.Contains(reward.RequiredSkillKey)) return false;
+            data.Amount += Mathf.Max(0, reward.AmountBonus);
+            data.Area += Mathf.Max(0, reward.AreaBonus);
+            return true;
+        }
+
         private void CreateSkill(string key)
         {
             _skillCastDictionary[key].Cast(_skillDataDictionary[key]);

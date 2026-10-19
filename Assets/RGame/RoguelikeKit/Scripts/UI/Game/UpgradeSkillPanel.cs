@@ -20,6 +20,7 @@ namespace RGame.RoguelikeKit
         private void OnDisable()
         {
             _upgradeSkillUIChannel.UnregisterListener(SkillUI);
+            PauseCoordinator.Release(this);
         }
 
         private void SkillUI(List<SkillDataSO> skills)
@@ -47,8 +48,10 @@ namespace RGame.RoguelikeKit
         
         public void Show()
         {
-            Time.timeScale = 0;
-            
+            // Register as a pause owner instead of writing timeScale, so an open tribulation
+            // or treasure panel keeps the world frozen after this card is picked.
+            PauseCoordinator.Acquire(this);
+
             _canvasGroup.alpha = 1f;
             _canvasGroup.interactable = true; 
             _canvasGroup.blocksRaycasts = true; 
@@ -59,7 +62,7 @@ namespace RGame.RoguelikeKit
             // Tear the UI down BEFORE applying the upgrade. If anything inside the
             // upgrade chain throws, the selection screen must not be left on screen
             // with the game already resumed.
-            Time.timeScale = 1;
+            PauseCoordinator.Release(this);
 
             _canvasGroup.alpha = 0f;
             _canvasGroup.interactable = false;

@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Description: "\u53EC\u5F15\u7075\u85E4\u7F20\u7F1A\u76EE\u6807\uFF0C\u85E4\u8513\u89E6\u654C\u540E\u7EE7\u7EED\u4F20\u52BF\u3002"
   SkillType: 0
+  PrimaryElement: 2
+  SecondaryElement: 0
   Key: ChainSkill
   DisplayName: "\u85E4\u7F1A\u8BC0"
   MixAttributeSkillKey: MoveSpeed

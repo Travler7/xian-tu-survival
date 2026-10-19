@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Description: "\u5C55\u5F00\u79BB\u706B\u9886\u57DF\uFF0C\u9886\u57DF\u5185\u6301\u7EED\u707C\u70E7\u5E76\u538B\u5236\u654C\u52BF\u3002"
   SkillType: 0
+  PrimaryElement: 4
+  SecondaryElement: 0
   Key: InsideScopeSkill
   DisplayName: "\u79BB\u706B\u9886\u57DF"
   MixAttributeSkillKey: SkillSpeed

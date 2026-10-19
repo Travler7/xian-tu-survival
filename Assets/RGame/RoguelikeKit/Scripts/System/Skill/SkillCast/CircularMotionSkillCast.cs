@@ -19,7 +19,7 @@ namespace RGame.RoguelikeKit
             for (int i = 0; i < amount; i++)
             {
                 var go = _pool.Request(Key);
-                var skill = go.GetComponent<CircularMotionSkill>();
+                var skill = ConfigureSkill<CircularMotionSkill>(go, skillData);
 
                 if (skillData.CurrentState is SkillCurrentState.Mixed)
                 {

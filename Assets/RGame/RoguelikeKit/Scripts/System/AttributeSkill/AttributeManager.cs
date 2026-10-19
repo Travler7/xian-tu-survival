@@ -11,7 +11,7 @@ namespace RGame.RoguelikeKit
 
         private void Awake()
         {
-            InitAttribute();
+            // Explicitly initialized by LevelManager after reset.
         }
 
         private void Start()
@@ -20,7 +20,7 @@ namespace RGame.RoguelikeKit
             
         }
 
-        private void InitAttribute()
+        public void ApplyPersistentAttributes()
         {
             _playerStat.ModifyValue("HP",_powerUpStat.GetValue("HPMax"),true);
             _playerStat.ModifyValue("HP",_powerUpStat.GetValue("HPMax"));

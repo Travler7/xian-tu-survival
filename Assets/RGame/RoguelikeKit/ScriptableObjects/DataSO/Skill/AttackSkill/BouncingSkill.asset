@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Description: "\u796D\u51FA\u51B0\u9B44\u7B26\uFF0C\u5BD2\u5203\u6298\u8FD4\u5F39\u5C04\u5E76\u51BB\u7ED3\u654C\u52BF\u3002"
   SkillType: 0
+  PrimaryElement: 3
+  SecondaryElement: 0
   Key: BouncingSkill
   DisplayName: "\u51B0\u9B44\u7B26"
   MixAttributeSkillKey: HPMax

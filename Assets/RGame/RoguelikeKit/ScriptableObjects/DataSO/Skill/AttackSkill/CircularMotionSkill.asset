@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Description: "\u5C71\u5CB3\u6CD5\u5370\u73AF\u7ED5\u62A4\u8EAB\uFF0C\u539A\u91CD\u7075\u538B\u9707\u9000\u6765\u654C\u3002"
   SkillType: 0
+  PrimaryElement: 5
+  SecondaryElement: 0
   Key: CircularMotionSkill
   DisplayName: "\u5C71\u5CB3\u62A4\u6CD5"
   MixAttributeSkillKey: Duration

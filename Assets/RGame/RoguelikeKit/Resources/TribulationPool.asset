@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42f23807433c84a40a58b92bb05a4409, type: 3}
+  m_Name: TribulationPool
+  m_EditorClassIdentifier: Assembly-CSharp:RGame.RoguelikeKit:TribulationPoolSO
+  Tribulations:
+  - Id: soul
+    DisplayName: "阴魂潮劫"
+    Description: "游魂潮汐压境，存活25秒。"
+    Pressure: 0
+    Duration: 25
+    Goal: 0
+    TargetCount: 1
+    DifficultyEffect: "基础刷怪预算 ×1.75，每5秒追加游魂波次"
+    EventSpawnSet: {fileID: 11400000, guid: 45e120986ae64aefa000000000000001, type: 2}
+    SpawnMultiplier: 1
+    RewardDirection: "获得功法质变或灵根觉醒"
+  - Id: silkworm
+    DisplayName: "金蚕噬灵劫"
+    Description: "远程敌群增援，击杀6个事件敌人。"
+    Pressure: 1
+    Duration: 25
+    Goal: 1
+    TargetCount: 6
+    DifficultyEffect: "基础刷怪预算 ×1.35，每5秒追加远程敌群"
+    EventSpawnSet: {fileID: 11400000, guid: 45e120986ae64aefa000000000000002, type: 2}
+    SpawnMultiplier: 1
+    RewardDirection: "获得功法质变或灵根觉醒"
+  - Id: frost
+    DisplayName: "寒魄封脉劫"
+    Description: "寒魄压境，击杀3个事件敌人或坚持到结束。"
+    Pressure: 2
+    Duration: 25
+    Goal: 2
+    TargetCount: 3
+    DifficultyEffect: "基础刷怪预算 ×1.30，每5秒追加寒魄敌群"
+    EventSpawnSet: {fileID: 11400000, guid: 45e120986ae64aefa000000000000003, type: 2}
+    SpawnMultiplier: 1
+    RewardDirection: "获得功法质变或灵根觉醒"
+  - Id: flame
+    DisplayName: "赤焰焚野劫"
+    Description: "赤焰敌群持续涌入，击杀24个敌人。"
+    Pressure: 0
+    Duration: 25
+    Goal: 3
+    TargetCount: 24
+    DifficultyEffect: "基础刷怪预算 ×1.75，每5秒追加赤焰敌群"
+    EventSpawnSet: {fileID: 11400000, guid: 45e120986ae64aefa000000000000004, type: 2}
+    SpawnMultiplier: 1
+    RewardDirection: "获得功法质变或灵根觉醒"
+  - Id: gear
+    DisplayName: "机关镇域劫"
+    Description: "强化敌人压境，击杀2个事件精英。"
+    Pressure: 3
+    Duration: 25
+    Goal: 4
+    TargetCount: 2
+    DifficultyEffect: "基础刷怪预算 ×1.20，每5秒追加精英敌人"
+    EventSpawnSet: {fileID: 11400000, guid: 45e120986ae64aefa000000000000005, type: 2}
+    SpawnMultiplier: 1
+    RewardDirection: "获得功法质变或灵根觉醒"
+  - Id: flow
+    DisplayName: "五行逆流劫"
+    Description: "元素敌群增援，触发5次五行反应。"
+    Pressure: 4
+    Duration: 25
+    Goal: 5
+    TargetCount: 5
+    DifficultyEffect: "基础刷怪预算 ×1.40，每5秒追加反应目标"
+    EventSpawnSet: {fileID: 11400000, guid: 45e120986ae64aefa000000000000006, type: 2}
+    SpawnMultiplier: 1
+    RewardDirection: "获得功法质变或灵根觉醒"

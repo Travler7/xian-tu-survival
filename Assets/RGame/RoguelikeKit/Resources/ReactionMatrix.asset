@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e13446300b0fbee4e8c3875a2d04408f, type: 3}
+  m_Name: ReactionMatrix
+  m_EditorClassIdentifier: Assembly-CSharp:RGame.RoguelikeKit:ReactionMatrixSO
+  _definitions:
+  - First: 1
+    Second: 2
+    ReactionName: "\u65AD\u751F"
+    Description: "\u91D1\u514B\u6728\uFF0C\u65AD\u7EDD\u751F\u673A\u3002\u5BF9\u76EE\u6807\u9020\u6210\u989D\u5916\u4F24\u5BB3\u5E76\u51CF\u901F\u3002"
+    RelationType: "\u91D1\u514B\u6728"
+    DirectDamageMultiplier: 0.6
+    AreaDamageMultiplier: 0
+    AreaRadius: 0
+    MaxAreaTargets: 0
+    DotDamageMultiplier: 0
+    DotTicks: 0
+    SlowPercent: 35
+    SlowDuration: 1
+    FreezeDuration: 0
+    SpreadMarkCount: 0
+    VfxPoolKey: ReactionVfx
+    PopupColor: {r: 1, g: 0.78, b: 0.18, a: 1}
+    AreaSlow: 0
+  - First: 1
+    Second: 4
+    ReactionName: "\u7194\u91D1"
+    Description: "\u706B\u514B\u91D1\uFF0C\u70C8\u7130\u7194\u5316\u62A4\u4F53\u91D1\u6C14\u3002\u5BF9\u76EE\u6807\u9020\u6210\u989D\u5916\u4F24\u5BB3\u5E76\u707C\u70E7\u3002"
+    RelationType: "\u706B\u514B\u91D1"
+    DirectDamageMultiplier: 0.6
+    AreaDamageMultiplier: 0
+    AreaRadius: 0
+    MaxAreaTargets: 0
+    DotDamageMultiplier: 0.25
+    DotTicks: 3
+    SlowPercent: 0
+    SlowDuration: 0
+    FreezeDuration: 0
+    SpreadMarkCount: 0
+    VfxPoolKey: ReactionVfx
+    PopupColor: {r: 1, g: 0.35, b: 0.08, a: 1}
+    AreaSlow: 0
+  - First: 1
+    Second: 3
+    ReactionName: "\u5BD2\u5203"
+    Description: "\u91D1\u751F\u6C34\uFF0C\u5BD2\u610F\u51DD\u6210\u950B\u5203\u3002\u5BF9\u76EE\u6807\u9020\u6210\u989D\u5916\u4F24\u5BB3\u5E76\u51BB\u7ED3\u3002"
+    RelationType: "\u91D1\u751F\u6C34"
+    DirectDamageMultiplier: 0.8
+    AreaDamageMultiplier: 0
+    AreaRadius: 0
+    MaxAreaTargets: 0
+    DotDamageMultiplier: 0
+    DotTicks: 0
+    SlowPercent: 0
+    SlowDuration: 0
+    FreezeDuration: 0.35
+    SpreadMarkCount: 0
+    VfxPoolKey: ReactionVfx
+    PopupColor: {r: 0.35, g: 0.82, b: 1, a: 1}
+    AreaSlow: 0
+  - First: 1
+    Second: 5
+    ReactionName: "\u91D1\u77F3\u5D29"
+    Description: "\u571F\u751F\u91D1\uFF0C\u91D1\u77F3\u53D7\u7075\u529B\u51B2\u51FB\u800C\u5D29\u88C2\u3002\u5BF9\u76EE\u6807\u548C\u9644\u8FD1\u654C\u4EBA\u9020\u6210\u4F24\u5BB3\u3002"
+    RelationType: "\u571F\u751F\u91D1"
+    DirectDamageMultiplier: 0.7
+    AreaDamageMultiplier: 0.35
+    AreaRadius: 1.5
+    MaxAreaTargets: 3
+    DotDamageMultiplier: 0
+    DotTicks: 0
+    SlowPercent: 0
+    SlowDuration: 0
+    FreezeDuration: 0
+    SpreadMarkCount: 0
+    VfxPoolKey: ReactionVfx
+    PopupColor: {r: 1, g: 0.72, b: 0.22, a: 1}
+    AreaSlow: 0
+  - First: 2
+    Second: 4
+    ReactionName: "\u71CE\u539F"
+    Description: "\u6728\u751F\u706B\uFF0C\u4F59\u7130\u501F\u52BF\u6269\u6563\u3002\u5BF9\u76EE\u6807\u9020\u6210\u7206\u53D1\u4F24\u5BB3\u5E76\u707C\u70E7\uFF0C\u540C\u65F6\u707C\u4F24\u9644\u8FD1\u654C\u7FA4\u3002"
+    RelationType: "\u6728\u751F\u706B"
+    DirectDamageMultiplier: 0.8
+    AreaDamageMultiplier: 0.45
+    AreaRadius: 1.75
+    MaxAreaTargets: 3
+    DotDamageMultiplier: 0.25
+    DotTicks: 3
+    SlowPercent: 0
+    SlowDuration: 0
+    FreezeDuration: 0
+    SpreadMarkCount: 1
+    VfxPoolKey: ReactionVfx
+    PopupColor: {r: 1, g: 0.2, b: 0.05, a: 1}
+    AreaSlow: 0
+  - First: 2
+    Second: 3
+    ReactionName: "\u6DA6\u6728"
+    Description: "\u6C34\u751F\u6728\uFF0C\u7075\u6DB2\u6ECB\u517B\u85E4\u6728\u3002\u5BF9\u76EE\u6807\u9020\u6210\u6301\u7EED\u4F24\u5BB3\u5E76\u51CF\u901F\u3002"
+    RelationType: "\u6C34\u751F\u6728"
+    DirectDamageMultiplier: 0.6
+    AreaDamageMultiplier: 0
+    AreaRadius: 0
+    MaxAreaTargets: 0
+    DotDamageMultiplier: 0.2
+    DotTicks: 3
+    SlowPercent: 45
+    SlowDuration: 1.5
+    FreezeDuration: 0
+    SpreadMarkCount: 0
+    VfxPoolKey: ReactionVfx
+    PopupColor: {r: 0.28, g: 0.95, b: 0.55, a: 1}
+    AreaSlow: 0
+  - First: 2
+    Second: 5
+    ReactionName: "\u6839\u88C2"
+    Description: "\u6728\u514B\u571F\uFF0C\u6839\u8109\u7834\u571F\u800C\u51FA\u3002\u5BF9\u76EE\u6807\u9020\u6210\u9AD8\u989D\u4F24\u5BB3\u5E76\u5F3A\u529B\u51CF\u901F\u3002"
+    RelationType: "\u6728\u514B\u571F"
+    DirectDamageMultiplier: 0.8
+    AreaDamageMultiplier: 0
+    AreaRadius: 0
+    MaxAreaTargets: 0
+    DotDamageMultiplier: 0
+    DotTicks: 0
+    SlowPercent: 70
+    SlowDuration: 1.25
+    FreezeDuration: 0
+    SpreadMarkCount: 0
+    VfxPoolKey: ReactionVfx
+    PopupColor: {r: 0.5, g: 1, b: 0.25, a: 1}
+    AreaSlow: 0
+  - First: 4
+    Second: 3
+    ReactionName: "\u84B8\u7206"
+    Description: "\u6C34\u514B\u706B\uFF0C\u51B7\u70ED\u76F8\u51B2\u9AA4\u7136\u7206\u88C2\u3002\u5BF9\u76EE\u6807\u548C\u9644\u8FD1\u654C\u4EBA\u9020\u6210\u8303\u56F4\u7206\u53D1\u5E76\u51CF\u901F\u3002"
+    RelationType: "\u6C34\u514B\u706B"
+    DirectDamageMultiplier: 0.8
+    AreaDamageMultiplier: 0.45
+    AreaRadius: 1.75
+    MaxAreaTargets: 3
+    DotDamageMultiplier: 0
+    DotTicks: 0
+    SlowPercent: 35
+    SlowDuration: 0.75
+    FreezeDuration: 0
+    SpreadMarkCount: 0
+    VfxPoolKey: ReactionVfx
+    PopupColor: {r: 1, g: 0.55, b: 0.25, a: 1}
+    AreaSlow: 0
+  - First: 4
+    Second: 5
+    ReactionName: "\u7194\u5CA9"
+    Description: "\u706B\u751F\u571F\uFF0C\u7194\u6D41\u9644\u7740\u5927\u5730\u3002\u5BF9\u76EE\u6807\u9020\u6210\u6301\u7EED\u707C\u70E7\u5E76\u51CF\u901F\u3002"
+    RelationType: "\u706B\u751F\u571F"
+    DirectDamageMultiplier: 0.7
+    AreaDamageMultiplier: 0
+    AreaRadius: 0
+    MaxAreaTargets: 0
+    DotDamageMultiplier: 0.25
+    DotTicks: 3
+    SlowPercent: 30
+    SlowDuration: 1.25
+    FreezeDuration: 0
+    SpreadMarkCount: 0
+    VfxPoolKey: ReactionVfx
+    PopupColor: {r: 1, g: 0.3, b: 0.08, a: 1}
+    AreaSlow: 0
+  - First: 3
+    Second: 5
+    ReactionName: "\u6CE5\u6CBC"
+    Description: "\u571F\u514B\u6C34\uFF0C\u6E7F\u571F\u5316\u4E3A\u6C89\u91CD\u6CE5\u6CBC\u3002\u5BF9\u76EE\u6807\u548C\u9644\u8FD1\u654C\u4EBA\u9020\u6210\u4F24\u5BB3\u5E76\u51CF\u901F\u3002"
+    RelationType: "\u571F\u514B\u6C34"
+    DirectDamageMultiplier: 0.7
+    AreaDamageMultiplier: 0.45
+    AreaRadius: 1.75
+    MaxAreaTargets: 3
+    DotDamageMultiplier: 0
+    DotTicks: 0
+    SlowPercent: 45
+    SlowDuration: 2
+    FreezeDuration: 0
+    SpreadMarkCount: 0
+    VfxPoolKey: ReactionVfx
+    PopupColor: {r: 0.72, g: 0.55, b: 0.25, a: 1}
+    AreaSlow: 1

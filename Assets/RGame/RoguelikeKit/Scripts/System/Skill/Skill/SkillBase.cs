@@ -15,6 +15,14 @@ namespace RGame.RoguelikeKit
         public UnityAction<SkillBase> OnDeath { get; set; }
         
         public string Key { get; set; }
+        private ElementType _configuredElement = ElementType.None;
+
+        public void ConfigureFrom(SkillDataSO data)
+        {
+            if (data == null) return;
+            Key = data.Key;
+            _configuredElement = data.PrimaryElement;
+        }
 
         public void Request()
         {
@@ -34,6 +42,17 @@ namespace RGame.RoguelikeKit
             {
                 _addBuffEvent.RaiseEvent(meleeEnemy, _baseBuff);
             }
+        }
+
+        protected void HitEnemy(EnemyHit enemyHit, int damage)
+        {
+            var element = _configuredElement != ElementType.None ? _configuredElement : ElementCatalog.ForSkill(Key);
+            enemyHit?.Hit(damage, element, Key);
+        }
+
+        protected void HitEnemy(EnemyHit enemyHit, int damage, ElementType element)
+        {
+            enemyHit?.Hit(damage, element, Key);
         }
     }
 }

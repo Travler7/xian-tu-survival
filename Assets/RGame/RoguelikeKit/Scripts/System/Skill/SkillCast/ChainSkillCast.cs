@@ -15,7 +15,7 @@ namespace RGame.RoguelikeKit
             for (int i = 0; i < amount; i++)
             {
                 var go = _pool.Request(Key);
-                var skill = go.GetComponent<ChainSkill>();
+                var skill = ConfigureSkill<ChainSkill>(go, skillData);
                 skill.transform.position = _globalConfig.GlobalPlayer.transform.position;
             
                 skill.OnDeath += HandleSkillDeath;

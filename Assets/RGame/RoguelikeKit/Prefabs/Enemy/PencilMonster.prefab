@@ -11,6 +11,9 @@ GameObject:
   - component: {fileID: 3141025931943161866}
   - component: {fileID: 4310479459899484466}
   - component: {fileID: 629180947154501313}
+  - component: {fileID: 7924054675087380601}
+  - component: {fileID: 706963918650626483}
+  - component: {fileID: 7654035922612372664}
   m_Layer: 0
   m_Name: EnemyHit
   m_TagString: EnemyHit
@@ -95,6 +98,42 @@ MonoBehaviour:
   _dissolveAnimationSO: {fileID: 11400000, guid: 3ccd4dace94dfac48b050e43d96bd9ef, type: 2}
   _spriteRenderers: {fileID: 7320638804464829806}
   poolRuntimeSo: {fileID: 11400000, guid: 52af97b42e2615f48803c999102a7193, type: 2}
+--- !u!114 &7924054675087380601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1092262337264809270}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a22a96f4b06a7a429b371537d75a3c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RGame.RoguelikeKit.ElementMarkController
+--- !u!114 &706963918650626483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1092262337264809270}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb3e38d2f88dd343b73d72685b5babf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RGame.RoguelikeKit.ElementMarkView
+--- !u!114 &7654035922612372664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1092262337264809270}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7256afa7d6453404ea7a8ddc492f4699, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RGame.RoguelikeKit.ElementReactionEffects
 --- !u!1 &4891556649173914339
 GameObject:
   m_ObjectHideFlags: 0
@@ -135,6 +174,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &7320638804464829806
 SpriteRenderer:
+  serializedVersion: 3
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -153,6 +193,8 @@ SpriteRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -174,9 +216,11 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 50
+  m_MaskInteraction: 0
   m_Sprite: {fileID: 5022662427138353668, guid: f7de7653634acee45862736e3dcbe48e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -186,8 +230,8 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+  m_BlendShapeWeights: []
 --- !u!50 &3575002168357006818
 Rigidbody2D:
   serializedVersion: 5
@@ -278,6 +322,8 @@ MonoBehaviour:
   _poolRuntime: {fileID: 11400000, guid: 52af97b42e2615f48803c999102a7193, type: 2}
   _dropKeys:
   - Exp40
+  enableTeleport: 1
+  teleportCooldown: 5
 --- !u!114 &1679567423752776994
 MonoBehaviour:
   m_ObjectHideFlags: 0

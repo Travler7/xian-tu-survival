@@ -1,7 +1,6 @@
 using System;
 using System.Collections.Generic;
 using RGame.Framework;
-using RGame.RoguelikeKit.RGame.RoguelikeKit;
 using UnityEngine;
 
 namespace RGame.RoguelikeKit

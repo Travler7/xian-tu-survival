@@ -16,6 +16,12 @@ namespace RGame.RoguelikeKit
 {
     public class SettingPanel : MonoBehaviour
     {
+        /// <summary>
+        /// Width of the prefab's authored row layout. Only used before the container has been
+        /// laid out once; after that rows follow the live canvas width.
+        /// </summary>
+        private const float ReferenceRowWidth = 1248f;
+
         [SerializeField] private SettingsSO _currentSettings;
         [SerializeField] private VoidEventChannelSO SaveSettingsEvent;
 
@@ -34,6 +40,9 @@ namespace RGame.RoguelikeKit
         public UnityAction Closed;
         private string[] localeDisplayNames;
         private string[] resolutionDisplayTexts;
+
+        private RectTransform _rowContainer;
+        private Vector2 _lastRowContainerSize;
 
         private void Awake()
         {
@@ -68,6 +77,22 @@ namespace RGame.RoguelikeKit
                 group.offsetMin = Vector2.zero;
                 group.offsetMax = Vector2.zero;
 
+                // The prefab carried a small non-zero size delta on top of its relative
+                // anchors, which made the content box drift away from the artwork frame.
+                group.sizeDelta = Vector2.zero;
+
+                // SettingGroup also ships a VerticalLayoutGroup. It re-drives the anchors of the
+                // row container whenever the canvas refreshes, which collapsed the rows back to
+                // their prefab size and defeated the responsive layout. Rows are positioned by
+                // ApplyFixedRowLayout, so the group must not manage them.
+                var groupLayout = group.GetComponent<VerticalLayoutGroup>();
+                if (groupLayout != null)
+                {
+                    groupLayout.enabled = false;
+                    if (Application.isPlaying) Destroy(groupLayout);
+                    else DestroyImmediate(groupLayout);
+                }
+
                 var contentBackground = group.Find("SettingsContentBackground") as RectTransform;
                 if (contentBackground == null)
                 {
@@ -82,18 +107,80 @@ namespace RGame.RoguelikeKit
             var rowContainer = transform.Find("SettingGroup/Setting Items") as RectTransform;
             if (rowContainer != null)
             {
-                // Restore the prefab's 1248x631 reference layout. The Canvas
-                // Scaler then keeps this composition stable at other sizes.
+                // Stretch horizontally inside SettingGroup and keep the 631px content
+                // height. Rows then inherit the live width instead of the old fixed 1248,
+                // so the layout survives non 16:9 aspect ratios (see ApplyFixedRowLayout).
                 rowContainer.anchorMin = new Vector2(0f, 1f);
-                rowContainer.anchorMax = new Vector2(0f, 1f);
-                rowContainer.pivot = new Vector2(0.5f, 0.5f);
-                rowContainer.anchoredPosition = new Vector2(624f, -315.5f);
-                rowContainer.sizeDelta = new Vector2(1248f, 631f);
+                rowContainer.anchorMax = new Vector2(1f, 1f);
+                rowContainer.pivot = new Vector2(0.5f, 1f);
+                rowContainer.offsetMin = new Vector2(0f, 0f);
+                rowContainer.offsetMax = new Vector2(0f, 0f);
+                rowContainer.sizeDelta = new Vector2(0f, 631f);
+                rowContainer.anchoredPosition = new Vector2(0f, 0f);
 
+                // The prefab ships a VerticalLayoutGroup on the row container. Disabling the
+                // component is not enough: Canvas.ForceUpdateCanvases() re-enables it, and the
+                // group then re-drives the children's anchors and collapses the container.
+                // Rows are positioned manually, so the autolayout has to be removed outright.
                 var layout = rowContainer.GetComponent<VerticalLayoutGroup>();
                 if (layout != null)
+                {
                     layout.enabled = false;
+                    if (Application.isPlaying) Destroy(layout);
+                    else DestroyImmediate(layout);
+                }
+
+                _rowContainer = rowContainer;
             }
+        }
+
+        private void OnEnable()
+        {
+            if (_rowContainer == null) return;
+
+            // Resolve the width from the container's anchors instead of forcing a layout
+            // rebuild: rebuilding here zeroes the rect when the object is not part of a live
+            // canvas yet, which used to leave every row at the prefab's fixed width.
+            _lastRowContainerSize = new Vector2(ResolveRowWidth(_rowContainer), 0f);
+            ApplyFixedRowLayout(_rowContainer);
+        }
+
+        private void OnRectTransformDimensionsChange()
+        {
+            RelayoutRowsIfNeeded();
+        }
+
+        /// <summary>
+        /// Rows are laid out from the container's live width, so a window that changes size
+        /// (or a resolution applied on Start) has to re-run the pass. This is cheap: it only
+        /// runs when the container width actually changed.
+        /// </summary>
+        private void RelayoutRowsIfNeeded()
+        {
+            if (_rowContainer == null) return;
+
+            // Use the anchoring-derived width, not rect: during a resize Unity calls this
+            // before the container has been laid out, and rect would still read zero.
+            float width = ResolveRowWidth(_rowContainer);
+            if (width <= 1f) return;
+            if (Mathf.Abs(width - _lastRowContainerSize.x) < 0.01f) return;
+
+            _lastRowContainerSize = new Vector2(width, _lastRowContainerSize.y);
+            ApplyFixedRowLayout(_rowContainer);
+        }
+
+        /// <summary>
+        /// Width the rows should use. The container stretches to its parent, so the parent's
+        /// rect is available as soon as the parent has been laid out, which is earlier and more
+        /// reliable than the container's own rect during a resize.
+        /// </summary>
+        private static float ResolveRowWidth(RectTransform rowContainer)
+        {
+            var parent = rowContainer.parent as RectTransform;
+            if (parent != null && parent.rect.width > 1f) return parent.rect.width;
+
+            float own = rowContainer.rect.width;
+            return own > 1f ? own : ReferenceRowWidth;
         }
 
         private void Start()
@@ -136,10 +223,15 @@ namespace RGame.RoguelikeKit
 
         private void ApplyFixedRowLayout(Transform rowContainer)
         {
-            const float rowWidth = 1248f;
             const float rowHeight = 64f;
             const float headerHeight = 26f;
             const float gap = 8f;
+
+            // Rows follow the container instead of a hard-coded 1248px. The canvas scaler
+            // matches height only, so a 4:3 window widens the canvas to 1440 while the
+            // panel keeps its relative anchors: a fixed row width then overflowed the frame
+            // and clipped the value labels off the right edge.
+            float rowWidth = rowContainer is RectTransform rect ? ResolveRowWidth(rect) : ReferenceRowWidth;
 
             var y = 0f;
             for (var i = 0; i < rowContainer.childCount; i++)
@@ -149,11 +241,15 @@ namespace RGame.RoguelikeKit
 
                 var isHeader = child.name.EndsWith("Header", StringComparison.Ordinal);
                 var height = isHeader ? headerHeight : rowHeight;
+                // Stretch horizontally: the anchoredPosition of a stretched rect is relative
+                // to its anchors' centre, which keeps the row centred without a magic offset.
                 child.anchorMin = new Vector2(0f, 1f);
-                child.anchorMax = new Vector2(0f, 1f);
+                child.anchorMax = new Vector2(1f, 1f);
                 child.pivot = new Vector2(0.5f, 0.5f);
-                child.sizeDelta = new Vector2(rowWidth, height);
-                child.anchoredPosition = new Vector2(rowWidth * 0.5f, -(y + height * 0.5f));
+                child.offsetMin = new Vector2(0f, child.offsetMin.y);
+                child.offsetMax = new Vector2(0f, child.offsetMax.y);
+                child.sizeDelta = new Vector2(0f, height);
+                child.anchoredPosition = new Vector2(0f, -(y + height * 0.5f));
                 y += height + gap;
             }
         }

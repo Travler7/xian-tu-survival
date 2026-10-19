@@ -5,7 +5,6 @@ using DG.Tweening;
 using RGame.CommonStat;
 using UnityEngine;
 using RGame.Framework;
-using RGame.RoguelikeKit.RGame.RoguelikeKit;
 using Random = UnityEngine.Random;
 
 namespace RGame.RoguelikeKit
@@ -17,6 +16,12 @@ namespace RGame.RoguelikeKit
     /// </summary>
     public class StageManager : MonoBehaviour
     {
+        public float ElapsedTime => _elapsed;
+        public float TribulationSpawnMultiplier { get; private set; } = 1f;
+        public event Action<BaseEnemy> EnemyKilled;
+        public event Action<BaseEnemy> TribulationEnemyKilled;
+        public event Action StageStarted;
+        public event Action StageEnded;
         [Header("Context")]
         [SerializeField] private PoolRuntimeSO poolRuntime;
         [SerializeField] private GlobalConfigSO globalConfig;
@@ -27,6 +32,8 @@ namespace RGame.RoguelikeKit
         [SerializeField] private PlayerSpawnChannelSO playerSpawnSO;
         [SerializeField] private StartStageEventChannelSO startStageChannelSO;
         [SerializeField] private VoidEventChannelSO gameWinChannelSO;
+        [SerializeField] private VoidEventChannelSO gameOverChannelSO;
+        [SerializeField] private float stageDuration = 720f;
 
         [Header("Spawn Distance (Random)")]
         [SerializeField] private float minSpawnRadius = 14f;
@@ -39,6 +46,9 @@ namespace RGame.RoguelikeKit
         private Transform _player;
         private int _aliveCount;
         private readonly Dictionary<SpawnSet, float> _accumulators = new();
+        private readonly HashSet<BaseEnemy> _finalBosses = new();
+        private readonly HashSet<BaseEnemy> _tribulationEnemies = new();
+        private bool _ended;
 
         private void Awake()
         {
@@ -69,15 +79,29 @@ namespace RGame.RoguelikeKit
             _spawnSetIndex = 0;
             _aliveCount = 0;
             _accumulators.Clear();
+            _finalBosses.Clear();
+            _tribulationEnemies.Clear();
+            _ended = false;
+            TribulationSpawnMultiplier = 1f;
+            StageStarted?.Invoke();
         }
 
         private void Update()
         {
-            if (_spawnSets == null || _spawnSets.Count == 0) return;
+            if (_spawnSets == null || _spawnSets.Count == 0 || _ended) return;
             _elapsed += Time.deltaTime;
+            if (_elapsed >= stageDuration)
+            {
+                _ended = true;
+                StopAllCoroutines();
+                StageEnded?.Invoke();
+                gameOverChannelSO?.RaiseEvent();
+                return;
+            }
 
             while (_spawnSetIndex < _spawnSets.Count &&
-                   _elapsed >= _spawnSets[_spawnSetIndex].StartTime)
+                   _elapsed >= _spawnSets[_spawnSetIndex].StartTime &&
+                   _spawnSets[_spawnSetIndex].StartTime < stageDuration)
             {
                 switch (_spawnSets[_spawnSetIndex].Pattern)
                 {
@@ -107,7 +131,7 @@ namespace RGame.RoguelikeKit
                 float intensity = spawnSet.IntensityCurve.Evaluate(t01);
                 float curseMul = statRuntime != null ? statRuntime.GetValue("Curse") * 0.01f : 1f;
 
-                float addBudget = set.BaseRatePerSecond * intensity * curseMul * Time.deltaTime;
+                float addBudget = set.BaseRatePerSecond * intensity * curseMul * TribulationSpawnMultiplier * Time.deltaTime;
                 _accumulators[set] += addBudget;
                 
                 while (_accumulators[set] >= 1f)
@@ -129,6 +153,8 @@ namespace RGame.RoguelikeKit
             go.transform.position = GetSpawnPosition();
             BaseEnemy enemy = go.GetComponent<BaseEnemy>();
             enemy.OnDeath += HandleEnemyDeath;
+            enemy.MyHit?.ConfigureCorruptionWard(set.Role);
+            if (IsFinalBoss(set)) _finalBosses.Add(enemy);
             enemySystem.AddEnemy(enemy);
             _aliveCount++;
         }
@@ -145,6 +171,8 @@ namespace RGame.RoguelikeKit
                 go.transform.position = enemies[i];
                 BaseEnemy enemy = go.GetComponent<BaseEnemy>();
                 enemy.OnDeath += HandleEnemyDeath;
+                enemy.MyHit?.ConfigureCorruptionWard(set.Role);
+                if (IsFinalBoss(set)) _finalBosses.Add(enemy);
                 enemySystem.AddEnemy(enemy);
             }
             _aliveCount += count;
@@ -162,6 +190,8 @@ namespace RGame.RoguelikeKit
                 go.transform.position = enemies[i];
                 BaseEnemy enemy = go.GetComponent<BaseEnemy>();
                 enemy.OnDeath += HandleEnemyDeath;
+                enemy.MyHit?.ConfigureCorruptionWard(set.Role);
+                if (IsFinalBoss(set)) _finalBosses.Add(enemy);
                 enemySystem.AddEnemy(enemy);
             }
             _aliveCount += count;
@@ -171,11 +201,47 @@ namespace RGame.RoguelikeKit
         {
             if (!enemy) return;
             enemy.OnDeath -= HandleEnemyDeath;
+            bool finalBoss = _finalBosses.Remove(enemy);
             enemySystem.RemoveEnemy(enemy);
             _aliveCount--;
             poolRuntime.Return(enemy.gameObject);
-            if (_aliveCount <= 0 && _spawnSetIndex >= _spawnSets.Count)
-                gameWinChannelSO.RaiseEvent();
+            EnemyKilled?.Invoke(enemy);
+            if (_tribulationEnemies.Remove(enemy)) TribulationEnemyKilled?.Invoke(enemy);
+            if (!_ended && finalBoss)
+            {
+                _ended = true;
+                StopAllCoroutines();
+                StageEnded?.Invoke();
+                gameWinChannelSO?.RaiseEvent();
+            }
+        }
+
+        /// <summary>Spawns a temporary event wave without mutating StageConfig.</summary>
+        public void SpawnTribulationSet(SpawnSet set, int multiplier = 1)
+        {
+            if (set == null || _player == null || _ended) return;
+            var before = new HashSet<BaseEnemy>(enemySystem.GetEnemies());
+            int count = Mathf.Max(1, set.Count) * Mathf.Max(1, multiplier);
+            switch (set.Pattern)
+            {
+                case SpawnPatternType.Circle: CircleSpawnEnemy(set, count); break;
+                case SpawnPatternType.Dense: DenseSpawnEnemy(set, count); break;
+                default:
+                    for (int i = 0; i < count; i++) RandomSpawnEnemy(set);
+                    break;
+            }
+            foreach (var enemy in enemySystem.GetEnemies())
+                if (enemy != null && !before.Contains(enemy)) _tribulationEnemies.Add(enemy);
+        }
+
+        public void SetTribulationSpawnMultiplier(float multiplier)
+        {
+            TribulationSpawnMultiplier = Mathf.Clamp(multiplier, 1f, 2f);
+        }
+
+        public void ClearTribulationEnemyTracking()
+        {
+            _tribulationEnemies.Clear();
         }
 
         private Vector3 GetSpawnPosition()
@@ -259,6 +325,20 @@ namespace RGame.RoguelikeKit
             }
             enemySystem.ClearEnemies();
             _aliveCount = 0;
+            _finalBosses.Clear();
+            _tribulationEnemies.Clear();
         }
+
+        private static bool IsFinalBoss(SpawnSet set) => set != null && set.Role == SpawnSetRole.FinalBoss;
+
+#if UNITY_EDITOR
+        public void EditorJumpToTime(float seconds)
+        {
+            if (_spawnSets == null) return;
+            _elapsed = Mathf.Clamp(seconds, 0f, stageDuration);
+            _spawnSetIndex = 0;
+            while (_spawnSetIndex < _spawnSets.Count && _spawnSets[_spawnSetIndex].StartTime < _elapsed) _spawnSetIndex++;
+        }
+#endif
     }
 }

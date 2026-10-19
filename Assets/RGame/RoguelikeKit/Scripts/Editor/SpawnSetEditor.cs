@@ -1,7 +1,6 @@
 #if UNITY_EDITOR
 using UnityEditor;
 using UnityEngine;
-using RGame.RoguelikeKit.RGame.RoguelikeKit;
 using RGame.Framework;
 
 namespace RGame.RoguelikeKit

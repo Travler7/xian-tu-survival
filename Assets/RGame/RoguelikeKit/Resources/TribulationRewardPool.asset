@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be2aed18fdd5fb34eba977681f7f4918, type: 3}
+  m_Name: TribulationRewardPool
+  m_EditorClassIdentifier: Assembly-CSharp:RGame.RoguelikeKit:TribulationRewardPoolSO
+  Rewards:
+  - Id: burning
+    DisplayName: "燎原增幅"
+    Description: "木火反应范围扩大，灼烧额外持续一次。"
+    Kind: 0
+    RequiredSkillKey: InsideScopeSkill
+    AmountBonus: 0
+    AreaBonus: 1
+    Root: 0
+  - Id: echo
+    DisplayName: "寒刃回响"
+    Description: "寒刃冻结结束后，强化后续控制。"
+    Kind: 0
+    RequiredSkillKey: BouncingSkill
+    AmountBonus: 1
+    AreaBonus: 0
+    Root: 0
+  - Id: metal
+    DisplayName: "金灵根觉醒"
+    Description: "元素印记持续时间延长。"
+    Kind: 1
+    RequiredSkillKey: 
+    AmountBonus: 0
+    AreaBonus: 0
+    Root: 1
+  - Id: wood
+    DisplayName: "木灵根觉醒"
+    Description: "木元素参与反应时强化反应伤害。"
+    Kind: 1
+    RequiredSkillKey: 
+    AmountBonus: 0
+    AreaBonus: 0
+    Root: 2
+  - Id: water
+    DisplayName: "水灵根觉醒"
+    Description: "水元素参与控制反应时延长控制。"
+    Kind: 1
+    RequiredSkillKey: 
+    AmountBonus: 0
+    AreaBonus: 0
+    Root: 3
+  - Id: fire
+    DisplayName: "火灵根觉醒"
+    Description: "火元素反应的灼烧伤害提高。"
+    Kind: 1
+    RequiredSkillKey: 
+    AmountBonus: 0
+    AreaBonus: 0
+    Root: 4
+  - Id: earth
+    DisplayName: "土灵根觉醒"
+    Description: "范围反应的伤害和影响范围提高。"
+    Kind: 1
+    RequiredSkillKey: 
+    AmountBonus: 0
+    AreaBonus: 0
+    Root: 5

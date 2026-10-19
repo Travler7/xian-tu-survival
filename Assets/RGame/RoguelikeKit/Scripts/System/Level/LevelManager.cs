@@ -15,11 +15,14 @@ namespace RGame.RoguelikeKit
         [SerializeField] private VoidEventChannelSO _levelUpgradeChannel;
         [SerializeField] private PoolRuntimeSO _poolRuntime;
         [SerializeField] private ExpConfig expConfig;
+        [SerializeField] private AttributeManager _attributeManager;
 
         private void Start()
         {
             _globalConfig.OnGameStart();
             _stat.ResetAllValues();
+            if (_attributeManager == null) _attributeManager = FindFirstObjectByType<AttributeManager>();
+            _attributeManager?.ApplyPersistentAttributes();
             _stat.AddAction("Exp",ExpChange);
         }
 

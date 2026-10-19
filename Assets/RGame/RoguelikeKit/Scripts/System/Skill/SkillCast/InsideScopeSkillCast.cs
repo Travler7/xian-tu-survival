@@ -11,7 +11,7 @@ namespace RGame.RoguelikeKit
             int damage = (int)(_stat.GetValue("Might") * skillData.Damage * 0.01f) + 1;
 
             var go = _pool.Request(Key);
-            var skill = go.GetComponent<InsideScopeSkill>();
+            var skill = ConfigureSkill<InsideScopeSkill>(go, skillData);
 
             if (skillData.CurrentState is SkillCurrentState.Mixed)
             {

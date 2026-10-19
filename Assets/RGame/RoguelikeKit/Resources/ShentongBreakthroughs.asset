@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShentongBreakthroughs
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a8b2c4d6e7f4093a5b6c8d0e2f41739, type: 3}
+  Definitions:
+  - Id: shentong_burning
+    DisplayName: "燎原·焚野"
+    Description: "燎原范围扩大25%，灼烧额外持续一次。"
+    First: 2
+    Second: 4
+    AreaRadiusMultiplier: 1.25
+    AreaDamageMultiplier: 1
+    DotTickBonus: 1
+    FreezeFollowupDuration: 0
+    SlowAreaDurationBonus: 0
+    SlowDurationBonus: 0
+  - Id: shentong_frost
+    DisplayName: "寒刃·回响"
+    Description: "寒刃冻结结束后，对附近敌人施加短暂减速。"
+    First: 1
+    Second: 3
+    AreaRadiusMultiplier: 1
+    AreaDamageMultiplier: 1
+    DotTickBonus: 0
+    FreezeFollowupDuration: 0.5
+    SlowAreaDurationBonus: 0
+    SlowDurationBonus: 0
+  - Id: shentong_stone
+    DisplayName: "金石·余震"
+    Description: "金石崩触发后产生一次小范围余震。"
+    First: 1
+    Second: 5
+    AreaRadiusMultiplier: 1.2
+    AreaDamageMultiplier: 1.35
+    DotTickBonus: 0
+    FreezeFollowupDuration: 0
+    SlowAreaDurationBonus: 0
+    SlowDurationBonus: 0
+  - Id: shentong_mud
+    DisplayName: "泥沼·沉陷"
+    Description: "泥沼减速区域延长1秒。"
+    First: 3
+    Second: 5
+    AreaRadiusMultiplier: 1
+    AreaDamageMultiplier: 1
+    DotTickBonus: 0
+    FreezeFollowupDuration: 0
+    SlowAreaDurationBonus: 1
+    SlowDurationBonus: 0
+  - Id: shentong_steam
+    DisplayName: "蒸爆·回潮"
+    Description: "蒸爆范围扩大，冷热冲击的爆发伤害提高。"
+    First: 4
+    Second: 3
+    AreaRadiusMultiplier: 1.2
+    AreaDamageMultiplier: 1.15
+    DotTickBonus: 0
+    FreezeFollowupDuration: 0
+    SlowAreaDurationBonus: 0
+    SlowDurationBonus: 0
+    ReactionDamageMultiplier: 1.1
+  - Id: shentong_lava
+    DisplayName: "熔岩·地火"
+    Description: "熔岩灼烧额外持续一次，减速时间延长。"
+    First: 4
+    Second: 5
+    AreaRadiusMultiplier: 1
+    AreaDamageMultiplier: 1
+    DotTickBonus: 1
+    FreezeFollowupDuration: 0
+    SlowAreaDurationBonus: 0
+    SlowDurationBonus: 0.5
+  - Id: shentong_breaklife
+    DisplayName: "断生·枯荣"
+    Description: "断生的减速持续更久，并强化反应伤害。"
+    First: 1
+    Second: 2
+    AreaRadiusMultiplier: 1
+    AreaDamageMultiplier: 1
+    DotTickBonus: 0
+    FreezeFollowupDuration: 0
+    SlowAreaDurationBonus: 0
+    SlowDurationBonus: 0.5
+    ReactionDamageMultiplier: 1.1
+  - Id: shentong_moisture
+    DisplayName: "润木·回生"
+    Description: "润木灼烧额外持续一次，持续伤害提高。"
+    First: 2
+    Second: 3
+    AreaRadiusMultiplier: 1
+    AreaDamageMultiplier: 1
+    DotTickBonus: 1
+    FreezeFollowupDuration: 0
+    SlowAreaDurationBonus: 0
+    SlowDurationBonus: 0
+    ReactionDamageMultiplier: 1.1
+  - Id: shentong_moltenmetal
+    DisplayName: "熔金·淬火"
+    Description: "熔金灼烧额外持续一次，并强化反应伤害。"
+    First: 1
+    Second: 4
+    AreaRadiusMultiplier: 1
+    AreaDamageMultiplier: 1
+    DotTickBonus: 1
+    FreezeFollowupDuration: 0
+    SlowAreaDurationBonus: 0
+    SlowDurationBonus: 0
+    ReactionDamageMultiplier: 1.1
+  - Id: shentong_rootbreak
+    DisplayName: "根裂·破土"
+    Description: "根裂的强力减速持续更久，并强化反应伤害。"
+    First: 2
+    Second: 5
+    AreaRadiusMultiplier: 1
+    AreaDamageMultiplier: 1
+    DotTickBonus: 0
+    FreezeFollowupDuration: 0
+    SlowAreaDurationBonus: 0
+    SlowDurationBonus: 0.5
+    ReactionDamageMultiplier: 1.1
+  - Id: shentong_wuxing
+    DisplayName: "五行·贯通"
+    Description: "五行反应伤害提高15%。"
+    First: 0
+    Second: 0
+    AreaRadiusMultiplier: 1
+    AreaDamageMultiplier: 1
+    DotTickBonus: 0
+    FreezeFollowupDuration: 0
+    SlowAreaDurationBonus: 0
+    SlowDurationBonus: 0
+    ReactionDamageMultiplier: 1.15

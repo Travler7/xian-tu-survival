@@ -24,8 +24,13 @@ namespace RGame.RoguelikeKit
         /// <param name="damage">Damage value to display.</param>
         public void Show(Vector3 position, int damage)
         {
+            Show(position, damage, _originalColor);
+        }
+
+        public void Show(Vector3 position, int damage, Color color)
+        {
             this.transform.position = position;
-            _textMesh.color = _originalColor;
+            _textMesh.color = color;
             Initialize(damage);
         }
 
@@ -69,6 +74,7 @@ namespace RGame.RoguelikeKit
         public void Return()
         {
             _elapsed = 0;
+            _textMesh.color = _originalColor;
         }
     }
 

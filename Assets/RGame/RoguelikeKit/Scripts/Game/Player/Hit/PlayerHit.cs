@@ -46,8 +46,15 @@ namespace RGame.RoguelikeKit
                 {
                     var material = spriteRenderer.material;
                     
-                    material.DOFloat(0f, "_Alpha", 0.2f)
-                        .SetEase(Ease.Linear);
+                    if (material.HasProperty("_Alpha"))
+                    {
+                        material.DOFloat(0f, "_Alpha", 0.2f).SetEase(Ease.Linear);
+                    }
+                    else if (material.HasProperty("_Color"))
+                    {
+                        Color color = material.color;
+                        material.DOColor(new Color(color.r, color.g, color.b, 0f), "_Color", 0.2f).SetEase(Ease.Linear);
+                    }
                 }
 
                 _shadowSpriteRenderer.DOFade(0, 0.8f).OnComplete(() =>

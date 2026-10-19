@@ -18,3 +18,4 @@ MonoBehaviour:
   BeginSkillImage: {fileID: 21300000, guid: e7b4233b5e4686e44a782762b1603d11, type: 3}
   CharacterPrefab: {fileID: 6482655462957775351, guid: 89982d990a4caba4e8cf6082bc5e39e2, type: 3}
   SellingPrice: 0
+  InnateRoot: 1

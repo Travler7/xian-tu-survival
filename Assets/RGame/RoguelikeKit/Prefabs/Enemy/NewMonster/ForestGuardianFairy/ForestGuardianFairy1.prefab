@@ -259,6 +259,9 @@ GameObject:
   - component: {fileID: 4180823827510209304}
   - component: {fileID: 107985148635716851}
   - component: {fileID: 3116933826416822163}
+  - component: {fileID: 10937997442842721}
+  - component: {fileID: 7019944783739647480}
+  - component: {fileID: 6870243970527633535}
   m_Layer: 0
   m_Name: EnemyHit
   m_TagString: EnemyHit
@@ -343,3 +346,39 @@ MonoBehaviour:
   _dissolveAnimationSO: {fileID: 11400000, guid: 3ccd4dace94dfac48b050e43d96bd9ef, type: 2}
   _spriteRenderers: {fileID: 5627876345344359991}
   poolRuntimeSo: {fileID: 11400000, guid: 52af97b42e2615f48803c999102a7193, type: 2}
+--- !u!114 &10937997442842721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7617256363453877682}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a22a96f4b06a7a429b371537d75a3c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RGame.RoguelikeKit.ElementMarkController
+--- !u!114 &7019944783739647480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7617256363453877682}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb3e38d2f88dd343b73d72685b5babf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RGame.RoguelikeKit.ElementMarkView
+--- !u!114 &6870243970527633535
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7617256363453877682}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7256afa7d6453404ea7a8ddc492f4699, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RGame.RoguelikeKit.ElementReactionEffects

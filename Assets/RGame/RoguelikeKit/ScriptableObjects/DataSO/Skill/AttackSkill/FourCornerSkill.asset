@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Description: "\u56DB\u8C61\u9635\u5370\u5206\u9547\u56DB\u65B9\uFF0C\u9635\u4E2D\u7075\u5149\u540C\u65F6\u8D2F\u7A7F\u654C\u7FA4\u3002"
   SkillType: 0
+  PrimaryElement: 5
+  SecondaryElement: 0
   Key: FourCornerSkill
   DisplayName: "\u56DB\u8C61\u9547\u7075\u9635"
   MixAttributeSkillKey: Might

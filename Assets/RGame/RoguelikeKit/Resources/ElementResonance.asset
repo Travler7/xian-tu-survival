@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ElementResonance
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c8d0f9d4a2c4f2c8c3e0d2f2a3b4c5d, type: 3}
+  Definitions:
+  - Id: resonance_metal
+    DisplayName: "金鸣"
+    Description: "金气连击达到阈值，造成额外伤害并短暂破势。"
+    Element: 1
+    Threshold: 5
+    SourceCooldown: 0.25
+    ResonanceCooldown: 4
+    DirectDamageMultiplier: 0.25
+    AreaDamageMultiplier: 0
+    AreaRadius: 0
+    MaxAreaTargets: 0
+    DotDamageMultiplier: 0
+    DotTicks: 0
+    SlowPercent: 20
+    SlowDuration: 0.5
+    FreezeDuration: 0
+    VfxPoolKey: ReactionVfx
+    PopupColor: {r: 1, g: 0.86, b: 0.3, a: 1}
+  - Id: resonance_wood
+    DisplayName: "木生"
+    Description: "木灵积势，余韵化为持续灼伤。"
+    Element: 2
+    Threshold: 5
+    SourceCooldown: 0.25
+    ResonanceCooldown: 4
+    DirectDamageMultiplier: 0.2
+    AreaDamageMultiplier: 0
+    AreaRadius: 0
+    MaxAreaTargets: 0
+    DotDamageMultiplier: 0.15
+    DotTicks: 2
+    SlowPercent: 0
+    SlowDuration: 0
+    FreezeDuration: 0
+    VfxPoolKey: ReactionVfx
+    PopupColor: {r: 0.3, g: 1, b: 0.45, a: 1}
+  - Id: resonance_water
+    DisplayName: "水澜"
+    Description: "水势回环，寒潮使目标短暂凝滞。"
+    Element: 3
+    Threshold: 5
+    SourceCooldown: 0.25
+    ResonanceCooldown: 4
+    DirectDamageMultiplier: 0.25
+    AreaDamageMultiplier: 0
+    AreaRadius: 0
+    MaxAreaTargets: 0
+    DotDamageMultiplier: 0
+    DotTicks: 0
+    SlowPercent: 0
+    SlowDuration: 0
+    FreezeDuration: 0.15
+    VfxPoolKey: ReactionVfx
+    PopupColor: {r: 0.35, g: 0.8, b: 1, a: 1}
+  - Id: resonance_fire
+    DisplayName: "焚脉"
+    Description: "火势贯体，灼烧并波及近处敌群。"
+    Element: 4
+    Threshold: 5
+    SourceCooldown: 0.25
+    ResonanceCooldown: 4
+    DirectDamageMultiplier: 0.25
+    AreaDamageMultiplier: 0.3
+    AreaRadius: 1.25
+    MaxAreaTargets: 2
+    DotDamageMultiplier: 0.2
+    DotTicks: 3
+    SlowPercent: 0
+    SlowDuration: 0
+    FreezeDuration: 0
+    VfxPoolKey: ReactionVfx
+    PopupColor: {r: 1, g: 0.25, b: 0.05, a: 1}
+  - Id: resonance_earth
+    DisplayName: "厚土"
+    Description: "土势凝实，震荡近处敌人并减缓其行动。"
+    Element: 5
+    Threshold: 5
+    SourceCooldown: 0.25
+    ResonanceCooldown: 4
+    DirectDamageMultiplier: 0.35
+    AreaDamageMultiplier: 0.35
+    AreaRadius: 1.35
+    MaxAreaTargets: 3
+    DotDamageMultiplier: 0
+    DotTicks: 0
+    SlowPercent: 20
+    SlowDuration: 0.75
+    FreezeDuration: 0
+    VfxPoolKey: ReactionVfx
+    PopupColor: {r: 0.82, g: 0.62, b: 0.28, a: 1}
